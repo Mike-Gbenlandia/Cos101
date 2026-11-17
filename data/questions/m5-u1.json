@@ -1,0 +1,1490 @@
+[
+  {
+    "id": "m5-u1-q001",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "basic-internet-concepts",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Internet is one of the most transformative technologies of the modern ____.",
+    "acceptedAnswers": [
+      "world"
+    ]
+  },
+  {
+    "id": "m5-u1-q002",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "basic-internet-concepts",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Internet has become an essential part of everyday ____.",
+    "acceptedAnswers": [
+      "life"
+    ]
+  },
+  {
+    "id": "m5-u1-q003",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "basic-internet-concepts",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Internet connects people, devices, and ____.",
+    "acceptedAnswers": [
+      "information"
+    ]
+  },
+  {
+    "id": "m5-u1-q004",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "basic-internet-concepts",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Internet has changed the way people learn, work, communicate, and access ____.",
+    "acceptedAnswers": [
+      "services"
+    ]
+  },
+  {
+    "id": "m5-u1-q005",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "basic-internet-concepts",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Internet enables devices to exchange data and share ____.",
+    "acceptedAnswers": [
+      "resources"
+    ]
+  },
+  {
+    "id": "m5-u1-q006",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "basic-internet-concepts",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Internet relies on standard communication ____.",
+    "acceptedAnswers": [
+      "protocols"
+    ]
+  },
+  {
+    "id": "m5-u1-q007",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "basic-internet-concepts",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The standard communication protocols used by the Internet include especially ____/IP.",
+    "acceptedAnswers": [
+      "TCP"
+    ]
+  },
+  {
+    "id": "m5-u1-q008",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "basic-internet-concepts",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Internet enables users to share resources such as websites, email, files, and online ____.",
+    "acceptedAnswers": [
+      "services"
+    ]
+  },
+  {
+    "id": "m5-u1-q009",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "An Internet address is a unique identifier used to locate and access a ____ on the Internet.",
+    "acceptedAnswers": [
+      "resource"
+    ]
+  },
+  {
+    "id": "m5-u1-q010",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "An Internet address tells a computer where to find a particular website, server, or ____.",
+    "acceptedAnswers": [
+      "service"
+    ]
+  },
+  {
+    "id": "m5-u1-q011",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "An Internet address is the location of something on the ____.",
+    "acceptedAnswers": [
+      "Internet"
+    ]
+  },
+  {
+    "id": "m5-u1-q012",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "urls-and-domain-names",
+    "confidence": "high",
+    "type": "gap",
+    "question": "An Internet address can be an IP address or a web address known as a ____.",
+    "acceptedAnswers": [
+      "URL"
+    ]
+  },
+  {
+    "id": "m5-u1-q013",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "An IP address is a numerical label assigned to each device connected to a ____.",
+    "acceptedAnswers": [
+      "network"
+    ]
+  },
+  {
+    "id": "m5-u1-q014",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "An IP address identifies each device and its ____ on the network.",
+    "acceptedAnswers": [
+      "location"
+    ]
+  },
+  {
+    "id": "m5-u1-q015",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A public IP address is assigned by an Internet Service ____.",
+    "acceptedAnswers": [
+      "Provider"
+    ]
+  },
+  {
+    "id": "m5-u1-q016",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A public IP address is a globally unique, internet-facing ____.",
+    "acceptedAnswers": [
+      "identifier"
+    ]
+  },
+  {
+    "id": "m5-u1-q017",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A public IP address is assigned to a ____ to allow a network to communicate across the Internet.",
+    "acceptedAnswers": [
+      "router"
+    ]
+  },
+  {
+    "id": "m5-u1-q018",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A private IP address is a non-internet-____ address.",
+    "acceptedAnswers": [
+      "routable"
+    ]
+  },
+  {
+    "id": "m5-u1-q019",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A private IP address is assigned to devices within a local network, or ____.",
+    "acceptedAnswers": [
+      "LAN"
+    ]
+  },
+  {
+    "id": "m5-u1-q020",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Private IP addresses allow devices within a local network to communicate with each other without direct ____ access.",
+    "acceptedAnswers": [
+      "internet"
+    ]
+  },
+  {
+    "id": "m5-u1-q021",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Private IP addresses are assigned by a ____.",
+    "acceptedAnswers": [
+      "router"
+    ]
+  },
+  {
+    "id": "m5-u1-q022",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Network Address Translation is abbreviated as ____.",
+    "acceptedAnswers": [
+      "NAT"
+    ]
+  },
+  {
+    "id": "m5-u1-q023",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "isps-and-internet-terminology",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A dynamic IP address is a temporary network address automatically assigned to a device by an ISP or ____.",
+    "acceptedAnswers": [
+      "router"
+    ]
+  },
+  {
+    "id": "m5-u1-q024",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Dynamic IP addresses use the Dynamic Host Configuration ____.",
+    "acceptedAnswers": [
+      "Protocol"
+    ]
+  },
+  {
+    "id": "m5-u1-q025",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "DHCP stands for Dynamic Host Configuration ____.",
+    "acceptedAnswers": [
+      "Protocol"
+    ]
+  },
+  {
+    "id": "m5-u1-q026",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A dynamic IP address may change periodically or upon ____.",
+    "acceptedAnswers": [
+      "reconnection"
+    ]
+  },
+  {
+    "id": "m5-u1-q027",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A static IP address is a permanent, ____ numerical label assigned to a device or server.",
+    "acceptedAnswers": [
+      "unchanging"
+    ]
+  },
+  {
+    "id": "m5-u1-q028",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A static IP address is essential for consistent remote ____.",
+    "acceptedAnswers": [
+      "access"
+    ]
+  },
+  {
+    "id": "m5-u1-q029",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Static IP addresses are useful for hosting websites, mail servers, or ____ services.",
+    "acceptedAnswers": [
+      "VoIP"
+    ]
+  },
+  {
+    "id": "m5-u1-q030",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "There are two main, active versions of IP addresses: IPv4 and ____.",
+    "acceptedAnswers": [
+      "IPv6"
+    ]
+  },
+  {
+    "id": "m5-u1-q031",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "IPv4 uses a ____-bit address format.",
+    "acceptedAnswers": [
+      "32"
+    ]
+  },
+  {
+    "id": "m5-u1-q032",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "IPv6 uses a ____-bit address format.",
+    "acceptedAnswers": [
+      "128"
+    ]
+  },
+  {
+    "id": "m5-u1-q033",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "IPv4 uses a decimal ____.",
+    "acceptedAnswers": [
+      "format"
+    ]
+  },
+  {
+    "id": "m5-u1-q034",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "IPv6 uses a hexadecimal ____.",
+    "acceptedAnswers": [
+      "format"
+    ]
+  },
+  {
+    "id": "m5-u1-q035",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "IPv6 was developed to provide a vastly larger address ____.",
+    "acceptedAnswers": [
+      "space"
+    ]
+  },
+  {
+    "id": "m5-u1-q036",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "IPv4 and IPv6 can coexist through techniques like ____-stacking.",
+    "acceptedAnswers": [
+      "dual"
+    ]
+  },
+  {
+    "id": "m5-u1-q037",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "urls-and-domain-names",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A URL stands for Uniform Resource ____.",
+    "acceptedAnswers": [
+      "Locator"
+    ]
+  },
+  {
+    "id": "m5-u1-q038",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "urls-and-domain-names",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A URL specifies the exact location of a ____ on the Internet.",
+    "acceptedAnswers": [
+      "resource"
+    ]
+  },
+  {
+    "id": "m5-u1-q039",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "urls-and-domain-names",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A URL can identify a web page, image, or ____.",
+    "acceptedAnswers": [
+      "file"
+    ]
+  },
+  {
+    "id": "m5-u1-q040",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "urls-and-domain-names",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A URL usually contains a protocol, a domain name, and sometimes a ____.",
+    "acceptedAnswers": [
+      "path"
+    ]
+  },
+  {
+    "id": "m5-u1-q041",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "urls-and-domain-names",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A domain name is a human-friendly name that represents an ____ address.",
+    "acceptedAnswers": [
+      "IP"
+    ]
+  },
+  {
+    "id": "m5-u1-q042",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "urls-and-domain-names",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Domain Name System is abbreviated as ____.",
+    "acceptedAnswers": [
+      "DNS"
+    ]
+  },
+  {
+    "id": "m5-u1-q043",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "urls-and-domain-names",
+    "confidence": "high",
+    "type": "gap",
+    "question": "DNS translates domain names into ____ addresses that computers understand.",
+    "acceptedAnswers": [
+      "IP"
+    ]
+  },
+  {
+    "id": "m5-u1-q044",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "urls-and-domain-names",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A domain name makes an Internet address easy to ____.",
+    "acceptedAnswers": [
+      "remember"
+    ]
+  },
+  {
+    "id": "m5-u1-q045",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "isps-and-internet-terminology",
+    "confidence": "high",
+    "type": "gap",
+    "question": "An Internet Service Provider is abbreviated as ____.",
+    "acceptedAnswers": [
+      "ISP"
+    ]
+  },
+  {
+    "id": "m5-u1-q046",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "isps-and-internet-terminology",
+    "confidence": "high",
+    "type": "gap",
+    "question": "An ISP is a company or organisation that provides individuals and businesses access to the ____.",
+    "acceptedAnswers": [
+      "Internet"
+    ]
+  },
+  {
+    "id": "m5-u1-q047",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "isps-and-internet-terminology",
+    "confidence": "high",
+    "type": "gap",
+    "question": "An ISP connects individuals, homes, schools, and businesses to the global Internet ____.",
+    "acceptedAnswers": [
+      "network"
+    ]
+  },
+  {
+    "id": "m5-u1-q048",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "isps-and-internet-terminology",
+    "confidence": "high",
+    "type": "gap",
+    "question": "An ISP can provide Internet connectivity through fiber, cable, mobile data, or ____.",
+    "acceptedAnswers": [
+      "satellite"
+    ]
+  },
+  {
+    "id": "m5-u1-q049",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "isps-and-internet-terminology",
+    "confidence": "high",
+    "type": "gap",
+    "question": "An ISP assigns ____ addresses to users’ devices.",
+    "acceptedAnswers": [
+      "IP"
+    ]
+  },
+  {
+    "id": "m5-u1-q050",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "isps-and-internet-terminology",
+    "confidence": "high",
+    "type": "gap",
+    "question": "An ISP may provide additional services such as email accounts, web hosting, and domain name ____.",
+    "acceptedAnswers": [
+      "registration"
+    ]
+  },
+  {
+    "id": "m5-u1-q051",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "isps-and-internet-terminology",
+    "confidence": "high",
+    "type": "gap",
+    "question": "An older and slow type of Internet connection is ____.",
+    "acceptedAnswers": [
+      "Dial-up"
+    ]
+  },
+  {
+    "id": "m5-u1-q052",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "isps-and-internet-terminology",
+    "confidence": "high",
+    "type": "gap",
+    "question": "DSL is one of the types of Internet connections provided by ____.",
+    "acceptedAnswers": [
+      "ISPs"
+    ]
+  },
+  {
+    "id": "m5-u1-q053",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "isps-and-internet-terminology",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Fiber-optic Internet is one of the types of Internet ____ provided by ISPs.",
+    "acceptedAnswers": [
+      "connections"
+    ]
+  },
+  {
+    "id": "m5-u1-q054",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "isps-and-internet-terminology",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Mobile broadband includes 3G, 4G, and ____.",
+    "acceptedAnswers": [
+      "5G"
+    ]
+  },
+  {
+    "id": "m5-u1-q055",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "basic-internet-concepts",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following best describes the Internet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A single computer used for storing files"
+      },
+      {
+        "id": "b",
+        "text": "A global network of interconnected computers and devices"
+      },
+      {
+        "id": "c",
+        "text": "A software application used only for communication"
+      },
+      {
+        "id": "d",
+        "text": "A private network restricted to one organisation"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m5-u1-q056",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "basic-internet-concepts",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is one of the major ways the Internet has transformed modern society?",
+    "options": [
+      {
+        "id": "a",
+        "text": "By eliminating electronic communication"
+      },
+      {
+        "id": "b",
+        "text": "By restricting access to information"
+      },
+      {
+        "id": "c",
+        "text": "By changing how people learn, work and communicate"
+      },
+      {
+        "id": "d",
+        "text": "By preventing access to online services"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m5-u1-q057",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "basic-internet-concepts",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is required for computers on the Internet to communicate effectively?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Standard communication protocols"
+      },
+      {
+        "id": "b",
+        "text": "Identical hardware"
+      },
+      {
+        "id": "c",
+        "text": "The same operating system"
+      },
+      {
+        "id": "d",
+        "text": "The same storage capacity"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m5-u1-q058",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "basic-internet-concepts",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which protocol suite forms the fundamental communication framework of the Internet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "HTTP/FTP"
+      },
+      {
+        "id": "b",
+        "text": "TCP/IP"
+      },
+      {
+        "id": "c",
+        "text": "SMTP/POP"
+      },
+      {
+        "id": "d",
+        "text": "HTML/XML"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m5-u1-q059",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following can be identified using an Internet address?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only a computer keyboard"
+      },
+      {
+        "id": "b",
+        "text": "Only a printer"
+      },
+      {
+        "id": "c",
+        "text": "A website, server or online service"
+      },
+      {
+        "id": "d",
+        "text": "Only a computer monitor"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m5-u1-q060",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the primary purpose of an IP address?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To identify a device on a network"
+      },
+      {
+        "id": "b",
+        "text": "To store website content"
+      },
+      {
+        "id": "c",
+        "text": "To create email messages"
+      },
+      {
+        "id": "d",
+        "text": "To encrypt every Internet connection"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m5-u1-q061",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following best distinguishes a public IP address from a private IP address?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A public IP address is used only inside a LAN"
+      },
+      {
+        "id": "b",
+        "text": "A private IP address is globally accessible"
+      },
+      {
+        "id": "c",
+        "text": "A public IP address is internet-facing"
+      },
+      {
+        "id": "d",
+        "text": "A private IP address is assigned only to websites"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m5-u1-q062",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which device commonly assigns private IP addresses within a local network?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Monitor"
+      },
+      {
+        "id": "b",
+        "text": "Router"
+      },
+      {
+        "id": "c",
+        "text": "Printer"
+      },
+      {
+        "id": "d",
+        "text": "Scanner"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m5-u1-q063",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the primary purpose of Network Address Translation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To translate domain names into websites"
+      },
+      {
+        "id": "b",
+        "text": "To convert text into binary"
+      },
+      {
+        "id": "c",
+        "text": "To allow private network devices to communicate through a public IP address"
+      },
+      {
+        "id": "d",
+        "text": "To increase computer memory"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m5-u1-q064",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is a characteristic of a dynamic IP address?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It is permanently assigned"
+      },
+      {
+        "id": "b",
+        "text": "It may change periodically"
+      },
+      {
+        "id": "c",
+        "text": "It can never be reassigned"
+      },
+      {
+        "id": "d",
+        "text": "It is used only by web servers"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m5-u1-q065",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which protocol is responsible for automatically assigning dynamic IP addresses?",
+    "options": [
+      {
+        "id": "a",
+        "text": "DNS"
+      },
+      {
+        "id": "b",
+        "text": "HTTP"
+      },
+      {
+        "id": "c",
+        "text": "DHCP"
+      },
+      {
+        "id": "d",
+        "text": "FTP"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m5-u1-q066",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is a major advantage of a static IP address?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It changes whenever the device reconnects"
+      },
+      {
+        "id": "b",
+        "text": "It provides consistent remote access"
+      },
+      {
+        "id": "c",
+        "text": "It can only be used on mobile devices"
+      },
+      {
+        "id": "d",
+        "text": "It prevents hosting services"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m5-u1-q067",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which type of IP address is particularly useful for hosting a website?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Static IP address"
+      },
+      {
+        "id": "b",
+        "text": "Dynamic IP address"
+      },
+      {
+        "id": "c",
+        "text": "Private IP address only"
+      },
+      {
+        "id": "d",
+        "text": "Temporary IP address"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m5-u1-q068",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which version of the Internet Protocol uses a 32-bit address?",
+    "options": [
+      {
+        "id": "a",
+        "text": "IPv6"
+      },
+      {
+        "id": "b",
+        "text": "IPv5"
+      },
+      {
+        "id": "c",
+        "text": "IPv4"
+      },
+      {
+        "id": "d",
+        "text": "TCP"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m5-u1-q069",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following uses a 128-bit address?",
+    "options": [
+      {
+        "id": "a",
+        "text": "IPv4"
+      },
+      {
+        "id": "b",
+        "text": "IPv6"
+      },
+      {
+        "id": "c",
+        "text": "IPv3"
+      },
+      {
+        "id": "d",
+        "text": "TCP"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m5-u1-q070",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is one major reason for the development of IPv6?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To reduce the number of available Internet addresses"
+      },
+      {
+        "id": "b",
+        "text": "To provide a much larger address space"
+      },
+      {
+        "id": "c",
+        "text": "To eliminate domain names"
+      },
+      {
+        "id": "d",
+        "text": "To replace all network hardware"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m5-u1-q071",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which address format is associated with IPv4?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Decimal notation"
+      },
+      {
+        "id": "b",
+        "text": "Hexadecimal notation only"
+      },
+      {
+        "id": "c",
+        "text": "Alphabetic notation"
+      },
+      {
+        "id": "d",
+        "text": "Binary words only"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m5-u1-q072",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "ip-addressing-and-versions",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which address format is associated with IPv6?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Decimal"
+      },
+      {
+        "id": "b",
+        "text": "Octal"
+      },
+      {
+        "id": "c",
+        "text": "Hexadecimal"
+      },
+      {
+        "id": "d",
+        "text": "Roman numerals"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m5-u1-q073",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "urls-and-domain-names",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What does URL stand for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Universal Routing Link"
+      },
+      {
+        "id": "b",
+        "text": "Uniform Resource Locator"
+      },
+      {
+        "id": "c",
+        "text": "Universal Resource Link"
+      },
+      {
+        "id": "d",
+        "text": "Uniform Routing Locator"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m5-u1-q074",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "urls-and-domain-names",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the primary function of a URL?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To identify the location of an Internet resource"
+      },
+      {
+        "id": "b",
+        "text": "To assign an IP address to a router"
+      },
+      {
+        "id": "c",
+        "text": "To provide electrical power to a computer"
+      },
+      {
+        "id": "d",
+        "text": "To store files permanently"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m5-u1-q075",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "urls-and-domain-names",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following can be identified by a URL?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A web page"
+      },
+      {
+        "id": "b",
+        "text": "A computer processor"
+      },
+      {
+        "id": "c",
+        "text": "RAM capacity"
+      },
+      {
+        "id": "d",
+        "text": "A keyboard layout"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m5-u1-q076",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "urls-and-domain-names",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which component of a URL identifies the communication method being used?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Path"
+      },
+      {
+        "id": "b",
+        "text": "Protocol"
+      },
+      {
+        "id": "c",
+        "text": "Domain name"
+      },
+      {
+        "id": "d",
+        "text": "File name"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m5-u1-q077",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "urls-and-domain-names",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which system translates human-readable domain names into IP addresses?",
+    "options": [
+      {
+        "id": "a",
+        "text": "DHCP"
+      },
+      {
+        "id": "b",
+        "text": "DNS"
+      },
+      {
+        "id": "c",
+        "text": "NAT"
+      },
+      {
+        "id": "d",
+        "text": "TCP"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m5-u1-q078",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "urls-and-domain-names",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the major advantage of a domain name?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It makes Internet addresses easier for humans to remember"
+      },
+      {
+        "id": "b",
+        "text": "It eliminates the need for networks"
+      },
+      {
+        "id": "c",
+        "text": "It increases RAM capacity"
+      },
+      {
+        "id": "d",
+        "text": "It prevents websites from being accessed"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m5-u1-q079",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "isps-and-internet-terminology",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which organisation provides Internet connectivity to homes, schools and businesses?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ISP"
+      },
+      {
+        "id": "b",
+        "text": "DNS"
+      },
+      {
+        "id": "c",
+        "text": "CPU"
+      },
+      {
+        "id": "d",
+        "text": "URL"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m5-u1-q080",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "isps-and-internet-terminology",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is a service that an ISP may provide in addition to Internet connectivity?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Domain name registration"
+      },
+      {
+        "id": "b",
+        "text": "CPU manufacturing"
+      },
+      {
+        "id": "c",
+        "text": "Keyboard repair"
+      },
+      {
+        "id": "d",
+        "text": "Monitor production"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m5-u1-q081",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "isps-and-internet-terminology",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which Internet connection technology uses fiber-optic cables?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fiber-optic Internet"
+      },
+      {
+        "id": "b",
+        "text": "Dial-up"
+      },
+      {
+        "id": "c",
+        "text": "Analogue telephone connection"
+      },
+      {
+        "id": "d",
+        "text": "Infrared connection"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m5-u1-q082",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "isps-and-internet-terminology",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following belongs to mobile broadband technology?",
+    "options": [
+      {
+        "id": "a",
+        "text": "3G"
+      },
+      {
+        "id": "b",
+        "text": "VGA"
+      },
+      {
+        "id": "c",
+        "text": "HDMI"
+      },
+      {
+        "id": "d",
+        "text": "USB"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m5-u1-q083",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "isps-and-internet-terminology",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is the most recent mobile broadband generation listed in the material?",
+    "options": [
+      {
+        "id": "a",
+        "text": "2G"
+      },
+      {
+        "id": "b",
+        "text": "3G"
+      },
+      {
+        "id": "c",
+        "text": "4G"
+      },
+      {
+        "id": "d",
+        "text": "5G"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "id": "m5-u1-q084",
+    "module": "m5",
+    "unit": "m5-u1",
+    "topic": "isps-and-internet-terminology",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which Internet connection type is associated with telephone-line access and is considered older and slower?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fiber-optic"
+      },
+      {
+        "id": "b",
+        "text": "Dial-up"
+      },
+      {
+        "id": "c",
+        "text": "5G"
+      },
+      {
+        "id": "d",
+        "text": "Satellite"
+      }
+    ],
+    "answer": "b"
+  }
+]

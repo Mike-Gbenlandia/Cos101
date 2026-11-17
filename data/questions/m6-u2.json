@@ -1,0 +1,562 @@
+[
+  {
+    "id": "m6-u2-q001",
+    "module": "m6",
+    "unit": "m6-u2",
+    "topic": "ai-and-machine-learning",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Artificial Intelligence is a branch of computer science concerned with creating systems that can perform tasks normally requiring ____ intelligence.",
+    "options": [
+      {
+        "id": "a",
+        "text": "mechanical"
+      },
+      {
+        "id": "b",
+        "text": "human"
+      },
+      {
+        "id": "c",
+        "text": "electrical"
+      },
+      {
+        "id": "d",
+        "text": "network"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m6-u2-q002",
+    "module": "m6",
+    "unit": "m6-u2",
+    "topic": "ai-and-machine-learning",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an ability associated with Artificial Intelligence?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reasoning"
+      },
+      {
+        "id": "b",
+        "text": "Power generation"
+      },
+      {
+        "id": "c",
+        "text": "Cable installation"
+      },
+      {
+        "id": "d",
+        "text": "Hardware assembly"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m6-u2-q003",
+    "module": "m6",
+    "unit": "m6-u2",
+    "topic": "ai-and-machine-learning",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is identified as a task that AI systems can perform?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Understanding language"
+      },
+      {
+        "id": "b",
+        "text": "Manufacturing cables"
+      },
+      {
+        "id": "c",
+        "text": "Replacing network routers"
+      },
+      {
+        "id": "d",
+        "text": "Producing computer chips"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m6-u2-q004",
+    "module": "m6",
+    "unit": "m6-u2",
+    "topic": "ai-and-machine-learning",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What does machine learning involve?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Training an algorithm to make predictions or decisions based on data"
+      },
+      {
+        "id": "b",
+        "text": "Designing computer processors"
+      },
+      {
+        "id": "c",
+        "text": "Connecting computers through cables"
+      },
+      {
+        "id": "d",
+        "text": "Replacing all software with hardware"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m6-u2-q005",
+    "module": "m6",
+    "unit": "m6-u2",
+    "topic": "agentic-ai-and-mas",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which statement best describes an AI agent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A passive storage device"
+      },
+      {
+        "id": "b",
+        "text": "An autonomous system that perceives its environment, reasons and takes actions"
+      },
+      {
+        "id": "c",
+        "text": "A computer network"
+      },
+      {
+        "id": "d",
+        "text": "A database management system"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m6-u2-q006",
+    "module": "m6",
+    "unit": "m6-u2",
+    "topic": "agentic-ai-and-mas",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What does MAS stand for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Machine Application System"
+      },
+      {
+        "id": "b",
+        "text": "Multi-Agent Systems"
+      },
+      {
+        "id": "c",
+        "text": "Multiple Algorithmic Software"
+      },
+      {
+        "id": "d",
+        "text": "Machine Automation Service"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m6-u2-q007",
+    "module": "m6",
+    "unit": "m6-u2",
+    "topic": "agentic-ai-and-mas",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is a major characteristic of Multi-Agent Systems?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They employ multiple interacting agents"
+      },
+      {
+        "id": "b",
+        "text": "They use only one model"
+      },
+      {
+        "id": "c",
+        "text": "They cannot perform complex tasks"
+      },
+      {
+        "id": "d",
+        "text": "They require no communication between agents"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m6-u2-q008",
+    "module": "m6",
+    "unit": "m6-u2",
+    "topic": "agentic-ai-and-mas",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which type of interaction occurs when agents have shared goals?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Competitive"
+      },
+      {
+        "id": "b",
+        "text": "Cooperative"
+      },
+      {
+        "id": "c",
+        "text": "Independent"
+      },
+      {
+        "id": "d",
+        "text": "Sequential"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m6-u2-q009",
+    "module": "m6",
+    "unit": "m6-u2",
+    "topic": "agentic-ai-and-mas",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which type of interaction occurs when agents have conflicting goals?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cooperative"
+      },
+      {
+        "id": "b",
+        "text": "Parallel"
+      },
+      {
+        "id": "c",
+        "text": "Competitive"
+      },
+      {
+        "id": "d",
+        "text": "Sequential"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m6-u2-q010",
+    "module": "m6",
+    "unit": "m6-u2",
+    "topic": "agentic-ai-and-mas",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is a benefit of Multi-Agent Systems?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Scalability"
+      },
+      {
+        "id": "b",
+        "text": "Reduced functionality"
+      },
+      {
+        "id": "c",
+        "text": "Single-task limitation"
+      },
+      {
+        "id": "d",
+        "text": "Elimination of specialised roles"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m6-u2-q011",
+    "module": "m6",
+    "unit": "m6-u2",
+    "topic": "agentic-ai-and-mas",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which type of agent system is ideal for well-defined and simpler tasks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Multi-Agent System"
+      },
+      {
+        "id": "b",
+        "text": "Single-Agent System"
+      },
+      {
+        "id": "c",
+        "text": "Distributed Network"
+      },
+      {
+        "id": "d",
+        "text": "Quantum System"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m6-u2-q012",
+    "module": "m6",
+    "unit": "m6-u2",
+    "topic": "agentic-ai-and-mas",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which system is better suited to complex workflows requiring specialised roles?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Single-Agent System"
+      },
+      {
+        "id": "b",
+        "text": "Multi-Agent System"
+      },
+      {
+        "id": "c",
+        "text": "Manual System"
+      },
+      {
+        "id": "d",
+        "text": "Mechanical System"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m6-u2-q013",
+    "module": "m6",
+    "unit": "m6-u2",
+    "topic": "quantum-computing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Quantum Computing uses principles of ____ mechanics.",
+    "options": [
+      {
+        "id": "a",
+        "text": "classical"
+      },
+      {
+        "id": "b",
+        "text": "quantum"
+      },
+      {
+        "id": "c",
+        "text": "mechanical"
+      },
+      {
+        "id": "d",
+        "text": "electrical"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m6-u2-q014",
+    "module": "m6",
+    "unit": "m6-u2",
+    "topic": "quantum-computing",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the basic unit of quantum information?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bit"
+      },
+      {
+        "id": "b",
+        "text": "Byte"
+      },
+      {
+        "id": "c",
+        "text": "Qubit"
+      },
+      {
+        "id": "d",
+        "text": "Register"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m6-u2-q015",
+    "module": "m6",
+    "unit": "m6-u2",
+    "topic": "quantum-computing",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which quantum concept allows a qubit to exist in multiple states simultaneously?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Entanglement"
+      },
+      {
+        "id": "b",
+        "text": "Superposition"
+      },
+      {
+        "id": "c",
+        "text": "Encryption"
+      },
+      {
+        "id": "d",
+        "text": "Measurement"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m6-u2-q016",
+    "module": "m6",
+    "unit": "m6-u2",
+    "topic": "quantum-computing",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What happens in quantum entanglement?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Two or more qubits become linked"
+      },
+      {
+        "id": "b",
+        "text": "A qubit becomes permanently inactive"
+      },
+      {
+        "id": "c",
+        "text": "Classical bits are converted into bytes"
+      },
+      {
+        "id": "d",
+        "text": "A computer loses its stored information"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m6-u2-q017",
+    "module": "m6",
+    "unit": "m6-u2",
+    "topic": "quantum-computing",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an application area of quantum computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Drug discovery"
+      },
+      {
+        "id": "b",
+        "text": "Word processing"
+      },
+      {
+        "id": "c",
+        "text": "Email composition"
+      },
+      {
+        "id": "d",
+        "text": "Spreadsheet formatting"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m6-u2-q018",
+    "module": "m6",
+    "unit": "m6-u2",
+    "topic": "quantum-computing",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is a challenge of quantum computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It is inexpensive to build"
+      },
+      {
+        "id": "b",
+        "text": "It is very expensive and complex to build"
+      },
+      {
+        "id": "c",
+        "text": "It requires no specialised environment"
+      },
+      {
+        "id": "d",
+        "text": "It is already universally available"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m6-u2-q019",
+    "module": "m6",
+    "unit": "m6-u2",
+    "topic": "next-gen-connectivity-6g",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which generation of cellular networks is identified as the next phase after 5G?",
+    "options": [
+      {
+        "id": "a",
+        "text": "3G"
+      },
+      {
+        "id": "b",
+        "text": "4G"
+      },
+      {
+        "id": "c",
+        "text": "6G"
+      },
+      {
+        "id": "d",
+        "text": "7G"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m6-u2-q020",
+    "module": "m6",
+    "unit": "m6-u2",
+    "topic": "next-gen-connectivity-6g",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is the expected maximum data rate of 6G?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1 gigabit per second"
+      },
+      {
+        "id": "b",
+        "text": "10 gigabits per second"
+      },
+      {
+        "id": "c",
+        "text": "100 gigabits per second"
+      },
+      {
+        "id": "d",
+        "text": "1 terabit per second"
+      }
+    ],
+    "answer": "d"
+  }
+]

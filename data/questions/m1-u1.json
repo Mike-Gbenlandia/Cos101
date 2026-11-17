@@ -1,0 +1,1834 @@
+[
+  {
+    "id": "m1-u1-q001",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "pre-mechanical-era-abacus",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The pre-mechanical era of computing refers to the period before ____ AD.",
+    "acceptedAnswers": [
+      "1450"
+    ]
+  },
+  {
+    "id": "m1-u1-q002",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "pre-mechanical-era-abacus",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The pre-mechanical era marked the foundation of ____ technology.",
+    "acceptedAnswers": [
+      "information"
+    ]
+  },
+  {
+    "id": "m1-u1-q003",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "pre-mechanical-era-abacus",
+    "confidence": "high",
+    "type": "gap",
+    "question": "During the pre-mechanical era, calculations were done ____.",
+    "acceptedAnswers": [
+      "manually"
+    ]
+  },
+  {
+    "id": "m1-u1-q004",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "pre-mechanical-era-abacus",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The system of the pre-mechanical era depended on human intelligence and physical ____.",
+    "acceptedAnswers": [
+      "aids"
+    ]
+  },
+  {
+    "id": "m1-u1-q005",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "pre-mechanical-era-abacus",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The pre-mechanical era had limited speed and ____.",
+    "acceptedAnswers": [
+      "accuracy"
+    ]
+  },
+  {
+    "id": "m1-u1-q006",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The main uses of early computing tools included counting, trade and record ____.",
+    "acceptedAnswers": [
+      "keeping"
+    ]
+  },
+  {
+    "id": "m1-u1-q007",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "pre-mechanical-era-abacus",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Abacus is an early computing tool developed to assist humans in ____.",
+    "acceptedAnswers": [
+      "counting"
+    ]
+  },
+  {
+    "id": "m1-u1-q008",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "pre-mechanical-era-abacus",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Abacus can perform addition, subtraction, multiplication and ____.",
+    "acceptedAnswers": [
+      "division"
+    ]
+  },
+  {
+    "id": "m1-u1-q009",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "pre-mechanical-era-abacus",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Abacus consists of a rectangular frame with vertical rods and wires with ____.",
+    "acceptedAnswers": [
+      "beads"
+    ]
+  },
+  {
+    "id": "m1-u1-q010",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "pre-mechanical-era-abacus",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Abacus has a horizontal bar that divides the upper and lower ____.",
+    "acceptedAnswers": [
+      "sections"
+    ]
+  },
+  {
+    "id": "m1-u1-q011",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "pre-mechanical-era-abacus",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Each bead on an Abacus represents a numerical ____.",
+    "acceptedAnswers": [
+      "value"
+    ]
+  },
+  {
+    "id": "m1-u1-q012",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "pre-mechanical-era-abacus",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Calculations on the Abacus are performed by manipulating the ____.",
+    "acceptedAnswers": [
+      "beads"
+    ]
+  },
+  {
+    "id": "m1-u1-q013",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "mechanical-era-napier-pascaline",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Mechanical Era of Computing lasted approximately from 1450 to ____.",
+    "acceptedAnswers": [
+      "1840"
+    ]
+  },
+  {
+    "id": "m1-u1-q014",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "mechanical-era-napier-pascaline",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Mechanical Era marked a transition from purely manual methods to ____ devices.",
+    "acceptedAnswers": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "m1-u1-q015",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Mechanical computing devices used gears, levers and ____.",
+    "acceptedAnswers": [
+      "wheels"
+    ]
+  },
+  {
+    "id": "m1-u1-q016",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Mechanical devices helped to reduce human effort and improve ____ in calculations.",
+    "acceptedAnswers": [
+      "accuracy"
+    ]
+  },
+  {
+    "id": "m1-u1-q017",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Mechanical devices were particularly useful in commerce, navigation and ____.",
+    "acceptedAnswers": [
+      "astronomy"
+    ]
+  },
+  {
+    "id": "m1-u1-q018",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "mechanical-era-napier-pascaline",
+    "confidence": "high",
+    "type": "gap",
+    "question": "One characteristic of the Mechanical Era was the early concept of ____ in computation.",
+    "acceptedAnswers": [
+      "automation"
+    ]
+  },
+  {
+    "id": "m1-u1-q019",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "mechanical-era-napier-pascaline",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Napier's Bones was invented in ____.",
+    "acceptedAnswers": [
+      "1617"
+    ]
+  },
+  {
+    "id": "m1-u1-q020",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "mechanical-era-napier-pascaline",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Napier's Bones was invented by John ____.",
+    "acceptedAnswers": [
+      "Napier"
+    ]
+  },
+  {
+    "id": "m1-u1-q021",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "mechanical-era-napier-pascaline",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Napier's Bones was designed to simplify multiplication, division and ____ root calculations.",
+    "acceptedAnswers": [
+      "square"
+    ]
+  },
+  {
+    "id": "m1-u1-q022",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "mechanical-era-napier-pascaline",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Napier's Bones consists of a set of rectangular ____.",
+    "acceptedAnswers": [
+      "rods"
+    ]
+  },
+  {
+    "id": "m1-u1-q023",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "mechanical-era-napier-pascaline",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Each rod of Napier's Bones represents a digit from ____ to 9.",
+    "acceptedAnswers": [
+      "0"
+    ]
+  },
+  {
+    "id": "m1-u1-q024",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "mechanical-era-napier-pascaline",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Napier's Bones introduced the concept of ____ computation.",
+    "acceptedAnswers": [
+      "algorithmic"
+    ]
+  },
+  {
+    "id": "m1-u1-q025",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "mechanical-era-napier-pascaline",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Napier's Bones influenced later devices such as the slide rule and mechanical ____.",
+    "acceptedAnswers": [
+      "calculators"
+    ]
+  },
+  {
+    "id": "m1-u1-q026",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "mechanical-era-napier-pascaline",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Pascaline was invented in ____.",
+    "acceptedAnswers": [
+      "1642"
+    ]
+  },
+  {
+    "id": "m1-u1-q027",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "mechanical-era-napier-pascaline",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Pascaline was invented by ____ Pascal.",
+    "acceptedAnswers": [
+      "Blaise"
+    ]
+  },
+  {
+    "id": "m1-u1-q028",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "mechanical-era-napier-pascaline",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Pascaline was designed to help Pascal's father, who was a ____ collector.",
+    "acceptedAnswers": [
+      "tax"
+    ]
+  },
+  {
+    "id": "m1-u1-q029",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "mechanical-era-napier-pascaline",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Pascaline is a ____-driven calculating machine.",
+    "acceptedAnswers": [
+      "gear"
+    ]
+  },
+  {
+    "id": "m1-u1-q030",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "mechanical-era-napier-pascaline",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Pascaline performs addition and subtraction automatically using interlocking wheels and ____.",
+    "acceptedAnswers": [
+      "gears"
+    ]
+  },
+  {
+    "id": "m1-u1-q031",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Jacquard Loom was invented in ____.",
+    "acceptedAnswers": [
+      "1801"
+    ]
+  },
+  {
+    "id": "m1-u1-q032",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Jacquard Loom was invented by Joseph Marie ____.",
+    "acceptedAnswers": [
+      "Jacquard"
+    ]
+  },
+  {
+    "id": "m1-u1-q033",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Jacquard Loom is a mechanical ____ machine.",
+    "acceptedAnswers": [
+      "weaving"
+    ]
+  },
+  {
+    "id": "m1-u1-q034",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Jacquard Loom uses punched ____ to control patterns automatically.",
+    "acceptedAnswers": [
+      "cards"
+    ]
+  },
+  {
+    "id": "m1-u1-q035",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Each punched card in the Jacquard Loom represents a row of the design ____.",
+    "acceptedAnswers": [
+      "pattern"
+    ]
+  },
+  {
+    "id": "m1-u1-q036",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The holes in the punched cards determine which ____ are lifted.",
+    "acceptedAnswers": [
+      "threads"
+    ]
+  },
+  {
+    "id": "m1-u1-q037",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Jacquard Loom introduced the idea of input via punched ____.",
+    "acceptedAnswers": [
+      "cards"
+    ]
+  },
+  {
+    "id": "m1-u1-q038",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Jacquard Loom inspired early computer pioneer Charles ____.",
+    "acceptedAnswers": [
+      "Babbage"
+    ]
+  },
+  {
+    "id": "m1-u1-q039",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Differential Engine was designed to tabulate ____ functions.",
+    "acceptedAnswers": [
+      "polynomial"
+    ]
+  },
+  {
+    "id": "m1-u1-q040",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Differential Engine was conceived by Charles Babbage in the ____.",
+    "acceptedAnswers": [
+      "1820s"
+    ]
+  },
+  {
+    "id": "m1-u1-q041",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Differential Engine uses the method of finite ____.",
+    "acceptedAnswers": [
+      "differences"
+    ]
+  },
+  {
+    "id": "m1-u1-q042",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Differential Engine generates successive values of a polynomial using repeated ____.",
+    "acceptedAnswers": [
+      "addition"
+    ]
+  },
+  {
+    "id": "m1-u1-q043",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Differential Engine was designed to eliminate human errors in mathematical ____.",
+    "acceptedAnswers": [
+      "tables"
+    ]
+  },
+  {
+    "id": "m1-u1-q044",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "mechanical-era-napier-pascaline",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following best describes the transition that occurred during the Mechanical Era?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A transition from electronic computers to manual calculations"
+      },
+      {
+        "id": "b",
+        "text": "A transition from mechanical devices to spoken communication"
+      },
+      {
+        "id": "c",
+        "text": "A transition from simple counting tools to more sophisticated machines capable of automatic calculations"
+      },
+      {
+        "id": "d",
+        "text": "A transition from digital computers to abacuses"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m1-u1-q045",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "mechanical-era-napier-pascaline",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following was one of the main characteristics of the Mechanical Era?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Use of mechanical components such as gears, cogs and dials"
+      },
+      {
+        "id": "b",
+        "text": "Use of superconductors"
+      },
+      {
+        "id": "c",
+        "text": "Use of artificial intelligence"
+      },
+      {
+        "id": "d",
+        "text": "Use of integrated circuits"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m1-u1-q046",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What was one of the major purposes of the Differential Engine?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To process natural language"
+      },
+      {
+        "id": "b",
+        "text": "To tabulate polynomial functions"
+      },
+      {
+        "id": "c",
+        "text": "To control traffic lights"
+      },
+      {
+        "id": "d",
+        "text": "To provide electronic memory"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m1-u1-q047",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following correctly describes Difference Engine No. 1?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It was completely built and used commercially"
+      },
+      {
+        "id": "b",
+        "text": "It was an electronic computer"
+      },
+      {
+        "id": "c",
+        "text": "It was designed but never fully built"
+      },
+      {
+        "id": "d",
+        "text": "It was designed by Ada Lovelace"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m1-u1-q048",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What happened to Difference Engine No. 2?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It was converted into an electronic computer"
+      },
+      {
+        "id": "b",
+        "text": "It was never designed"
+      },
+      {
+        "id": "c",
+        "text": "It was destroyed before Babbage designed it"
+      },
+      {
+        "id": "d",
+        "text": "A working replica was built by the Science Museum in London in 1991"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "id": "m1-u1-q049",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following distinguishes the Analytical Engine from the Difference Engine?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Analytical Engine was designed as a general-purpose computer"
+      },
+      {
+        "id": "b",
+        "text": "The Analytical Engine could only perform polynomial calculations"
+      },
+      {
+        "id": "c",
+        "text": "The Analytical Engine had no memory"
+      },
+      {
+        "id": "d",
+        "text": "The Analytical Engine did not use punched cards"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m1-u1-q050",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What was the name given to the memory component of the Analytical Engine?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Mill"
+      },
+      {
+        "id": "b",
+        "text": "The Store"
+      },
+      {
+        "id": "c",
+        "text": "The Reader"
+      },
+      {
+        "id": "d",
+        "text": "The Printer"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m1-u1-q051",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What was the function of the Mill in the Analytical Engine?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It stored punched cards"
+      },
+      {
+        "id": "b",
+        "text": "It printed results"
+      },
+      {
+        "id": "c",
+        "text": "It performed arithmetic operations"
+      },
+      {
+        "id": "d",
+        "text": "It supplied constant values"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m1-u1-q052",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which component of the Analytical Engine was used to input programs and data?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Reader"
+      },
+      {
+        "id": "b",
+        "text": "The Store"
+      },
+      {
+        "id": "c",
+        "text": "The Mill"
+      },
+      {
+        "id": "d",
+        "text": "The Printer/Plotter"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m1-u1-q053",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following was one of the types of punched cards envisioned by Babbage?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Memory cards"
+      },
+      {
+        "id": "b",
+        "text": "Operation cards"
+      },
+      {
+        "id": "c",
+        "text": "Display cards"
+      },
+      {
+        "id": "d",
+        "text": "Network cards"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m1-u1-q054",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What did variable cards in the Analytical Engine select?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The arithmetic operations"
+      },
+      {
+        "id": "b",
+        "text": "The constant values"
+      },
+      {
+        "id": "c",
+        "text": "The memory addresses to use"
+      },
+      {
+        "id": "d",
+        "text": "The printed output"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m1-u1-q055",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What did number cards supply to the Analytical Engine?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Constant values"
+      },
+      {
+        "id": "b",
+        "text": "Memory addresses"
+      },
+      {
+        "id": "c",
+        "text": "Operating instructions"
+      },
+      {
+        "id": "d",
+        "text": "Printed results"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m1-u1-q056",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following was a reason the Analytical Engine was never built during Babbage's lifetime?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lack of electricity"
+      },
+      {
+        "id": "b",
+        "text": "Lack of programming languages"
+      },
+      {
+        "id": "c",
+        "text": "Lack of punched cards"
+      },
+      {
+        "id": "d",
+        "text": "The precision machining required was beyond nineteenth-century workshops"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "id": "m1-u1-q057",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Who wrote the first published algorithm intended to be executed by the Analytical Engine?",
+    "options": [
+      {
+        "id": "a",
+        "text": "John Napier"
+      },
+      {
+        "id": "b",
+        "text": "Ada Lovelace"
+      },
+      {
+        "id": "c",
+        "text": "Joseph Marie Jacquard"
+      },
+      {
+        "id": "d",
+        "text": "Konrad Zuse"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m1-u1-q058",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What did Ada Lovelace's notes describe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A sequence of operations for computing Bernoulli numbers"
+      },
+      {
+        "id": "b",
+        "text": "The construction of the Abacus"
+      },
+      {
+        "id": "c",
+        "text": "The operation of the Mark I"
+      },
+      {
+        "id": "d",
+        "text": "The invention of the transistor"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m1-u1-q059",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "jacquard-loom-babbage-engines",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Why is Ada Lovelace widely recognised in computing history?",
+    "options": [
+      {
+        "id": "a",
+        "text": "She invented the Pascaline"
+      },
+      {
+        "id": "b",
+        "text": "She built the first electronic computer"
+      },
+      {
+        "id": "c",
+        "text": "She is widely recognised as the first computer programmer"
+      },
+      {
+        "id": "d",
+        "text": "She invented the Jacquard Loom"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m1-u1-q060",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "electromechanical-era-mark-i",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What did electromechanical computers use to perform logic and arithmetic?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Relays"
+      },
+      {
+        "id": "b",
+        "text": "Vacuum tubes"
+      },
+      {
+        "id": "c",
+        "text": "Silicon chips"
+      },
+      {
+        "id": "d",
+        "text": "Superconductors"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m1-u1-q061",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "electromechanical-era-mark-i",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What could the on/off action of a relay represent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Decimal numbers only"
+      },
+      {
+        "id": "b",
+        "text": "Binary 1/0"
+      },
+      {
+        "id": "c",
+        "text": "Alphabetic characters only"
+      },
+      {
+        "id": "d",
+        "text": "Continuous data"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m1-u1-q062",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "electromechanical-era-mark-i",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following was a limitation of relays?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They had no moving parts"
+      },
+      {
+        "id": "b",
+        "text": "They could switch millions of times per second"
+      },
+      {
+        "id": "c",
+        "text": "Their moving parts limited their switching speed"
+      },
+      {
+        "id": "d",
+        "text": "They required no cooling"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m1-u1-q063",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "electromechanical-era-mark-i",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which computer was built by Konrad Zuse in 1941?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Harvard Mark I"
+      },
+      {
+        "id": "b",
+        "text": "Zuse Z4"
+      },
+      {
+        "id": "c",
+        "text": "Zuse Z3"
+      },
+      {
+        "id": "d",
+        "text": "Bell Labs Model II"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m1-u1-q064",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "electromechanical-era-mark-i",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What was significant about the Zuse Z3?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It was the first working programme-controlled, fully automatic digital computer"
+      },
+      {
+        "id": "b",
+        "text": "It was the first personal computer"
+      },
+      {
+        "id": "c",
+        "text": "It was the first computer to use integrated circuits"
+      },
+      {
+        "id": "d",
+        "text": "It was the first computer to use a microprocessor"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m1-u1-q065",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "electromechanical-era-mark-i",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "How many relays did the Zuse Z3 use?",
+    "options": [
+      {
+        "id": "a",
+        "text": "765"
+      },
+      {
+        "id": "b",
+        "text": "1,000"
+      },
+      {
+        "id": "c",
+        "text": "2,600"
+      },
+      {
+        "id": "d",
+        "text": "3,000"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m1-u1-q066",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "electromechanical-era-mark-i",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Who built the Harvard Mark I?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Howard Aiken / IBM"
+      },
+      {
+        "id": "b",
+        "text": "Konrad Zuse"
+      },
+      {
+        "id": "c",
+        "text": "George Stibitz"
+      },
+      {
+        "id": "d",
+        "text": "Charles Babbage"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m1-u1-q067",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "electromechanical-era-mark-i",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following describes the Harvard Mark I?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It used binary arithmetic and 2,600 relays"
+      },
+      {
+        "id": "b",
+        "text": "It was decimal and used paper tape"
+      },
+      {
+        "id": "c",
+        "text": "It was based entirely on vacuum tubes"
+      },
+      {
+        "id": "d",
+        "text": "It was a personal computer"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m1-u1-q068",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "electromechanical-era-mark-i",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What was notable about Bell Labs Model II?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It was the first personal computer"
+      },
+      {
+        "id": "b",
+        "text": "It introduced graphical user interfaces"
+      },
+      {
+        "id": "c",
+        "text": "It was one of the first remote computing demonstrations"
+      },
+      {
+        "id": "d",
+        "text": "It used an Intel microprocessor"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m1-u1-q069",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "electromechanical-era-mark-i",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Who built Bell Labs Model II?",
+    "options": [
+      {
+        "id": "a",
+        "text": "George Stibitz"
+      },
+      {
+        "id": "b",
+        "text": "Howard Aiken"
+      },
+      {
+        "id": "c",
+        "text": "Robert Noyce"
+      },
+      {
+        "id": "d",
+        "text": "Jack Kilby"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m1-u1-q070",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "electromechanical-era-mark-i",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following was a limitation of the electromechanical era?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Unlimited processing speed"
+      },
+      {
+        "id": "b",
+        "text": "Mechanical wear"
+      },
+      {
+        "id": "c",
+        "text": "Small physical size"
+      },
+      {
+        "id": "d",
+        "text": "Absence of heat"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m1-u1-q071",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "electromechanical-era-mark-i",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Why did relay computers produce considerable noise?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They used large relay banks"
+      },
+      {
+        "id": "b",
+        "text": "They used natural language processing"
+      },
+      {
+        "id": "c",
+        "text": "They used graphical interfaces"
+      },
+      {
+        "id": "d",
+        "text": "They used microprocessors"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m1-u1-q072",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which technology offered much faster switching than relays?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Punched cards"
+      },
+      {
+        "id": "b",
+        "text": "Mechanical gears"
+      },
+      {
+        "id": "c",
+        "text": "Vacuum tubes"
+      },
+      {
+        "id": "d",
+        "text": "Paper tape"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m1-u1-q073",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "electromechanical-era-mark-i",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which computer demonstrated that electronic computing was possible?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ENIAC"
+      },
+      {
+        "id": "b",
+        "text": "Harvard Mark I"
+      },
+      {
+        "id": "c",
+        "text": "Zuse Z4"
+      },
+      {
+        "id": "d",
+        "text": "Jacquard Loom"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m1-u1-q074",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What eventually made both relays and vacuum tubes obsolete?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Punched cards"
+      },
+      {
+        "id": "b",
+        "text": "Transistors"
+      },
+      {
+        "id": "c",
+        "text": "Mechanical gears"
+      },
+      {
+        "id": "d",
+        "text": "Paper tape"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m1-u1-q075",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which technology was used by first-generation computers?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Integrated circuits"
+      },
+      {
+        "id": "b",
+        "text": "Microprocessors"
+      },
+      {
+        "id": "c",
+        "text": "Vacuum tubes"
+      },
+      {
+        "id": "d",
+        "text": "Artificial intelligence"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m1-u1-q076",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following was a characteristic of first-generation computers?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They were very large"
+      },
+      {
+        "id": "b",
+        "text": "They were portable"
+      },
+      {
+        "id": "c",
+        "text": "They used graphical user interfaces"
+      },
+      {
+        "id": "d",
+        "text": "They used natural language"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m1-u1-q077",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What type of language did first-generation computers rely on?",
+    "options": [
+      {
+        "id": "a",
+        "text": "BASIC"
+      },
+      {
+        "id": "b",
+        "text": "Machine language"
+      },
+      {
+        "id": "c",
+        "text": "COBOL"
+      },
+      {
+        "id": "d",
+        "text": "FORTRAN"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m1-u1-q078",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which generation introduced transistors?",
+    "options": [
+      {
+        "id": "a",
+        "text": "First Generation"
+      },
+      {
+        "id": "b",
+        "text": "Second Generation"
+      },
+      {
+        "id": "c",
+        "text": "Third Generation"
+      },
+      {
+        "id": "d",
+        "text": "Fourth Generation"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m1-u1-q079",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following was an improvement associated with second-generation computers?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They became smaller, faster, cheaper and more energy-efficient"
+      },
+      {
+        "id": "b",
+        "text": "They became larger and more expensive"
+      },
+      {
+        "id": "c",
+        "text": "They relied entirely on vacuum tubes"
+      },
+      {
+        "id": "d",
+        "text": "They eliminated memory"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m1-u1-q080",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which programming languages were developed during the second generation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "HTML, CSS and JavaScript"
+      },
+      {
+        "id": "b",
+        "text": "BASIC, COBOL and FORTRAN"
+      },
+      {
+        "id": "c",
+        "text": "Python, Java and C++"
+      },
+      {
+        "id": "d",
+        "text": "SQL, XML and PHP"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m1-u1-q081",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What major technology characterised the third generation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vacuum tubes"
+      },
+      {
+        "id": "b",
+        "text": "Transistors"
+      },
+      {
+        "id": "c",
+        "text": "Integrated circuits"
+      },
+      {
+        "id": "d",
+        "text": "Artificial intelligence"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m1-u1-q082",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following was introduced during the third generation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Keyboards and monitors"
+      },
+      {
+        "id": "b",
+        "text": "Vacuum tubes"
+      },
+      {
+        "id": "c",
+        "text": "Punched film"
+      },
+      {
+        "id": "d",
+        "text": "Natural language processing"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m1-u1-q083",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which generation witnessed the development of operating systems?",
+    "options": [
+      {
+        "id": "a",
+        "text": "First"
+      },
+      {
+        "id": "b",
+        "text": "Second"
+      },
+      {
+        "id": "c",
+        "text": "Third"
+      },
+      {
+        "id": "d",
+        "text": "Fifth"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m1-u1-q084",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Who were notably associated with etching many transistors onto a single silicon chip?",
+    "options": [
+      {
+        "id": "a",
+        "text": "John Napier and Blaise Pascal"
+      },
+      {
+        "id": "b",
+        "text": "Jack Kilby and Robert Noyce"
+      },
+      {
+        "id": "c",
+        "text": "Charles Babbage and Ada Lovelace"
+      },
+      {
+        "id": "d",
+        "text": "Howard Aiken and Konrad Zuse"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m1-u1-q085",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which generation is associated with the availability of the microprocessor?",
+    "options": [
+      {
+        "id": "a",
+        "text": "First Generation"
+      },
+      {
+        "id": "b",
+        "text": "Second Generation"
+      },
+      {
+        "id": "c",
+        "text": "Third Generation"
+      },
+      {
+        "id": "d",
+        "text": "Fourth Generation"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "id": "m1-u1-q086",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which development was associated with the fourth generation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Graphical User Interface"
+      },
+      {
+        "id": "b",
+        "text": "Vacuum tube technology"
+      },
+      {
+        "id": "c",
+        "text": "Mechanical gears"
+      },
+      {
+        "id": "d",
+        "text": "Punched-card-only programming"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m1-u1-q087",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following computers was associated with the development of personal computing during the fourth generation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zuse Z3"
+      },
+      {
+        "id": "b",
+        "text": "Altair 8800"
+      },
+      {
+        "id": "c",
+        "text": "ENIAC"
+      },
+      {
+        "id": "d",
+        "text": "Harvard Mark I"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m1-u1-q088",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which generation is based on Artificial Intelligence?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Second Generation"
+      },
+      {
+        "id": "b",
+        "text": "Third Generation"
+      },
+      {
+        "id": "c",
+        "text": "Fourth Generation"
+      },
+      {
+        "id": "d",
+        "text": "Fifth Generation"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "id": "m1-u1-q089",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is associated with fifth-generation computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Parallel processing"
+      },
+      {
+        "id": "b",
+        "text": "Vacuum tubes"
+      },
+      {
+        "id": "c",
+        "text": "Mechanical gears"
+      },
+      {
+        "id": "d",
+        "text": "Magnetic drums only"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m1-u1-q090",
+    "module": "m1",
+    "unit": "m1-u1",
+    "topic": "five-generations-of-computers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is one of the goals of fifth-generation computing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To eliminate computer learning"
+      },
+      {
+        "id": "b",
+        "text": "To develop devices capable of learning"
+      },
+      {
+        "id": "c",
+        "text": "To return computing to manual calculations"
+      },
+      {
+        "id": "d",
+        "text": "To remove natural language processing"
+      }
+    ],
+    "answer": "b"
+  }
+]

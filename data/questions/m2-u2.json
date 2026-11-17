@@ -1,0 +1,794 @@
+[
+  {
+    "id": "m2-u2-q001",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "system-operation-overview",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A system is a collection of interrelated components that work together to achieve a common ____.",
+    "acceptedAnswers": [
+      "goal"
+    ]
+  },
+  {
+    "id": "m2-u2-q002",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "system-operation-overview",
+    "confidence": "high",
+    "type": "gap",
+    "question": "In computing, a system consists of hardware, software, data, procedures, and ____ working together.",
+    "acceptedAnswers": [
+      "users"
+    ]
+  },
+  {
+    "id": "m2-u2-q003",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "system-operation-overview",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Every computer system is designed to transform raw data into meaningful ____.",
+    "acceptedAnswers": [
+      "information"
+    ]
+  },
+  {
+    "id": "m2-u2-q004",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "system-operation-overview",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The sequence of coordinated activities through which a computer transforms data into information is known as system ____.",
+    "acceptedAnswers": [
+      "operation"
+    ]
+  },
+  {
+    "id": "m2-u2-q005",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "system-operation-overview",
+    "confidence": "high",
+    "type": "gap",
+    "question": "System operation describes how the various components of a computer system communicate and ____.",
+    "acceptedAnswers": [
+      "interact"
+    ]
+  },
+  {
+    "id": "m2-u2-q006",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "system-operation-overview",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A computer system receives data, processes it according to programmed instructions, stores it when necessary, and presents useful ____ to users.",
+    "acceptedAnswers": [
+      "results"
+    ]
+  },
+  {
+    "id": "m2-u2-q007",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "system-operation-overview",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The hardware performs physical operations, while the software provides the ____ that direct every activity.",
+    "acceptedAnswers": [
+      "instructions"
+    ]
+  },
+  {
+    "id": "m2-u2-q008",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "system-operation-overview",
+    "confidence": "high",
+    "type": "gap",
+    "question": "System operation helps learners appreciate how computers solve problems, automate tasks, and support ____-making.",
+    "acceptedAnswers": [
+      "decision"
+    ]
+  },
+  {
+    "id": "m2-u2-q009",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "system-operation-overview",
+    "confidence": "high",
+    "type": "gap",
+    "question": "System operation ensures that data is correctly received from input devices or other ____.",
+    "acceptedAnswers": [
+      "sources"
+    ]
+  },
+  {
+    "id": "m2-u2-q010",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "system-operation-overview",
+    "confidence": "high",
+    "type": "gap",
+    "question": "System operation ensures that instructions are accurately interpreted and ____.",
+    "acceptedAnswers": [
+      "executed"
+    ]
+  },
+  {
+    "id": "m2-u2-q011",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "system-operation-overview",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Results are presented in a useful form to the ____.",
+    "acceptedAnswers": [
+      "user"
+    ]
+  },
+  {
+    "id": "m2-u2-q012",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "system-operation-overview",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Data and results are stored for future ____ where necessary.",
+    "acceptedAnswers": [
+      "retrieval"
+    ]
+  },
+  {
+    "id": "m2-u2-q013",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The system provides feedback to confirm successful processing or identify ____ that require correction.",
+    "acceptedAnswers": [
+      "errors"
+    ]
+  },
+  {
+    "id": "m2-u2-q014",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The operation of every computer system follows a continuous cycle known as the Information Processing ____.",
+    "acceptedAnswers": [
+      "Cycle"
+    ]
+  },
+  {
+    "id": "m2-u2-q015",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Information Processing Cycle illustrates how data flows through the system from the moment it is entered until meaningful information is produced and ____.",
+    "acceptedAnswers": [
+      "stored"
+    ]
+  },
+  {
+    "id": "m2-u2-q016",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The five stages of the Information Processing Cycle are Input, Processing, Output, Storage and ____.",
+    "acceptedAnswers": [
+      "Feedback"
+    ]
+  },
+  {
+    "id": "m2-u2-q017",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The ____ stage involves entering data and instructions into the computer system.",
+    "acceptedAnswers": [
+      "Input"
+    ]
+  },
+  {
+    "id": "m2-u2-q018",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The CPU performs calculations, comparisons, logical operations and decision-making during the ____ stage.",
+    "acceptedAnswers": [
+      "Processing"
+    ]
+  },
+  {
+    "id": "m2-u2-q019",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The processed information is presented to the user or another device during the ____ stage.",
+    "acceptedAnswers": [
+      "Output"
+    ]
+  },
+  {
+    "id": "m2-u2-q020",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Data, instructions and results are saved for immediate or future use during the ____ stage.",
+    "acceptedAnswers": [
+      "Storage"
+    ]
+  },
+  {
+    "id": "m2-u2-q021",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The system reports the outcome of processing or requests corrective action during the ____ stage.",
+    "acceptedAnswers": [
+      "Feedback"
+    ]
+  },
+  {
+    "id": "m2-u2-q022",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The process is continuous because the output of one operation often becomes the ____ to another.",
+    "acceptedAnswers": [
+      "input"
+    ]
+  },
+  {
+    "id": "m2-u2-q023",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "All computer systems repeatedly perform four essential functions: input, processing, storage and ____.",
+    "acceptedAnswers": [
+      "output"
+    ]
+  },
+  {
+    "id": "m2-u2-q024",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The input function involves accepting data and instructions from users or external ____.",
+    "acceptedAnswers": [
+      "devices"
+    ]
+  },
+  {
+    "id": "m2-u2-q025",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The processing function involves executing instructions and transforming data into meaningful ____.",
+    "acceptedAnswers": [
+      "information"
+    ]
+  },
+  {
+    "id": "m2-u2-q026",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The storage function involves saving data temporarily or permanently for future ____.",
+    "acceptedAnswers": [
+      "use"
+    ]
+  },
+  {
+    "id": "m2-u2-q027",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The output function involves delivering processed information to users or other ____.",
+    "acceptedAnswers": [
+      "devices"
+    ]
+  },
+  {
+    "id": "m2-u2-q028",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "fetch-decode-execute-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Instruction Cycle explains how the Central Processing Unit executes individual program ____.",
+    "acceptedAnswers": [
+      "instructions"
+    ]
+  },
+  {
+    "id": "m2-u2-q029",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "fetch-decode-execute-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The CPU processes instructions one after another using the Fetch–Decode–Execute ____.",
+    "acceptedAnswers": [
+      "Cycle"
+    ]
+  },
+  {
+    "id": "m2-u2-q030",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "fetch-decode-execute-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "During the Fetch stage, the Control Unit retrieves the next instruction from the computer's main ____.",
+    "acceptedAnswers": [
+      "memory"
+    ]
+  },
+  {
+    "id": "m2-u2-q031",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "fetch-decode-execute-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Control Unit retrieves the next instruction from ____ during the Fetch stage.",
+    "acceptedAnswers": [
+      "RAM"
+    ]
+  },
+  {
+    "id": "m2-u2-q032",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "fetch-decode-execute-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "During the Decode stage, the Control Unit interprets the ____.",
+    "acceptedAnswers": [
+      "instruction"
+    ]
+  },
+  {
+    "id": "m2-u2-q033",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "fetch-decode-execute-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "During the Execute stage, the CPU carries out the ____.",
+    "acceptedAnswers": [
+      "instruction"
+    ]
+  },
+  {
+    "id": "m2-u2-q034",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "fetch-decode-execute-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Execute stage may involve performing arithmetic calculations, comparing data, moving information, receiving input and sending ____.",
+    "acceptedAnswers": [
+      "results"
+    ]
+  },
+  {
+    "id": "m2-u2-q035",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "fetch-decode-execute-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "If an instruction produces new data or results, the CPU stores them in memory or ____ storage.",
+    "acceptedAnswers": [
+      "secondary"
+    ]
+  },
+  {
+    "id": "m2-u2-q036",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "fetch-decode-execute-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "After the instruction is executed, the CPU immediately fetches the ____ instruction.",
+    "acceptedAnswers": [
+      "next"
+    ]
+  },
+  {
+    "id": "m2-u2-q037",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "fetch-decode-execute-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Fetch–Decode–Execute Cycle is also referred to as the ____ Cycle.",
+    "acceptedAnswers": [
+      "Instruction"
+    ]
+  },
+  {
+    "id": "m2-u2-q038",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "fetch-decode-execute-cycle",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Fetch–Decode–Execute Cycle forms the fundamental operating principle of every ____ computer.",
+    "acceptedAnswers": [
+      "digital"
+    ]
+  },
+  {
+    "id": "m2-u2-q039",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "system-operation-overview",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following best describes the purpose of system operation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To manufacture computer components"
+      },
+      {
+        "id": "b",
+        "text": "To transform raw data into meaningful information"
+      },
+      {
+        "id": "c",
+        "text": "To replace computer users"
+      },
+      {
+        "id": "d",
+        "text": "To maintain only computer hardware"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m2-u2-q040",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following represents the basic pattern of system operation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Output → Input → Storage → Processing"
+      },
+      {
+        "id": "b",
+        "text": "Input → Processing → Storage → Output → Feedback"
+      },
+      {
+        "id": "c",
+        "text": "Storage → Input → Output → Processing"
+      },
+      {
+        "id": "d",
+        "text": "Feedback → Storage → Input → Output"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m2-u2-q041",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "system-operation-overview",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which component performs the physical operations in a computer system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Software"
+      },
+      {
+        "id": "b",
+        "text": "Hardware"
+      },
+      {
+        "id": "c",
+        "text": "Data"
+      },
+      {
+        "id": "d",
+        "text": "Procedures"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m2-u2-q042",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "system-operation-overview",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which component provides instructions that direct computer activities?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hardware"
+      },
+      {
+        "id": "b",
+        "text": "Software"
+      },
+      {
+        "id": "c",
+        "text": "User"
+      },
+      {
+        "id": "d",
+        "text": "Storage"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m2-u2-q043",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an example of an input device mentioned in the Information Processing Cycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Projector"
+      },
+      {
+        "id": "b",
+        "text": "Speaker"
+      },
+      {
+        "id": "c",
+        "text": "Microphone"
+      },
+      {
+        "id": "d",
+        "text": "Printer"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m2-u2-q044",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following can serve as an input device?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Webcam"
+      },
+      {
+        "id": "b",
+        "text": "Monitor"
+      },
+      {
+        "id": "c",
+        "text": "Printer"
+      },
+      {
+        "id": "d",
+        "text": "Projector"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m2-u2-q045",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is performed during the processing stage?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Presenting information to users"
+      },
+      {
+        "id": "b",
+        "text": "Saving results permanently"
+      },
+      {
+        "id": "c",
+        "text": "Calculating totals"
+      },
+      {
+        "id": "d",
+        "text": "Entering data through a keyboard"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m2-u2-q046",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an example of processing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sorting records"
+      },
+      {
+        "id": "b",
+        "text": "Printing documents"
+      },
+      {
+        "id": "c",
+        "text": "Saving data to an SSD"
+      },
+      {
+        "id": "d",
+        "text": "Displaying information on a monitor"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m2-u2-q047",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which device is identified as an output device?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Scanner"
+      },
+      {
+        "id": "b",
+        "text": "Monitor"
+      },
+      {
+        "id": "c",
+        "text": "Mouse"
+      },
+      {
+        "id": "d",
+        "text": "Sensor"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m2-u2-q048",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following can produce output in audio form?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Speakers"
+      },
+      {
+        "id": "b",
+        "text": "Scanner"
+      },
+      {
+        "id": "c",
+        "text": "Keyboard"
+      },
+      {
+        "id": "d",
+        "text": "Mouse"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m2-u2-q049",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an example of storage in the Information Processing Cycle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Flash drive"
+      },
+      {
+        "id": "b",
+        "text": "Microphone"
+      },
+      {
+        "id": "c",
+        "text": "Projector"
+      },
+      {
+        "id": "d",
+        "text": "Camera"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m2-u2-q050",
+    "module": "m2",
+    "unit": "m2-u2",
+    "topic": "information-processing-cycle",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an example of feedback?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Error messages"
+      },
+      {
+        "id": "b",
+        "text": "Keyboard"
+      },
+      {
+        "id": "c",
+        "text": "Scanner"
+      },
+      {
+        "id": "d",
+        "text": "RAM"
+      }
+    ],
+    "answer": "a"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "m3-u2-q001",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "printers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A printer is an output device that produces text and graphics on a physical medium such as ____.",
+    "acceptedAnswers": [
+      "paper"
+    ]
+  },
+  {
+    "id": "m3-u2-q002",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "printers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Printed information is often called ____ copy.",
+    "acceptedAnswers": [
+      "hard"
+    ]
+  },
+  {
+    "id": "m3-u2-q003",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "printers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Printers can be grouped into impact and ____-impact printers.",
+    "acceptedAnswers": [
+      "non"
+    ]
+  },
+  {
+    "id": "m3-u2-q004",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "printers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Laser printers combine a magnetic roller with powdered ink called ____.",
+    "acceptedAnswers": [
+      "toner"
+    ]
+  },
+  {
+    "id": "m3-u2-q005",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "printers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Inkjet printers have small nozzles that spray fast-drying ____ onto the page.",
+    "acceptedAnswers": [
+      "ink"
+    ]
+  },
+  {
+    "id": "m3-u2-q006",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "printers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Inkjet printers provide very good quality output at a lower ____.",
+    "acceptedAnswers": [
+      "cost"
+    ]
+  },
+  {
+    "id": "m3-u2-q007",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "printers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Dot-matrix printers use a print head to strike an inked ____ against paper.",
+    "acceptedAnswers": [
+      "ribbon"
+    ]
+  },
+  {
+    "id": "m3-u2-q008",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "printers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Dot-matrix printers create characters out of a series of ____.",
+    "acceptedAnswers": [
+      "dots"
+    ]
+  },
+  {
+    "id": "m3-u2-q009",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "printers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The 9-pin and ____-pin are common dot-matrix printer options.",
+    "acceptedAnswers": [
+      "24"
+    ]
+  },
+  {
+    "id": "m3-u2-q010",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "printers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The ____-pin printers produce higher-quality output but are somewhat slower than the 9-pin printers.",
+    "acceptedAnswers": [
+      "24"
+    ]
+  },
+  {
+    "id": "m3-u2-q011",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "printers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Draft mode in dot-matrix printing is described as ____ resolution.",
+    "acceptedAnswers": [
+      "low"
+    ]
+  },
+  {
+    "id": "m3-u2-q012",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "printers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Near-letter-quality mode is described as ____ resolution.",
+    "acceptedAnswers": [
+      "medium"
+    ]
+  },
+  {
+    "id": "m3-u2-q013",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "printers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Letter-quality mode is described as ____ resolution.",
+    "acceptedAnswers": [
+      "high"
+    ]
+  },
+  {
+    "id": "m3-u2-q014",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "monitors-display-types",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The monitor is the primary ____ device of a computer.",
+    "acceptedAnswers": [
+      "output"
+    ]
+  },
+  {
+    "id": "m3-u2-q015",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "monitors-display-types",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A monitor is also called a Visual Display ____.",
+    "acceptedAnswers": [
+      "Unit"
+    ]
+  },
+  {
+    "id": "m3-u2-q016",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "monitors-display-types",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the major distinction between hard copy and information presented on a monitor?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hard copy exists physically and is more permanent"
+      },
+      {
+        "id": "b",
+        "text": "Hard copy can only contain numbers"
+      },
+      {
+        "id": "c",
+        "text": "Monitor output is always permanent"
+      },
+      {
+        "id": "d",
+        "text": "Monitor output cannot contain graphics"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u2-q017",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "printers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which printer uses a magnetic roller together with powdered ink?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dot-matrix printer"
+      },
+      {
+        "id": "b",
+        "text": "Inkjet printer"
+      },
+      {
+        "id": "c",
+        "text": "Laser printer"
+      },
+      {
+        "id": "d",
+        "text": "Thermal printer"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m3-u2-q018",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "printers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the substance called that is used by a laser printer to produce output?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ribbon"
+      },
+      {
+        "id": "b",
+        "text": "Toner"
+      },
+      {
+        "id": "c",
+        "text": "Liquid crystal"
+      },
+      {
+        "id": "d",
+        "text": "Ink cartridge"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u2-q019",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "printers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which printer produces characters by spraying fine ink through small nozzles?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Laser printer"
+      },
+      {
+        "id": "b",
+        "text": "Dot-matrix printer"
+      },
+      {
+        "id": "c",
+        "text": "Inkjet printer"
+      },
+      {
+        "id": "d",
+        "text": "Impact printer"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m3-u2-q020",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "printers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which type of printer is described as the cheapest printer available?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Laser printer"
+      },
+      {
+        "id": "b",
+        "text": "Inkjet printer"
+      },
+      {
+        "id": "c",
+        "text": "Dot-matrix printer"
+      },
+      {
+        "id": "d",
+        "text": "OLED printer"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m3-u2-q021",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "printers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What determines the quality of an image produced by a dot-matrix printer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The number of pins used"
+      },
+      {
+        "id": "b",
+        "text": "The size of the monitor"
+      },
+      {
+        "id": "c",
+        "text": "The amount of toner"
+      },
+      {
+        "id": "d",
+        "text": "The type of sound card"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u2-q022",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "printers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which dot-matrix printing mode provides the fastest printing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Letter-quality mode"
+      },
+      {
+        "id": "b",
+        "text": "Near-letter-quality mode"
+      },
+      {
+        "id": "c",
+        "text": "Draft mode"
+      },
+      {
+        "id": "d",
+        "text": "High-resolution mode"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m3-u2-q023",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "printers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which type of printer is generally fast, quiet, and capable of producing high-quality text and graphics?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dot-matrix printer"
+      },
+      {
+        "id": "b",
+        "text": "Laser printer"
+      },
+      {
+        "id": "c",
+        "text": "Inkjet printer"
+      },
+      {
+        "id": "d",
+        "text": "Ribbon printer"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u2-q024",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "monitors-display-types",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What does a monitor do with the information it receives?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It processes the information independently"
+      },
+      {
+        "id": "b",
+        "text": "It stores the information permanently"
+      },
+      {
+        "id": "c",
+        "text": "It displays the information"
+      },
+      {
+        "id": "d",
+        "text": "It converts the information into printed output"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m3-u2-q025",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "monitors-display-types",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following statements about a monitor is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It performs all processing inside the computer"
+      },
+      {
+        "id": "b",
+        "text": "It displays information that the video card tells it to display"
+      },
+      {
+        "id": "c",
+        "text": "It stores all computer programs"
+      },
+      {
+        "id": "d",
+        "text": "It controls the CPU"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u2-q026",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "monitors-display-types",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which monitor technology was the earliest widely used display technology before LCD and LED displays became popular?",
+    "options": [
+      {
+        "id": "a",
+        "text": "OLED"
+      },
+      {
+        "id": "b",
+        "text": "LCD"
+      },
+      {
+        "id": "c",
+        "text": "CRT"
+      },
+      {
+        "id": "d",
+        "text": "Touchscreen"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m3-u2-q027",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "monitors-display-types",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What does CRT stand for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Computer Response Technology"
+      },
+      {
+        "id": "b",
+        "text": "Cathode Ray Tube"
+      },
+      {
+        "id": "c",
+        "text": "Central Ray Terminal"
+      },
+      {
+        "id": "d",
+        "text": "Computer Radiation Technology"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u2-q028",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "monitors-display-types",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which monitor uses liquid crystal technology to show images when light passes through it?",
+    "options": [
+      {
+        "id": "a",
+        "text": "CRT monitor"
+      },
+      {
+        "id": "b",
+        "text": "OLED monitor"
+      },
+      {
+        "id": "c",
+        "text": "LCD monitor"
+      },
+      {
+        "id": "d",
+        "text": "Touchscreen monitor"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m3-u2-q029",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "monitors-display-types",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What technology does an OLED monitor use to produce light?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cathode rays"
+      },
+      {
+        "id": "b",
+        "text": "Liquid crystals"
+      },
+      {
+        "id": "c",
+        "text": "Organic Light Emitting Diodes"
+      },
+      {
+        "id": "d",
+        "text": "Magnetic rollers"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m3-u2-q030",
+    "module": "m3",
+    "unit": "m3-u2",
+    "topic": "monitors-display-types",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What makes a touchscreen monitor different from an ordinary output-only monitor?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It cannot display information"
+      },
+      {
+        "id": "b",
+        "text": "It functions as both an input and output device"
+      },
+      {
+        "id": "c",
+        "text": "It only works with printers"
+      },
+      {
+        "id": "d",
+        "text": "It does not require electricity"
+      }
+    ],
+    "answer": "b"
+  }
+]

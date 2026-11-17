@@ -1,0 +1,742 @@
+[
+  {
+    "id": "m3-u6-q001",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "software-classification-and-os",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The physical components of the computer are called the ____.",
+    "acceptedAnswers": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "m3-u6-q002",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "software-classification-and-os",
+    "confidence": "high",
+    "type": "gap",
+    "question": "All the other resources or parts of the computer that are not hardware are referred to as the ____.",
+    "acceptedAnswers": [
+      "software"
+    ]
+  },
+  {
+    "id": "m3-u6-q003",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "software-classification-and-os",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Software is the set of programs that make the computer system ____.",
+    "acceptedAnswers": [
+      "active"
+    ]
+  },
+  {
+    "id": "m3-u6-q004",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "software-classification-and-os",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A program is a series of coded instructions showing the logical steps the computer follows to solve a given ____.",
+    "acceptedAnswers": [
+      "problem"
+    ]
+  },
+  {
+    "id": "m3-u6-q005",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "software-classification-and-os",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The computer software could be divided into system software, application software and a subgroup called ____ software.",
+    "acceptedAnswers": [
+      "utility"
+    ]
+  },
+  {
+    "id": "m3-u6-q006",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "software-classification-and-os",
+    "confidence": "high",
+    "type": "gap",
+    "question": "System software facilitates the optimal use of the ____ systems.",
+    "acceptedAnswers": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "m3-u6-q007",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "software-classification-and-os",
+    "confidence": "high",
+    "type": "gap",
+    "question": "An operating system acts as an interface between a user of a computer and the computer ____.",
+    "acceptedAnswers": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "m3-u6-q008",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "software-classification-and-os",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The purpose of an operating system is to provide an environment in which a user may execute ____.",
+    "acceptedAnswers": [
+      "programs"
+    ]
+  },
+  {
+    "id": "m3-u6-q009",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "software-classification-and-os",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The operating system controls and coordinates the use of the ____ among various programs and users.",
+    "acceptedAnswers": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "m3-u6-q010",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "software-classification-and-os",
+    "confidence": "high",
+    "type": "gap",
+    "question": "An operating system can be viewed as a resource ____.",
+    "acceptedAnswers": [
+      "allocator"
+    ]
+  },
+  {
+    "id": "m3-u6-q011",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "software-classification-and-os",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The operating system manages resources such as CPU time, memory space, file storage space, and input/output ____.",
+    "acceptedAnswers": [
+      "devices"
+    ]
+  },
+  {
+    "id": "m3-u6-q012",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "software-classification-and-os",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The primary goal of an operating system is ____ for the user.",
+    "acceptedAnswers": [
+      "convenience"
+    ]
+  },
+  {
+    "id": "m3-u6-q013",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "software-classification-and-os",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A secondary goal of an operating system is the ____ operation of the computer system.",
+    "acceptedAnswers": [
+      "efficient"
+    ]
+  },
+  {
+    "id": "m3-u6-q014",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "types-of-operating-systems",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Batch, time-shared and real time operating systems are distinguished by the nature of ____ between the computer user and the program.",
+    "acceptedAnswers": [
+      "interaction"
+    ]
+  },
+  {
+    "id": "m3-u6-q015",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "types-of-operating-systems",
+    "confidence": "high",
+    "type": "gap",
+    "question": "In a batch processing operating system, users submit jobs to a central place where these jobs are collected into a ____.",
+    "acceptedAnswers": [
+      "batch"
+    ]
+  },
+  {
+    "id": "m3-u6-q016",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "software-classification-and-os",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which software category provides a suitable environment for writing, editing, debugging, testing and running user programs?",
+    "options": [
+      {
+        "id": "a",
+        "text": "System software"
+      },
+      {
+        "id": "b",
+        "text": "Game software"
+      },
+      {
+        "id": "c",
+        "text": "Communication software"
+      },
+      {
+        "id": "d",
+        "text": "Graphic software"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u6-q017",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "software-classification-and-os",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the operating system primarily responsible for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Managing computer resources and providing an environment for programs"
+      },
+      {
+        "id": "b",
+        "text": "Producing printed documents"
+      },
+      {
+        "id": "c",
+        "text": "Designing computer hardware"
+      },
+      {
+        "id": "d",
+        "text": "Creating only statistical reports"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u6-q018",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "software-classification-and-os",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is a responsibility of an operating system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Allocating CPU time and memory space"
+      },
+      {
+        "id": "b",
+        "text": "Manufacturing processors"
+      },
+      {
+        "id": "c",
+        "text": "Printing every file automatically"
+      },
+      {
+        "id": "d",
+        "text": "Replacing application programs"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u6-q019",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "types-of-operating-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the major difference between batch processing and time-sharing operating systems?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Batch processing provides nearly full interaction during execution"
+      },
+      {
+        "id": "b",
+        "text": "Time-sharing provides users with concurrent online computing services"
+      },
+      {
+        "id": "c",
+        "text": "Batch processing requires several CPUs"
+      },
+      {
+        "id": "d",
+        "text": "Time-sharing does not use memory"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u6-q020",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "types-of-operating-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which operating system is designed for applications where response time is essential to prevent error or disaster?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Batch operating system"
+      },
+      {
+        "id": "b",
+        "text": "Time-sharing operating system"
+      },
+      {
+        "id": "c",
+        "text": "Real-time operating system"
+      },
+      {
+        "id": "d",
+        "text": "Network operating system"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m3-u6-q021",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "types-of-operating-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is a multiprogramming operating system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A system that permits more than one active user program to be stored in main memory simultaneously"
+      },
+      {
+        "id": "b",
+        "text": "A system containing several monitors"
+      },
+      {
+        "id": "c",
+        "text": "A system that uses only one program at a time"
+      },
+      {
+        "id": "d",
+        "text": "A system that has no memory"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u6-q022",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "types-of-operating-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the defining feature of a multiprocessing system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It contains more than one independent processing unit"
+      },
+      {
+        "id": "b",
+        "text": "It contains only one processing unit"
+      },
+      {
+        "id": "c",
+        "text": "It has no operating system"
+      },
+      {
+        "id": "d",
+        "text": "It cannot run programs concurrently"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u6-q023",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "types-of-operating-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What characterises a distributed operating system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Users must always know which processor runs their programs"
+      },
+      {
+        "id": "b",
+        "text": "It appears to users as a traditional uniprocessor system despite having multiple processors"
+      },
+      {
+        "id": "c",
+        "text": "It can only operate without networks"
+      },
+      {
+        "id": "d",
+        "text": "It cannot share processing loads"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u6-q024",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "operating-system-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which operating system component is responsible for the creation and deletion of user and system processes?",
+    "options": [
+      {
+        "id": "a",
+        "text": "File management"
+      },
+      {
+        "id": "b",
+        "text": "Process management"
+      },
+      {
+        "id": "c",
+        "text": "Networking"
+      },
+      {
+        "id": "d",
+        "text": "Command interpreter"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u6-q025",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "operating-system-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which operating system component keeps track of the parts of memory currently being used and by whom?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Memory management"
+      },
+      {
+        "id": "b",
+        "text": "File management"
+      },
+      {
+        "id": "c",
+        "text": "I/O system"
+      },
+      {
+        "id": "d",
+        "text": "Protection system"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u6-q026",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "operating-system-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the fastest memory in the memory hierarchy?",
+    "options": [
+      {
+        "id": "a",
+        "text": "RAM"
+      },
+      {
+        "id": "b",
+        "text": "Cache"
+      },
+      {
+        "id": "c",
+        "text": "CPU registers"
+      },
+      {
+        "id": "d",
+        "text": "Hard disk"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m3-u6-q027",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "operating-system-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which level of cache is the smallest and fastest?",
+    "options": [
+      {
+        "id": "a",
+        "text": "L1"
+      },
+      {
+        "id": "b",
+        "text": "L2"
+      },
+      {
+        "id": "c",
+        "text": "L3"
+      },
+      {
+        "id": "d",
+        "text": "RAM"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u6-q028",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "operating-system-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which type of RAM is used to build cache memory?",
+    "options": [
+      {
+        "id": "a",
+        "text": "DRAM"
+      },
+      {
+        "id": "b",
+        "text": "SRAM"
+      },
+      {
+        "id": "c",
+        "text": "ROM"
+      },
+      {
+        "id": "d",
+        "text": "PROM"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u6-q029",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "operating-system-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which type of memory is volatile?",
+    "options": [
+      {
+        "id": "a",
+        "text": "RAM"
+      },
+      {
+        "id": "b",
+        "text": "SSD"
+      },
+      {
+        "id": "c",
+        "text": "HDD"
+      },
+      {
+        "id": "d",
+        "text": "Magnetic tape"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u6-q030",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "operating-system-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is classified as tertiary storage?",
+    "options": [
+      {
+        "id": "a",
+        "text": "CPU register"
+      },
+      {
+        "id": "b",
+        "text": "Cache"
+      },
+      {
+        "id": "c",
+        "text": "Magnetic tape"
+      },
+      {
+        "id": "d",
+        "text": "RAM"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m3-u6-q031",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "operating-system-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which component of the I/O system knows the peculiarities of a specific hardware device?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Buffer caching system"
+      },
+      {
+        "id": "b",
+        "text": "Device driver"
+      },
+      {
+        "id": "c",
+        "text": "File manager"
+      },
+      {
+        "id": "d",
+        "text": "Command interpreter"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u6-q032",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "operating-system-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which operating system service provides a uniform logical view of information storage?",
+    "options": [
+      {
+        "id": "a",
+        "text": "File management"
+      },
+      {
+        "id": "b",
+        "text": "Networking"
+      },
+      {
+        "id": "c",
+        "text": "Process management"
+      },
+      {
+        "id": "d",
+        "text": "Memory management"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u6-q033",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "operating-system-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an operating system activity related to file management?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Creation and deletion of files"
+      },
+      {
+        "id": "b",
+        "text": "Manufacture of storage devices"
+      },
+      {
+        "id": "c",
+        "text": "Construction of processors"
+      },
+      {
+        "id": "d",
+        "text": "Production of monitors"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u6-q034",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "operating-system-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the primary interface between the user and the rest of the operating system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Memory hierarchy"
+      },
+      {
+        "id": "b",
+        "text": "Command interpreter"
+      },
+      {
+        "id": "c",
+        "text": "File storage"
+      },
+      {
+        "id": "d",
+        "text": "CPU register"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u6-q035",
+    "module": "m3",
+    "unit": "m3-u6",
+    "topic": "operating-system-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is a name used for the command interpreter in UNIX?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Shell"
+      },
+      {
+        "id": "b",
+        "text": "BIOS"
+      },
+      {
+        "id": "c",
+        "text": "Compiler"
+      },
+      {
+        "id": "d",
+        "text": "Driver"
+      }
+    ],
+    "answer": "a"
+  }
+]

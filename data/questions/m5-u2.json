@@ -1,0 +1,592 @@
+[
+  {
+    "id": "m5-u2-q001",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Electronic Mail is commonly abbreviated as ____.",
+    "acceptedAnswers": [
+      "Email"
+    ]
+  },
+  {
+    "id": "m5-u2-q002",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Email is used for sending and receiving messages electronically over the ____.",
+    "acceptedAnswers": [
+      "Internet"
+    ]
+  },
+  {
+    "id": "m5-u2-q003",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Email allows users to exchange text, files, images, and other digital ____.",
+    "acceptedAnswers": [
+      "content"
+    ]
+  },
+  {
+    "id": "m5-u2-q004",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Email operates using communication protocols such as the Simple Mail Transfer Protocol and the Internet Message Access ____.",
+    "acceptedAnswers": [
+      "Protocol"
+    ]
+  },
+  {
+    "id": "m5-u2-q005",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Email is one of the oldest and most widely used applications of the ____.",
+    "acceptedAnswers": [
+      "Internet"
+    ]
+  },
+  {
+    "id": "m5-u2-q006",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The sender's email address is contained in the ____ section of an email.",
+    "acceptedAnswers": [
+      "Header"
+    ]
+  },
+  {
+    "id": "m5-u2-q007",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The primary recipient of an email is specified in the ____ field.",
+    "acceptedAnswers": [
+      "To"
+    ]
+  },
+  {
+    "id": "m5-u2-q008",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Subject Line provides a concise, descriptive summary of the email's ____.",
+    "acceptedAnswers": [
+      "topic"
+    ]
+  },
+  {
+    "id": "m5-u2-q009",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Cc means ____ Copy.",
+    "acceptedAnswers": [
+      "Carbon"
+    ]
+  },
+  {
+    "id": "m5-u2-q010",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Bcc means ____ Carbon Copy.",
+    "acceptedAnswers": [
+      "Blind"
+    ]
+  },
+  {
+    "id": "m5-u2-q011",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Bcc recipients are hidden from others to protect ____.",
+    "acceptedAnswers": [
+      "privacy"
+    ]
+  },
+  {
+    "id": "m5-u2-q012",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The actual content of an email is contained in the ____.",
+    "acceptedAnswers": [
+      "Body"
+    ]
+  },
+  {
+    "id": "m5-u2-q013",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A closing phrase followed by the sender's name, title, and contact details is called the ____.",
+    "acceptedAnswers": [
+      "Sign-off/Signature",
+      "Sign-off",
+      "Signature"
+    ]
+  },
+  {
+    "id": "m5-u2-q014",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Digital files sent alongside an email are called ____.",
+    "acceptedAnswers": [
+      "Attachments"
+    ]
+  },
+  {
+    "id": "m5-u2-q015",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is one of the most widely used applications of the Internet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Electronic mail"
+      },
+      {
+        "id": "b",
+        "text": "Computer assembly"
+      },
+      {
+        "id": "c",
+        "text": "Processor design"
+      },
+      {
+        "id": "d",
+        "text": "Hardware manufacturing"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m5-u2-q016",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following can be exchanged through email?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Text only"
+      },
+      {
+        "id": "b",
+        "text": "Digital content such as text, files and images"
+      },
+      {
+        "id": "c",
+        "text": "Hardware components only"
+      },
+      {
+        "id": "d",
+        "text": "Electrical signals only"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m5-u2-q017",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which protocol is responsible for sending email messages?",
+    "options": [
+      {
+        "id": "a",
+        "text": "SMTP"
+      },
+      {
+        "id": "b",
+        "text": "DNS"
+      },
+      {
+        "id": "c",
+        "text": "DHCP"
+      },
+      {
+        "id": "d",
+        "text": "TCP"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m5-u2-q018",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which protocol is associated with retrieving email messages?",
+    "options": [
+      {
+        "id": "a",
+        "text": "HTTP"
+      },
+      {
+        "id": "b",
+        "text": "IMAP"
+      },
+      {
+        "id": "c",
+        "text": "FTP"
+      },
+      {
+        "id": "d",
+        "text": "DNS"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m5-u2-q019",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which part of an email identifies information such as the sender and recipient?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Body"
+      },
+      {
+        "id": "b",
+        "text": "Attachment"
+      },
+      {
+        "id": "c",
+        "text": "Header"
+      },
+      {
+        "id": "d",
+        "text": "Signature"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m5-u2-q020",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which email field specifies the main recipient?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cc"
+      },
+      {
+        "id": "b",
+        "text": "Bcc"
+      },
+      {
+        "id": "c",
+        "text": "Subject"
+      },
+      {
+        "id": "d",
+        "text": "To"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "id": "m5-u2-q021",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the main purpose of the Subject Line in an email?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To provide a concise summary of the email's topic"
+      },
+      {
+        "id": "b",
+        "text": "To hide recipients"
+      },
+      {
+        "id": "c",
+        "text": "To attach files"
+      },
+      {
+        "id": "d",
+        "text": "To identify the Internet provider"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m5-u2-q022",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What does Cc mean in email communication?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Computer Copy"
+      },
+      {
+        "id": "b",
+        "text": "Carbon Copy"
+      },
+      {
+        "id": "c",
+        "text": "Central Copy"
+      },
+      {
+        "id": "d",
+        "text": "Confidential Copy"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m5-u2-q023",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the purpose of the Cc field?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To send a copy of the message to additional recipients"
+      },
+      {
+        "id": "b",
+        "text": "To hide all recipients"
+      },
+      {
+        "id": "c",
+        "text": "To delete the email"
+      },
+      {
+        "id": "d",
+        "text": "To attach a file"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m5-u2-q024",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What does Bcc mean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Basic Carbon Copy"
+      },
+      {
+        "id": "b",
+        "text": "Blind Carbon Copy"
+      },
+      {
+        "id": "c",
+        "text": "Backup Computer Copy"
+      },
+      {
+        "id": "d",
+        "text": "Business Communication Copy"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m5-u2-q025",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Why is Bcc useful?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It allows recipients to see one another"
+      },
+      {
+        "id": "b",
+        "text": "It protects recipient privacy by hiding addresses from other recipients"
+      },
+      {
+        "id": "c",
+        "text": "It prevents email attachments"
+      },
+      {
+        "id": "d",
+        "text": "It removes the subject line"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m5-u2-q026",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which part of an email contains the actual message written by the sender?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Header"
+      },
+      {
+        "id": "b",
+        "text": "Subject"
+      },
+      {
+        "id": "c",
+        "text": "Body"
+      },
+      {
+        "id": "d",
+        "text": "Address"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m5-u2-q027",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is normally included at the end of a professional email?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sign-off or signature"
+      },
+      {
+        "id": "b",
+        "text": "IP address"
+      },
+      {
+        "id": "c",
+        "text": "DNS record"
+      },
+      {
+        "id": "d",
+        "text": "Router address"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m5-u2-q028",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is an email attachment?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A digital file sent alongside an email"
+      },
+      {
+        "id": "b",
+        "text": "A network cable"
+      },
+      {
+        "id": "c",
+        "text": "An Internet protocol"
+      },
+      {
+        "id": "d",
+        "text": "A domain name"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m5-u2-q029",
+    "module": "m5",
+    "unit": "m5-u2",
+    "topic": "email-components-and-features",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following can be sent as an email attachment?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A digital file"
+      },
+      {
+        "id": "b",
+        "text": "A router"
+      },
+      {
+        "id": "c",
+        "text": "A monitor"
+      },
+      {
+        "id": "d",
+        "text": "A network cable"
+      }
+    ],
+    "answer": "a"
+  }
+]

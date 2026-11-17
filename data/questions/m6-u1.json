@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "m6-u1-q001",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The computing profession has expanded into several specialised ____.",
+    "acceptedAnswers": [
+      "fields"
+    ]
+  },
+  {
+    "id": "m6-u1-q002",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Computing professionals play vital roles in driving ____ across industries.",
+    "acceptedAnswers": [
+      "innovation"
+    ]
+  },
+  {
+    "id": "m6-u1-q003",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "cybersecurity",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The major branches of computing include Computer Science, Information Technology, Software Engineering, Computer Engineering, Information Systems, Cybersecurity, and ____.",
+    "acceptedAnswers": [
+      "Data Science"
+    ]
+  },
+  {
+    "id": "m6-u1-q004",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Computer Science is the study of computers and computational ____.",
+    "acceptedAnswers": [
+      "systems"
+    ]
+  },
+  {
+    "id": "m6-u1-q005",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Computer Science involves the design, development, and analysis of algorithms, software, and ____.",
+    "acceptedAnswers": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "m6-u1-q006",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Computer Science is both a theoretical discipline and a ____ discipline.",
+    "acceptedAnswers": [
+      "practical"
+    ]
+  },
+  {
+    "id": "m6-u1-q007",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The theoretical aspect of Computer Science focuses on algorithms, computation, and data ____.",
+    "acceptedAnswers": [
+      "structures"
+    ]
+  },
+  {
+    "id": "m6-u1-q008",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Computer Science integrates concepts from Mathematics, Engineering, and ____ sciences.",
+    "acceptedAnswers": [
+      "natural"
+    ]
+  },
+  {
+    "id": "m6-u1-q009",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Mathematics contributes logic and discrete ____ to Computer Science.",
+    "acceptedAnswers": [
+      "structures"
+    ]
+  },
+  {
+    "id": "m6-u1-q010",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Engineering contributes ____ design to Computer Science.",
+    "acceptedAnswers": [
+      "system"
+    ]
+  },
+  {
+    "id": "m6-u1-q011",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Computer Science is concerned with designing efficient ____.",
+    "acceptedAnswers": [
+      "algorithms"
+    ]
+  },
+  {
+    "id": "m6-u1-q012",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A programming language is a formal system of rules and instructions used by humans to communicate with ____.",
+    "acceptedAnswers": [
+      "computers"
+    ]
+  },
+  {
+    "id": "m6-u1-q013",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Programming languages allow developers to express algorithms in a ____-readable format.",
+    "acceptedAnswers": [
+      "human"
+    ]
+  },
+  {
+    "id": "m6-u1-q014",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The human-readable format of an algorithm is translated into a machine-executable ____.",
+    "acceptedAnswers": [
+      "binary"
+    ]
+  },
+  {
+    "id": "m6-u1-q015",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "High-level languages use ____-like syntax.",
+    "acceptedAnswers": [
+      "English"
+    ]
+  },
+  {
+    "id": "m6-u1-q016",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Low-level languages provide direct ____ control.",
+    "acceptedAnswers": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "m6-u1-q017",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Low-level languages are complex and ____-dependent.",
+    "acceptedAnswers": [
+      "machine"
+    ]
+  },
+  {
+    "id": "m6-u1-q018",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Compiled languages are converted entirely into machine code before ____.",
+    "acceptedAnswers": [
+      "execution"
+    ]
+  },
+  {
+    "id": "m6-u1-q019",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Interpreted languages execute code line-by-line during ____.",
+    "acceptedAnswers": [
+      "runtime"
+    ]
+  },
+  {
+    "id": "m6-u1-q020",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Object-Oriented Programming organises code around reusable ____.",
+    "acceptedAnswers": [
+      "objects"
+    ]
+  },
+  {
+    "id": "m6-u1-q021",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Functional programming focuses on mathematical functions and ____ data.",
+    "acceptedAnswers": [
+      "immutable"
+    ]
+  },
+  {
+    "id": "m6-u1-q022",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Procedural languages follow a linear sequence of ____.",
+    "acceptedAnswers": [
+      "commands"
+    ]
+  },
+  {
+    "id": "m6-u1-q023",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Python is a leading language for artificial intelligence, data science, and ____.",
+    "acceptedAnswers": [
+      "automation"
+    ]
+  },
+  {
+    "id": "m6-u1-q024",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "JavaScript is essential for ____ development.",
+    "acceptedAnswers": [
+      "web"
+    ]
+  },
+  {
+    "id": "m6-u1-q025",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Java is widely used in enterprise software, Android apps, and large-scale ____ systems.",
+    "acceptedAnswers": [
+      "banking"
+    ]
+  },
+  {
+    "id": "m6-u1-q026",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "C and C++ are preferred for system programming, operating systems, and high-performance ____ engines.",
+    "acceptedAnswers": [
+      "game"
+    ]
+  },
+  {
+    "id": "m6-u1-q027",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "SQL is a domain-specific language used exclusively for database management and data ____.",
+    "acceptedAnswers": [
+      "manipulation"
+    ]
+  },
+  {
+    "id": "m6-u1-q028",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Swift and Kotlin are modern languages designed for native ____ app development.",
+    "acceptedAnswers": [
+      "mobile"
+    ]
+  },
+  {
+    "id": "m6-u1-q029",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Rust is noted for ____ security.",
+    "acceptedAnswers": [
+      "memory"
+    ]
+  },
+  {
+    "id": "m6-u1-q030",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Go excels in ____ infrastructure.",
+    "acceptedAnswers": [
+      "cloud"
+    ]
+  },
+  {
+    "id": "m6-u1-q031",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Information Technology is concerned with the selection, deployment, configuration, management, security, and ____ of computing technologies.",
+    "acceptedAnswers": [
+      "support"
+    ]
+  },
+  {
+    "id": "m6-u1-q032",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "gap",
+    "question": "IT is about making technology work reliably, securely, and ____.",
+    "acceptedAnswers": [
+      "efficiently"
+    ]
+  },
+  {
+    "id": "m6-u1-q033",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Information Technology uses computers, storage, networking, and physical ____.",
+    "acceptedAnswers": [
+      "devices"
+    ]
+  },
+  {
+    "id": "m6-u1-q034",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Hardware is one of the core components of IT and includes servers, computers, data centres, and physical ____.",
+    "acceptedAnswers": [
+      "devices"
+    ]
+  },
+  {
+    "id": "m6-u1-q035",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Software includes applications, operating systems, and functional ____.",
+    "acceptedAnswers": [
+      "programs"
+    ]
+  },
+  {
+    "id": "m6-u1-q036",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Networking facilitates communication through routers, switches, and the ____.",
+    "acceptedAnswers": [
+      "internet"
+    ]
+  },
+  {
+    "id": "m6-u1-q037",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Data management involves storing, securing, and ____ information.",
+    "acceptedAnswers": [
+      "retrieving"
+    ]
+  },
+  {
+    "id": "m6-u1-q038",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Software engineering is the systematic application of engineering principles, methods, and ____ to software systems.",
+    "acceptedAnswers": [
+      "tools"
+    ]
+  },
+  {
+    "id": "m6-u1-q039",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Software engineering focuses on creating reliable, scalable, and ____ solutions.",
+    "acceptedAnswers": [
+      "efficient"
+    ]
+  },
+  {
+    "id": "m6-u1-q040",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Software engineering involves design, development, testing, and ____ of software systems.",
+    "acceptedAnswers": [
+      "maintenance"
+    ]
+  },
+  {
+    "id": "m6-u1-q041",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Design and architecture involve creating high-level, scalable, and ____ system architectures.",
+    "acceptedAnswers": [
+      "secure"
+    ]
+  },
+  {
+    "id": "m6-u1-q042",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Development involves writing code for front-end and ____ systems.",
+    "acceptedAnswers": [
+      "back-end"
+    ]
+  },
+  {
+    "id": "m6-u1-q043",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Testing and maintenance ensure software ____.",
+    "acceptedAnswers": [
+      "quality"
+    ]
+  },
+  {
+    "id": "m6-u1-q044",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Agile, Scrum, and DevOps are structured software development ____.",
+    "acceptedAnswers": [
+      "methodologies"
+    ]
+  },
+  {
+    "id": "m6-u1-q045",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A software engineer may work as a Software Developer, Systems Software Engineer, Front- end/Back-end Engineer, or Solutions ____.",
+    "acceptedAnswers": [
+      "Architect"
+    ]
+  },
+  {
+    "id": "m6-u1-q046",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-engineering-and-is",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Computer engineering combines electrical engineering and ____ science.",
+    "acceptedAnswers": [
+      "computer"
+    ]
+  },
+  {
+    "id": "m6-u1-q047",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-engineering-and-is",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Computer engineers create processors, circuit boards, robotics, and ____ systems.",
+    "acceptedAnswers": [
+      "embedded"
+    ]
+  },
+  {
+    "id": "m6-u1-q048",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-engineering-and-is",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Computer engineering bridges the gap between low-level hardware and high-level ____.",
+    "acceptedAnswers": [
+      "software"
+    ]
+  },
+  {
+    "id": "m6-u1-q049",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-engineering-and-is",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Hardware design in computer engineering focuses on processors, memory chips, and circuit ____.",
+    "acceptedAnswers": [
+      "boards"
+    ]
+  },
+  {
+    "id": "m6-u1-q050",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-engineering-and-is",
+    "confidence": "high",
+    "type": "gap",
+    "question": "System integration combines hardware and software for specialised ____.",
+    "acceptedAnswers": [
+      "products"
+    ]
+  },
+  {
+    "id": "m6-u1-q051",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-engineering-and-is",
+    "confidence": "high",
+    "type": "gap",
+    "question": "An information system is an integrated set of components designed to collect, process, store, and distribute ____.",
+    "acceptedAnswers": [
+      "information"
+    ]
+  },
+  {
+    "id": "m6-u1-q052",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Unlike IT, Information Systems focuses on using technology to achieve ____ goals.",
+    "acceptedAnswers": [
+      "business"
+    ]
+  },
+  {
+    "id": "m6-u1-q053",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-engineering-and-is",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The components of an information system include hardware, software, data, networks, and ____.",
+    "acceptedAnswers": [
+      "people"
+    ]
+  },
+  {
+    "id": "m6-u1-q054",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-engineering-and-is",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A Systems Analyst analyses and designs improvements to information ____.",
+    "acceptedAnswers": [
+      "systems"
+    ]
+  },
+  {
+    "id": "m6-u1-q055",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-engineering-and-is",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A Database Administrator manages databases and ensures data ____.",
+    "acceptedAnswers": [
+      "integrity"
+    ]
+  },
+  {
+    "id": "m6-u1-q056",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "cybersecurity",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Cybersecurity is the practice of protecting systems, networks, and data from digital ____.",
+    "acceptedAnswers": [
+      "attacks"
+    ]
+  },
+  {
+    "id": "m6-u1-q057",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "cybersecurity",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The three main goals of cybersecurity are known as the ____ triad.",
+    "acceptedAnswers": [
+      "CIA"
+    ]
+  },
+  {
+    "id": "m6-u1-q058",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "cybersecurity",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Confidentiality means keeping data ____.",
+    "acceptedAnswers": [
+      "private"
+    ]
+  },
+  {
+    "id": "m6-u1-q059",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "cybersecurity",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Integrity ensures that data is not altered or ____.",
+    "acceptedAnswers": [
+      "tampered"
+    ]
+  },
+  {
+    "id": "m6-u1-q060",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "cybersecurity",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Availability ensures that systems and data are accessible when ____.",
+    "acceptedAnswers": [
+      "needed"
+    ]
+  },
+  {
+    "id": "m6-u1-q061",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is identified as a practical focus of Computer Science?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Building software and systems"
+      },
+      {
+        "id": "b",
+        "text": "Managing organisational payroll"
+      },
+      {
+        "id": "c",
+        "text": "Protecting cloud infrastructure"
+      },
+      {
+        "id": "d",
+        "text": "Managing business databases"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m6-u1-q062",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is associated with the theoretical aspect of Computer Science?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hardware maintenance"
+      },
+      {
+        "id": "b",
+        "text": "Computation"
+      },
+      {
+        "id": "c",
+        "text": "Network installation"
+      },
+      {
+        "id": "d",
+        "text": "Database administration"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m6-u1-q063",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which programming language is identified as being used for server-side logic through Node.js?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Java"
+      },
+      {
+        "id": "b",
+        "text": "Rust"
+      },
+      {
+        "id": "c",
+        "text": "JavaScript"
+      },
+      {
+        "id": "d",
+        "text": "Swift"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m6-u1-q064",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which language is widely used for Android applications?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Java"
+      },
+      {
+        "id": "b",
+        "text": "SQL"
+      },
+      {
+        "id": "c",
+        "text": "Rust"
+      },
+      {
+        "id": "d",
+        "text": "Go"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m6-u1-q065",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which programming language is described as a domain-specific language?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Python"
+      },
+      {
+        "id": "b",
+        "text": "JavaScript"
+      },
+      {
+        "id": "c",
+        "text": "SQL"
+      },
+      {
+        "id": "d",
+        "text": "C++"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m6-u1-q066",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which language is specifically associated with native iOS application development?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kotlin"
+      },
+      {
+        "id": "b",
+        "text": "Swift"
+      },
+      {
+        "id": "c",
+        "text": "Java"
+      },
+      {
+        "id": "d",
+        "text": "Go"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m6-u1-q067",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which language is specifically associated with native Android application development?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Swift"
+      },
+      {
+        "id": "b",
+        "text": "Rust"
+      },
+      {
+        "id": "c",
+        "text": "Kotlin"
+      },
+      {
+        "id": "d",
+        "text": "C"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m6-u1-q068",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which programming language is noted for memory security?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Go"
+      },
+      {
+        "id": "b",
+        "text": "Rust"
+      },
+      {
+        "id": "c",
+        "text": "JavaScript"
+      },
+      {
+        "id": "d",
+        "text": "Python"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m6-u1-q069",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "computer-science-and-languages",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which programming language is noted for cloud infrastructure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Go"
+      },
+      {
+        "id": "b",
+        "text": "C++"
+      },
+      {
+        "id": "c",
+        "text": "Java"
+      },
+      {
+        "id": "d",
+        "text": "Swift"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m6-u1-q070",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is a core component of Information Technology?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Data Management"
+      },
+      {
+        "id": "b",
+        "text": "Quantum mechanics"
+      },
+      {
+        "id": "c",
+        "text": "Ethical hacking"
+      },
+      {
+        "id": "d",
+        "text": "Machine learning"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m6-u1-q071",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following belongs to the hardware component of IT?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Operating systems"
+      },
+      {
+        "id": "b",
+        "text": "Functional programs"
+      },
+      {
+        "id": "c",
+        "text": "Data centres"
+      },
+      {
+        "id": "d",
+        "text": "Business applications"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m6-u1-q072",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which IT component facilitates communication between computing devices?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Networking"
+      },
+      {
+        "id": "b",
+        "text": "Data management"
+      },
+      {
+        "id": "c",
+        "text": "Software"
+      },
+      {
+        "id": "d",
+        "text": "Hardware"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m6-u1-q073",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an example of a networking device mentioned in the material?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Router"
+      },
+      {
+        "id": "b",
+        "text": "Database"
+      },
+      {
+        "id": "c",
+        "text": "Smartphone"
+      },
+      {
+        "id": "d",
+        "text": "Tablet"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m6-u1-q074",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is identified as an impact of IT on modern life?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Remote work"
+      },
+      {
+        "id": "b",
+        "text": "Reduced communication"
+      },
+      {
+        "id": "c",
+        "text": "Elimination of healthcare records"
+      },
+      {
+        "id": "d",
+        "text": "Removal of digital infrastructure"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m6-u1-q075",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which technology is identified as contributing to the rapid evolution of IT?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Artificial intelligence"
+      },
+      {
+        "id": "b",
+        "text": "Typewriters"
+      },
+      {
+        "id": "c",
+        "text": "Mechanical calculators"
+      },
+      {
+        "id": "d",
+        "text": "Filing cabinets"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m6-u1-q076",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which software engineering component is concerned with repairing bugs?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Development"
+      },
+      {
+        "id": "b",
+        "text": "Testing and Maintenance"
+      },
+      {
+        "id": "c",
+        "text": "Design and Architecture"
+      },
+      {
+        "id": "d",
+        "text": "System Integration"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m6-u1-q077",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is identified as a software engineering methodology?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Scrum"
+      },
+      {
+        "id": "b",
+        "text": "Python"
+      },
+      {
+        "id": "c",
+        "text": "SQL"
+      },
+      {
+        "id": "d",
+        "text": "Git"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m6-u1-q078",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which tool is mentioned in connection with version control?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Git"
+      },
+      {
+        "id": "b",
+        "text": "Rust"
+      },
+      {
+        "id": "c",
+        "text": "Kotlin"
+      },
+      {
+        "id": "d",
+        "text": "Java"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m6-u1-q079",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is a role in software engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Solutions Architect"
+      },
+      {
+        "id": "b",
+        "text": "Database Administrator"
+      },
+      {
+        "id": "c",
+        "text": "Business Intelligence Analyst"
+      },
+      {
+        "id": "d",
+        "text": "Information Security Analyst"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m6-u1-q080",
+    "module": "m6",
+    "unit": "m6-u1",
+    "topic": "it-and-software-engineering",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which degree is commonly associated with a career in software engineering?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bachelor’s degree in Computer Science"
+      },
+      {
+        "id": "b",
+        "text": "Bachelor’s degree in History"
+      },
+      {
+        "id": "c",
+        "text": "Bachelor’s degree in Geography"
+      },
+      {
+        "id": "d",
+        "text": "Bachelor’s degree in Philosophy"
+      }
+    ],
+    "answer": "a"
+  }
+]

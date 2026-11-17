@@ -1,0 +1,1306 @@
+[
+  {
+    "id": "m4-u2-q001",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Data representation refers to the methods used to encode and ____ data in a computer system.",
+    "acceptedAnswers": [
+      "store"
+    ]
+  },
+  {
+    "id": "m4-u2-q002",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Data representation enables data to be processed ____.",
+    "acceptedAnswers": [
+      "efficiently"
+    ]
+  },
+  {
+    "id": "m4-u2-q003",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Since computers operate on electronic signals, all forms of data must be converted into a format the ____ can understand.",
+    "acceptedAnswers": [
+      "machine"
+    ]
+  },
+  {
+    "id": "m4-u2-q004",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The binary form uses the digits ____ and 1.",
+    "acceptedAnswers": [
+      "0"
+    ]
+  },
+  {
+    "id": "m4-u2-q005",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The digits 0 and 1 used in binary are called ____.",
+    "acceptedAnswers": [
+      "bits"
+    ]
+  },
+  {
+    "id": "m4-u2-q006",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Bit is an acronym for ____ digit.",
+    "acceptedAnswers": [
+      "binary"
+    ]
+  },
+  {
+    "id": "m4-u2-q007",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A bit is the smallest piece of information that can be stored and ____ in a computer.",
+    "acceptedAnswers": [
+      "manipulated"
+    ]
+  },
+  {
+    "id": "m4-u2-q008",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "gap",
+    "question": "When bits are organised into larger units, they are called a ____.",
+    "acceptedAnswers": [
+      "byte"
+    ]
+  },
+  {
+    "id": "m4-u2-q009",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Binary representation expresses numbers, characters, images, sounds, and instructions using only ____ digits.",
+    "acceptedAnswers": [
+      "two"
+    ]
+  },
+  {
+    "id": "m4-u2-q010",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The binary system is also known as ____-2.",
+    "acceptedAnswers": [
+      "Base"
+    ]
+  },
+  {
+    "id": "m4-u2-q011",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The decimal system is known as ____-10.",
+    "acceptedAnswers": [
+      "base"
+    ]
+  },
+  {
+    "id": "m4-u2-q012",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Each position in the binary system represents a power of ____.",
+    "acceptedAnswers": [
+      "2"
+    ]
+  },
+  {
+    "id": "m4-u2-q013",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The rightmost position in a binary number has the place value 2⁰, which has a value of ____.",
+    "acceptedAnswers": [
+      "1"
+    ]
+  },
+  {
+    "id": "m4-u2-q014",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The second position from the right in binary has the place value ____.",
+    "acceptedAnswers": [
+      "2"
+    ]
+  },
+  {
+    "id": "m4-u2-q015",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The third position from the right in binary has the place value ____.",
+    "acceptedAnswers": [
+      "4"
+    ]
+  },
+  {
+    "id": "m4-u2-q016",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The fourth position from the right in binary has the place value ____.",
+    "acceptedAnswers": [
+      "8"
+    ]
+  },
+  {
+    "id": "m4-u2-q017",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The fifth position from the right in binary has the place value ____.",
+    "acceptedAnswers": [
+      "16"
+    ]
+  },
+  {
+    "id": "m4-u2-q018",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The sixth position from the right in binary has the place value ____.",
+    "acceptedAnswers": [
+      "32"
+    ]
+  },
+  {
+    "id": "m4-u2-q019",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The seventh position from the right in binary has the place value ____.",
+    "acceptedAnswers": [
+      "64"
+    ]
+  },
+  {
+    "id": "m4-u2-q020",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The eighth position from the right in binary has the place value ____.",
+    "acceptedAnswers": [
+      "128"
+    ]
+  },
+  {
+    "id": "m4-u2-q021",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which number system uses ten digits from 0 to 9?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Binary"
+      },
+      {
+        "id": "b",
+        "text": "Octal"
+      },
+      {
+        "id": "c",
+        "text": "Decimal"
+      },
+      {
+        "id": "d",
+        "text": "Hexadecimal"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m4-u2-q022",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "octal-and-hexadecimal-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which number system uses eight numbers between 0 and 7?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Octal"
+      },
+      {
+        "id": "b",
+        "text": "Decimal"
+      },
+      {
+        "id": "c",
+        "text": "Binary"
+      },
+      {
+        "id": "d",
+        "text": "Hexadecimal"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m4-u2-q023",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "octal-and-hexadecimal-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which number system is used as shorthand for binary numbers?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Decimal"
+      },
+      {
+        "id": "b",
+        "text": "Octal"
+      },
+      {
+        "id": "c",
+        "text": "Character"
+      },
+      {
+        "id": "d",
+        "text": "EBCDIC"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m4-u2-q024",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the decimal equivalent of binary 1011₂?",
+    "options": [
+      {
+        "id": "a",
+        "text": "9"
+      },
+      {
+        "id": "b",
+        "text": "10"
+      },
+      {
+        "id": "c",
+        "text": "11"
+      },
+      {
+        "id": "d",
+        "text": "12"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m4-u2-q025",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the decimal equivalent of binary 11001₂?",
+    "options": [
+      {
+        "id": "a",
+        "text": "23"
+      },
+      {
+        "id": "b",
+        "text": "24"
+      },
+      {
+        "id": "c",
+        "text": "25"
+      },
+      {
+        "id": "d",
+        "text": "26"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m4-u2-q026",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the decimal equivalent of binary 11111111₂?",
+    "options": [
+      {
+        "id": "a",
+        "text": "255"
+      },
+      {
+        "id": "b",
+        "text": "256"
+      },
+      {
+        "id": "c",
+        "text": "128"
+      },
+      {
+        "id": "d",
+        "text": "127"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m4-u2-q027",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the binary equivalent of decimal 13?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1010₂"
+      },
+      {
+        "id": "b",
+        "text": "1101₂"
+      },
+      {
+        "id": "c",
+        "text": "1110₂"
+      },
+      {
+        "id": "d",
+        "text": "1001₂"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m4-u2-q028",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the binary equivalent of decimal 58?",
+    "options": [
+      {
+        "id": "a",
+        "text": "110110₂"
+      },
+      {
+        "id": "b",
+        "text": "101110₂"
+      },
+      {
+        "id": "c",
+        "text": "111010₂"
+      },
+      {
+        "id": "d",
+        "text": "100110₂"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m4-u2-q029",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "octal-and-hexadecimal-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the decimal equivalent of octal 423₈?",
+    "options": [
+      {
+        "id": "a",
+        "text": "265"
+      },
+      {
+        "id": "b",
+        "text": "275"
+      },
+      {
+        "id": "c",
+        "text": "285"
+      },
+      {
+        "id": "d",
+        "text": "295"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m4-u2-q030",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "octal-and-hexadecimal-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the octal equivalent of decimal 216?",
+    "options": [
+      {
+        "id": "a",
+        "text": "320₈"
+      },
+      {
+        "id": "b",
+        "text": "330₈"
+      },
+      {
+        "id": "c",
+        "text": "340₈"
+      },
+      {
+        "id": "d",
+        "text": "350₈"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m4-u2-q031",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "octal-and-hexadecimal-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the hexadecimal equivalent of decimal 132?",
+    "options": [
+      {
+        "id": "a",
+        "text": "82₁₆"
+      },
+      {
+        "id": "b",
+        "text": "83₁₆"
+      },
+      {
+        "id": "c",
+        "text": "84₁₆"
+      },
+      {
+        "id": "d",
+        "text": "85₁₆"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m4-u2-q032",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "octal-and-hexadecimal-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the decimal equivalent of 84h?",
+    "options": [
+      {
+        "id": "a",
+        "text": "130"
+      },
+      {
+        "id": "b",
+        "text": "131"
+      },
+      {
+        "id": "c",
+        "text": "132"
+      },
+      {
+        "id": "d",
+        "text": "134"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m4-u2-q033",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "octal-and-hexadecimal-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the decimal equivalent of 2AFh?",
+    "options": [
+      {
+        "id": "a",
+        "text": "687"
+      },
+      {
+        "id": "b",
+        "text": "677"
+      },
+      {
+        "id": "c",
+        "text": "697"
+      },
+      {
+        "id": "d",
+        "text": "707"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m4-u2-q034",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "octal-and-hexadecimal-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the binary equivalent of hexadecimal 9A2h?",
+    "options": [
+      {
+        "id": "a",
+        "text": "100110100010₂"
+      },
+      {
+        "id": "b",
+        "text": "100101100010₂"
+      },
+      {
+        "id": "c",
+        "text": "101110100010₂"
+      },
+      {
+        "id": "d",
+        "text": "100110110010₂"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m4-u2-q035",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "octal-and-hexadecimal-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is the hexadecimal equivalent of binary 11110000?",
+    "options": [
+      {
+        "id": "a",
+        "text": "0F"
+      },
+      {
+        "id": "b",
+        "text": "F0"
+      },
+      {
+        "id": "c",
+        "text": "FF"
+      },
+      {
+        "id": "d",
+        "text": "00"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m4-u2-q036",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "binary-and-decimal-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "How many distinct values can be represented with 8 bits?",
+    "options": [
+      {
+        "id": "a",
+        "text": "128"
+      },
+      {
+        "id": "b",
+        "text": "255"
+      },
+      {
+        "id": "c",
+        "text": "256"
+      },
+      {
+        "id": "d",
+        "text": "512"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m4-u2-q037",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "octal-and-hexadecimal-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the hexadecimal equivalent of the binary digit group 1010?",
+    "options": [
+      {
+        "id": "a",
+        "text": "8"
+      },
+      {
+        "id": "b",
+        "text": "9"
+      },
+      {
+        "id": "c",
+        "text": "A"
+      },
+      {
+        "id": "d",
+        "text": "B"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m4-u2-q038",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "octal-and-hexadecimal-systems",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the hexadecimal equivalent of the binary digit group 1111?",
+    "options": [
+      {
+        "id": "a",
+        "text": "E"
+      },
+      {
+        "id": "b",
+        "text": "F"
+      },
+      {
+        "id": "c",
+        "text": "A"
+      },
+      {
+        "id": "d",
+        "text": "D"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m4-u2-q039",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "character-codes-bcd-ascii-ebcdic",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which character coding scheme was developed by IBM?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ASCII"
+      },
+      {
+        "id": "b",
+        "text": "BCD"
+      },
+      {
+        "id": "c",
+        "text": "EBCDIC"
+      },
+      {
+        "id": "d",
+        "text": "Binary"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m4-u2-q040",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "character-codes-bcd-ascii-ebcdic",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which character code uses eight bits to represent each character?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ASCII"
+      },
+      {
+        "id": "b",
+        "text": "EBCDIC"
+      },
+      {
+        "id": "c",
+        "text": "BCD"
+      },
+      {
+        "id": "d",
+        "text": "Decimal"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m4-u2-q041",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "character-codes-bcd-ascii-ebcdic",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which character coding scheme uses seven bits to represent each character?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ASCII"
+      },
+      {
+        "id": "b",
+        "text": "EBCDIC"
+      },
+      {
+        "id": "c",
+        "text": "BCD"
+      },
+      {
+        "id": "d",
+        "text": "Octal"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m4-u2-q042",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "character-codes-bcd-ascii-ebcdic",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "How many characters can seven-bit ASCII represent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "64"
+      },
+      {
+        "id": "b",
+        "text": "128"
+      },
+      {
+        "id": "c",
+        "text": "256"
+      },
+      {
+        "id": "d",
+        "text": "512"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m4-u2-q043",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "character-codes-bcd-ascii-ebcdic",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "How many characters can EBCDIC represent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "64"
+      },
+      {
+        "id": "b",
+        "text": "128"
+      },
+      {
+        "id": "c",
+        "text": "256"
+      },
+      {
+        "id": "d",
+        "text": "512"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m4-u2-q044",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "character-codes-bcd-ascii-ebcdic",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What does ASCII stand for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "American Standard Code for Information Interchange"
+      },
+      {
+        "id": "b",
+        "text": "American System Code for Information Input"
+      },
+      {
+        "id": "c",
+        "text": "Automated Standard Code for Information Interchange"
+      },
+      {
+        "id": "d",
+        "text": "American Software Code for Information Integration"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m4-u2-q045",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "character-codes-bcd-ascii-ebcdic",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What does EBCDIC stand for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Extended Binary Code for Digital Information Control"
+      },
+      {
+        "id": "b",
+        "text": "Extended Binary Coded Decimal Interchange Code"
+      },
+      {
+        "id": "c",
+        "text": "Electronic Binary Coded Data Information Code"
+      },
+      {
+        "id": "d",
+        "text": "Extended Bit Character Data Interchange Code"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m4-u2-q046",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "character-codes-bcd-ascii-ebcdic",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which character coding scheme codes each decimal digit separately into four bits?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ASCII"
+      },
+      {
+        "id": "b",
+        "text": "EBCDIC"
+      },
+      {
+        "id": "c",
+        "text": "BCD"
+      },
+      {
+        "id": "d",
+        "text": "Octal"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m4-u2-q047",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "character-codes-bcd-ascii-ebcdic",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the 4-bit BCD representation of decimal digit 2?",
+    "options": [
+      {
+        "id": "a",
+        "text": "0010"
+      },
+      {
+        "id": "b",
+        "text": "0011"
+      },
+      {
+        "id": "c",
+        "text": "0100"
+      },
+      {
+        "id": "d",
+        "text": "0101"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m4-u2-q048",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "character-codes-bcd-ascii-ebcdic",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the 4-bit BCD representation of decimal digit 6?",
+    "options": [
+      {
+        "id": "a",
+        "text": "0100"
+      },
+      {
+        "id": "b",
+        "text": "0101"
+      },
+      {
+        "id": "c",
+        "text": "0110"
+      },
+      {
+        "id": "d",
+        "text": "0111"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m4-u2-q049",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "character-codes-bcd-ascii-ebcdic",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the ASCII decimal value of uppercase A?",
+    "options": [
+      {
+        "id": "a",
+        "text": "65"
+      },
+      {
+        "id": "b",
+        "text": "66"
+      },
+      {
+        "id": "c",
+        "text": "97"
+      },
+      {
+        "id": "d",
+        "text": "98"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m4-u2-q050",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "character-codes-bcd-ascii-ebcdic",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the ASCII decimal value of lowercase a?",
+    "options": [
+      {
+        "id": "a",
+        "text": "95"
+      },
+      {
+        "id": "b",
+        "text": "96"
+      },
+      {
+        "id": "c",
+        "text": "97"
+      },
+      {
+        "id": "d",
+        "text": "98"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m4-u2-q051",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "character-codes-bcd-ascii-ebcdic",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is the binary representation of ASCII uppercase A?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1000001"
+      },
+      {
+        "id": "b",
+        "text": "1000010"
+      },
+      {
+        "id": "c",
+        "text": "1100001"
+      },
+      {
+        "id": "d",
+        "text": "1100010"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m4-u2-q052",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "character-codes-bcd-ascii-ebcdic",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is the binary representation of ASCII lowercase a?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1000001"
+      },
+      {
+        "id": "b",
+        "text": "1100001"
+      },
+      {
+        "id": "c",
+        "text": "1100010"
+      },
+      {
+        "id": "d",
+        "text": "1000010"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m4-u2-q053",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "character-codes-bcd-ascii-ebcdic",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "In ASCII, what does the additional eighth bit provide?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Decimal conversion"
+      },
+      {
+        "id": "b",
+        "text": "Parity checking"
+      },
+      {
+        "id": "c",
+        "text": "Octal conversion"
+      },
+      {
+        "id": "d",
+        "text": "Character storage"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m4-u2-q054",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "character-codes-bcd-ascii-ebcdic",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which computers commonly use EBCDIC?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Smartphones only"
+      },
+      {
+        "id": "b",
+        "text": "IBM minicomputers and mainframe computers"
+      },
+      {
+        "id": "c",
+        "text": "Personal calculators only"
+      },
+      {
+        "id": "d",
+        "text": "Digital cameras only"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m4-u2-q055",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "character-codes-bcd-ascii-ebcdic",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "In EBCDIC, how many bits are used for the zone bits?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Two"
+      },
+      {
+        "id": "b",
+        "text": "Three"
+      },
+      {
+        "id": "c",
+        "text": "Four"
+      },
+      {
+        "id": "d",
+        "text": "Eight"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m4-u2-q056",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "character-codes-bcd-ascii-ebcdic",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "In EBCDIC, how many bits are used for the numeric bits?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Four"
+      },
+      {
+        "id": "b",
+        "text": "Five"
+      },
+      {
+        "id": "c",
+        "text": "Six"
+      },
+      {
+        "id": "d",
+        "text": "Seven"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m4-u2-q057",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "character-codes-bcd-ascii-ebcdic",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the EBCDIC zone bit for the decimal characters 0–9?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1100"
+      },
+      {
+        "id": "b",
+        "text": "1101"
+      },
+      {
+        "id": "c",
+        "text": "1110"
+      },
+      {
+        "id": "d",
+        "text": "1111"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "id": "m4-u2-q058",
+    "module": "m4",
+    "unit": "m4-u2",
+    "topic": "character-codes-bcd-ascii-ebcdic",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the EBCDIC representation of the digit 3?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1111 0011"
+      },
+      {
+        "id": "b",
+        "text": "1111 0010"
+      },
+      {
+        "id": "c",
+        "text": "1100 0011"
+      },
+      {
+        "id": "d",
+        "text": "1101 0011"
+      }
+    ],
+    "answer": "a"
+  }
+]

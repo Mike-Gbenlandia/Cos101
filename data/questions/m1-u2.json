@@ -1,0 +1,938 @@
+[
+  {
+    "id": "m1-u2-q001",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-size-power",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Computers can be classified based on purpose, data handled, size and processing ____.",
+    "acceptedAnswers": [
+      "power"
+    ]
+  },
+  {
+    "id": "m1-u2-q002",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Computer classification based on purpose consists of special-purpose computers and ____-purpose computers.",
+    "acceptedAnswers": [
+      "general"
+    ]
+  },
+  {
+    "id": "m1-u2-q003",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Special-purpose computers are designed to perform specific tasks or a limited range of ____.",
+    "acceptedAnswers": [
+      "functions"
+    ]
+  },
+  {
+    "id": "m1-u2-q004",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Special-purpose computers are optimised for efficiency, reliability and dedicated ____.",
+    "acceptedAnswers": [
+      "operations"
+    ]
+  },
+  {
+    "id": "m1-u2-q005",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A special-purpose computer has ____ functionality.",
+    "acceptedAnswers": [
+      "dedicated"
+    ]
+  },
+  {
+    "id": "m1-u2-q006",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Special-purpose computers have limited ____.",
+    "acceptedAnswers": [
+      "programmability"
+    ]
+  },
+  {
+    "id": "m1-u2-q007",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Software in a special-purpose computer is usually ____.",
+    "acceptedAnswers": [
+      "fixed"
+    ]
+  },
+  {
+    "id": "m1-u2-q008",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Special-purpose computers are often built into other devices or systems as an ____ design.",
+    "acceptedAnswers": [
+      "embedded"
+    ]
+  },
+  {
+    "id": "m1-u2-q009",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Special-purpose computers can operate automatically with little or no human ____.",
+    "acceptedAnswers": [
+      "intervention"
+    ]
+  },
+  {
+    "id": "m1-u2-q010",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "gap",
+    "question": "General-purpose computers are designed to perform a wide variety of ____.",
+    "acceptedAnswers": [
+      "tasks"
+    ]
+  },
+  {
+    "id": "m1-u2-q011",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "gap",
+    "question": "General-purpose computers have the characteristic of ____ because they can perform many different types of tasks.",
+    "acceptedAnswers": [
+      "versatility"
+    ]
+  },
+  {
+    "id": "m1-u2-q012",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "gap",
+    "question": "General-purpose computers can be programmed to execute a variety of ____.",
+    "acceptedAnswers": [
+      "instructions"
+    ]
+  },
+  {
+    "id": "m1-u2-q013",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "gap",
+    "question": "General-purpose computers can handle large amounts of data and complex ____.",
+    "acceptedAnswers": [
+      "computations"
+    ]
+  },
+  {
+    "id": "m1-u2-q014",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "gap",
+    "question": "General-purpose computers can adapt to new tasks by installing new ____.",
+    "acceptedAnswers": [
+      "software"
+    ]
+  },
+  {
+    "id": "m1-u2-q015",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The ability of a general-purpose computer to run multiple programs simultaneously is called ____.",
+    "acceptedAnswers": [
+      "multi-tasking"
+    ]
+  },
+  {
+    "id": "m1-u2-q016",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "gap",
+    "question": "General-purpose computers are employed in payroll, banking, billing and sales ____.",
+    "acceptedAnswers": [
+      "analysis"
+    ]
+  },
+  {
+    "id": "m1-u2-q017",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "gap",
+    "question": "General-purpose computers can also be used for cost accounting, manufacturing scheduling and inventory ____.",
+    "acceptedAnswers": [
+      "control"
+    ]
+  },
+  {
+    "id": "m1-u2-q018",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "gap",
+    "question": "General-purpose computers are more ____ than special-purpose computers.",
+    "acceptedAnswers": [
+      "flexible"
+    ]
+  },
+  {
+    "id": "m1-u2-q019",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "gap",
+    "question": "One limitation of general-purpose computers is inadequate ____.",
+    "acceptedAnswers": [
+      "storage"
+    ]
+  },
+  {
+    "id": "m1-u2-q020",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Another limitation of general-purpose computers is low operating ____.",
+    "acceptedAnswers": [
+      "speed"
+    ]
+  },
+  {
+    "id": "m1-u2-q021",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-data-handled",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Computers classified according to the type of data they process include analog, digital and ____ computers.",
+    "acceptedAnswers": [
+      "hybrid"
+    ]
+  },
+  {
+    "id": "m1-u2-q022",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-data-handled",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Analog computers ____ rather than count.",
+    "acceptedAnswers": [
+      "measure"
+    ]
+  },
+  {
+    "id": "m1-u2-q023",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-data-handled",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Analog computers represent variables in terms of electrical ____.",
+    "acceptedAnswers": [
+      "voltage"
+    ]
+  },
+  {
+    "id": "m1-u2-q024",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-data-handled",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Analog computers store data as physical variables rather than numerical ____.",
+    "acceptedAnswers": [
+      "quantities"
+    ]
+  },
+  {
+    "id": "m1-u2-q025",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-data-handled",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Analog computers process continuous data that vary ____ over a range.",
+    "acceptedAnswers": [
+      "smoothly"
+    ]
+  },
+  {
+    "id": "m1-u2-q026",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-data-handled",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Digital computers represent their variables as ____.",
+    "acceptedAnswers": [
+      "digits"
+    ]
+  },
+  {
+    "id": "m1-u2-q027",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-data-handled",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Digital computers convert data into ____ form on input.",
+    "acceptedAnswers": [
+      "binary"
+    ]
+  },
+  {
+    "id": "m1-u2-q028",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-data-handled",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Digital computers process discrete data using binary digits ____ and 1.",
+    "acceptedAnswers": [
+      "0"
+    ]
+  },
+  {
+    "id": "m1-u2-q029",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-data-handled",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Digital computers consistently provide accurate and ____ results.",
+    "acceptedAnswers": [
+      "precise"
+    ]
+  },
+  {
+    "id": "m1-u2-q030",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-data-handled",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Hybrid computers combine features of both ____ and digital computers.",
+    "acceptedAnswers": [
+      "analog"
+    ]
+  },
+  {
+    "id": "m1-u2-q031",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-data-handled",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Hybrid computers process both continuous and ____ data.",
+    "acceptedAnswers": [
+      "discrete"
+    ]
+  },
+  {
+    "id": "m1-u2-q032",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-data-handled",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A converter that accepts analog inputs and outputs digital values is called a ____.",
+    "acceptedAnswers": [
+      "digitiser"
+    ]
+  },
+  {
+    "id": "m1-u2-q033",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-data-handled",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Hybrid computers have the advantage of providing real-time responses ____.",
+    "acceptedAnswers": [
+      "continuously"
+    ]
+  },
+  {
+    "id": "m1-u2-q034",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-size-power",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The four categories based on size and processing power are supercomputers, mainframe computers, minicomputers and ____.",
+    "acceptedAnswers": [
+      "microcomputers"
+    ]
+  },
+  {
+    "id": "m1-u2-q035",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-size-power",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Modern computer capacity is better measured by the volume of work or processing ____.",
+    "acceptedAnswers": [
+      "power"
+    ]
+  },
+  {
+    "id": "m1-u2-q036",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-size-power",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The volume of work a computer can handle is closely tied to its cost and ____ size.",
+    "acceptedAnswers": [
+      "memory"
+    ]
+  },
+  {
+    "id": "m1-u2-q037",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which classification considers the tasks a computer is designed to perform?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Classification based on purpose"
+      },
+      {
+        "id": "b",
+        "text": "Classification based on colour"
+      },
+      {
+        "id": "c",
+        "text": "Classification based on ownership"
+      },
+      {
+        "id": "d",
+        "text": "Classification based on location"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m1-u2-q038",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an example of a special-purpose computer application?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Payroll"
+      },
+      {
+        "id": "b",
+        "text": "Sales analysis"
+      },
+      {
+        "id": "c",
+        "text": "Tracking airplanes or missiles"
+      },
+      {
+        "id": "d",
+        "text": "Word processing"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m1-u2-q039",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which characteristic distinguishes special-purpose computers?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wide variety of applications"
+      },
+      {
+        "id": "b",
+        "text": "Dedicated functionality"
+      },
+      {
+        "id": "c",
+        "text": "Unlimited programmability"
+      },
+      {
+        "id": "d",
+        "text": "Continuous software modification"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m1-u2-q040",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Why are special-purpose computers considered cost-effective for dedicated tasks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are less expensive than general-purpose computers for dedicated tasks"
+      },
+      {
+        "id": "b",
+        "text": "They require unlimited human intervention"
+      },
+      {
+        "id": "c",
+        "text": "They use more complex software"
+      },
+      {
+        "id": "d",
+        "text": "They are designed for every possible application"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m1-u2-q041",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which type of computer requires human input to operate and execute tasks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Special-purpose computer"
+      },
+      {
+        "id": "b",
+        "text": "General-purpose computer"
+      },
+      {
+        "id": "c",
+        "text": "Analog computer"
+      },
+      {
+        "id": "d",
+        "text": "Hybrid computer"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m1-u2-q042",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is a characteristic of general-purpose computers?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Minimal user interaction"
+      },
+      {
+        "id": "b",
+        "text": "Fixed software"
+      },
+      {
+        "id": "c",
+        "text": "Flexibility"
+      },
+      {
+        "id": "d",
+        "text": "Single-task operation only"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m1-u2-q043",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-purpose",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an example of a general-purpose computer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Traffic light controller"
+      },
+      {
+        "id": "b",
+        "text": "Washing machine controller"
+      },
+      {
+        "id": "c",
+        "text": "Medical diagnostic equipment"
+      },
+      {
+        "id": "d",
+        "text": "Smartphone"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "id": "m1-u2-q044",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-data-handled",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which classification is based on whether data is continuous or discrete?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Classification based on data handled"
+      },
+      {
+        "id": "b",
+        "text": "Classification based on purpose"
+      },
+      {
+        "id": "c",
+        "text": "Classification based on ownership"
+      },
+      {
+        "id": "d",
+        "text": "Classification based on cost"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m1-u2-q045",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-data-handled",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which type of computer is almost never used in business systems?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Digital computer"
+      },
+      {
+        "id": "b",
+        "text": "Mainframe computer"
+      },
+      {
+        "id": "c",
+        "text": "Analog computer"
+      },
+      {
+        "id": "d",
+        "text": "Microcomputer"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m1-u2-q046",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-data-handled",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which type of computer represents data as digits?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Analog computer"
+      },
+      {
+        "id": "b",
+        "text": "Digital computer"
+      },
+      {
+        "id": "c",
+        "text": "Hybrid computer"
+      },
+      {
+        "id": "d",
+        "text": "Special-purpose computer"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m1-u2-q047",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-data-handled",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which computers are suitable for measuring physical quantities?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Analog computers"
+      },
+      {
+        "id": "b",
+        "text": "Digital computers"
+      },
+      {
+        "id": "c",
+        "text": "Mainframe computers"
+      },
+      {
+        "id": "d",
+        "text": "Microcomputers"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m1-u2-q048",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-data-handled",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which type of computer is commonly used in aerospace and process control applications?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Microcomputer"
+      },
+      {
+        "id": "b",
+        "text": "Hybrid computer"
+      },
+      {
+        "id": "c",
+        "text": "Minicomputer"
+      },
+      {
+        "id": "d",
+        "text": "Mainframe computer"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m1-u2-q049",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-data-handled",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an example of a hybrid computer application?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Electrocardiogram machine"
+      },
+      {
+        "id": "b",
+        "text": "Desktop publishing"
+      },
+      {
+        "id": "c",
+        "text": "Word processor"
+      },
+      {
+        "id": "d",
+        "text": "Personal spreadsheet"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m1-u2-q050",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-data-handled",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which device converts analog inputs into digital values in a hybrid system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Monitor"
+      },
+      {
+        "id": "b",
+        "text": "Digitiser"
+      },
+      {
+        "id": "c",
+        "text": "Keyboard"
+      },
+      {
+        "id": "d",
+        "text": "Printer"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m1-u2-q051",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-size-power",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which category of computer is designed for complex scientific calculations and large-scale simulations?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Microcomputer"
+      },
+      {
+        "id": "b",
+        "text": "Minicomputer"
+      },
+      {
+        "id": "c",
+        "text": "Mainframe computer"
+      },
+      {
+        "id": "d",
+        "text": "Supercomputer"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "id": "m1-u2-q052",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-size-power",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which category of computer is often called “big iron”?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mainframe computer"
+      },
+      {
+        "id": "b",
+        "text": "Microcomputer"
+      },
+      {
+        "id": "c",
+        "text": "Minicomputer"
+      },
+      {
+        "id": "d",
+        "text": "Analog computer"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m1-u2-q053",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-size-power",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which type of computer is designed for individual use and uses a single microprocessor for its CPU?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Supercomputer"
+      },
+      {
+        "id": "b",
+        "text": "Mainframe computer"
+      },
+      {
+        "id": "c",
+        "text": "Microcomputer"
+      },
+      {
+        "id": "d",
+        "text": "Minicomputer"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m1-u2-q054",
+    "module": "m1",
+    "unit": "m1-u2",
+    "topic": "classification-by-size-power",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which category of computer is described as medium-sized and supports multiple users while being smaller than mainframes?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Supercomputer"
+      },
+      {
+        "id": "b",
+        "text": "Minicomputer"
+      },
+      {
+        "id": "c",
+        "text": "Microcomputer"
+      },
+      {
+        "id": "d",
+        "text": "Analog computer"
+      }
+    ],
+    "answer": "b"
+  }
+]

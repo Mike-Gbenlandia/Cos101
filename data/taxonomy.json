@@ -1,0 +1,438 @@
+{
+  "courseCode": "COS101",
+  "courseTitle": "Introduction to Computing Science",
+  "modules": [
+    {
+      "id": "m1",
+      "title": "History and Evolution of Computing",
+      "units": [
+        {
+          "id": "m1-u1",
+          "title": "Brief History of Computing",
+          "topics": [
+            {
+              "id": "pre-mechanical-era-abacus",
+              "title": "Pre-Mechanical Era & The Abacus",
+              "reference": "Module 1, Unit 1, Section 1.3 (NOUN pp. 2–3; PDF pp. 5–6)"
+            },
+            {
+              "id": "mechanical-era-napier-pascaline",
+              "title": "Mechanical Era, Napier's Bones & Pascaline",
+              "reference": "Module 1, Unit 1, Sections 1.4–1.4.3 (NOUN pp. 4–6; PDF pp. 7–9)"
+            },
+            {
+              "id": "jacquard-loom-babbage-engines",
+              "title": "Jacquard Loom, Differential & Analytical Engines",
+              "reference": "Module 1, Unit 1, Sections 1.4.4–1.4.5 (NOUN pp. 6–8; PDF pp. 9–11)"
+            },
+            {
+              "id": "electromechanical-era-mark-i",
+              "title": "Electromechanical Era & Harvard Mark I",
+              "reference": "Module 1, Unit 1, Section 1.5 (NOUN pp. 9–10; PDF pp. 12–13)"
+            },
+            {
+              "id": "five-generations-of-computers",
+              "title": "Five Generations of Computing",
+              "reference": "Module 1, Unit 1, Section 1.6 (NOUN pp. 11–13; PDF pp. 14–16)"
+            }
+          ]
+        },
+        {
+          "id": "m1-u2",
+          "title": "Classification of Computers",
+          "topics": [
+            {
+              "id": "classification-by-purpose",
+              "title": "Classification Based on Purpose",
+              "reference": "Module 1, Unit 2, Sections 2.3–2.4 (NOUN pp. 17–19; PDF pp. 20–22)"
+            },
+            {
+              "id": "classification-by-data-handled",
+              "title": "Classification Based on Data Handled",
+              "reference": "Module 1, Unit 2, Section 2.5 (NOUN pp. 19–20; PDF pp. 22–23)"
+            },
+            {
+              "id": "classification-by-size-power",
+              "title": "Classification Based on Size & Processing Power",
+              "reference": "Module 1, Unit 2, Section 2.6 (NOUN pp. 20–22; PDF pp. 23–25)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Basic Components of a Computer System",
+      "units": [
+        {
+          "id": "m2-u1",
+          "title": "General Overview of a Computer System",
+          "topics": [
+            {
+              "id": "definitions-computer-computing",
+              "title": "Definitions of Computer & Computing Science",
+              "reference": "Module 2, Unit 1, Section 1.3 (NOUN pp. 25–26; PDF pp. 28–29)"
+            },
+            {
+              "id": "computer-system-components",
+              "title": "Computer System: Hardware, Software & User",
+              "reference": "Module 2, Unit 1, Section 1.4 (NOUN pp. 26–27; PDF pp. 29–30)"
+            },
+            {
+              "id": "computing-environment-data-units",
+              "title": "Computing Environment, Data & Storage Units",
+              "reference": "Module 2, Unit 1, Section 1.5 (NOUN pp. 27–31; PDF pp. 30–34)"
+            },
+            {
+              "id": "computer-characteristics-capabilities",
+              "title": "Characteristics of a Computer System",
+              "reference": "Module 2, Unit 1, Sections 1.6.1–1.6.8 (NOUN pp. 31–34; PDF pp. 34–37)"
+            },
+            {
+              "id": "computer-limitations",
+              "title": "Limitations: No Intelligence & No Emotions",
+              "reference": "Module 2, Unit 1, Sections 1.6.9–1.6.10 (NOUN pp. 34–36; PDF pp. 37–39)"
+            }
+          ]
+        },
+        {
+          "id": "m2-u2",
+          "title": "Computer System Operation",
+          "topics": [
+            {
+              "id": "system-operation-overview",
+              "title": "System Operation Overview & Concepts",
+              "reference": "Module 2, Unit 2, Sections 2.3–2.4 (NOUN pp. 39–40; PDF pp. 42–43)"
+            },
+            {
+              "id": "information-processing-cycle",
+              "title": "Information Processing Cycle & Functions",
+              "reference": "Module 2, Unit 2, Section 2.5 (NOUN pp. 40–41; PDF pp. 43–44)"
+            },
+            {
+              "id": "fetch-decode-execute-cycle",
+              "title": "Basic Instruction Cycle (Fetch–Decode–Execute)",
+              "reference": "Module 2, Unit 2, Section 2.6 (NOUN pp. 41–43; PDF pp. 44–46)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "Computer System Elements",
+      "units": [
+        {
+          "id": "m3-u1",
+          "title": "Input Devices",
+          "topics": [
+            {
+              "id": "keyboard-key-groups",
+              "title": "Keyboard Key Groups & Numeric Keypad",
+              "reference": "Module 3, Unit 1, Sections 1.3–1.3.4 (NOUN pp. 47–49; PDF pp. 50–52)"
+            },
+            {
+              "id": "keyboard-control-modifier-keys",
+              "title": "Modifier, Navigation & Special Keys",
+              "reference": "Module 3, Unit 1, Sections 1.3.5–1.3.13 (NOUN pp. 49–50; PDF pp. 52–53)"
+            },
+            {
+              "id": "pointing-devices-mouse-joystick",
+              "title": "Pointing Devices: Mouse & Joystick",
+              "reference": "Module 3, Unit 1, Sections 1.4–1.5 (NOUN pp. 50–52; PDF pp. 53–55)"
+            },
+            {
+              "id": "scanners",
+              "title": "Scanners (Flatbed & Handheld)",
+              "reference": "Module 3, Unit 1, Section 1.6 (NOUN pp. 52–53; PDF pp. 55–56)"
+            }
+          ]
+        },
+        {
+          "id": "m3-u2",
+          "title": "Output Devices",
+          "topics": [
+            {
+              "id": "printers",
+              "title": "Printers (Laser, Inkjet & Dot-Matrix)",
+              "reference": "Module 3, Unit 2, Section 2.3 (NOUN pp. 56–58; PDF pp. 59–61)"
+            },
+            {
+              "id": "monitors-display-types",
+              "title": "Monitors (CRT, LCD, OLED & Touchscreen)",
+              "reference": "Module 3, Unit 2, Section 2.4 (NOUN pp. 58–60; PDF pp. 61–63)"
+            },
+            {
+              "id": "speakers-and-sound-cards",
+              "title": "Speakers & Sound Cards",
+              "reference": "Module 3, Unit 2, Section 2.5 (NOUN pp. 60–61; PDF pp. 63–64)"
+            }
+          ]
+        },
+        {
+          "id": "m3-u3",
+          "title": "Processing Device and CPU",
+          "topics": [
+            {
+              "id": "cpu-definition-and-functions",
+              "title": "CPU Definition & Core Functions",
+              "reference": "Module 3, Unit 3, Sections 3.3–3.4 (NOUN pp. 64–65; PDF pp. 67–68)"
+            },
+            {
+              "id": "cpu-components-alu-cu-registers",
+              "title": "CPU Components (ALU, Control Unit & Registers)",
+              "reference": "Module 3, Unit 3, Sections 3.5.1–3.5.3 (NOUN p. 65; PDF p. 68)"
+            },
+            {
+              "id": "cpu-performance-and-importance",
+              "title": "CPU Performance Factors & Importance",
+              "reference": "Module 3, Unit 3, Sections 3.5.4–3.5.5 (NOUN pp. 65–66; PDF pp. 68–69)"
+            },
+            {
+              "id": "motherboard-architecture",
+              "title": "Motherboard Functions & Components",
+              "reference": "Module 3, Unit 3, Section 3.6 (NOUN pp. 66–68; PDF pp. 69–71)"
+            }
+          ]
+        },
+        {
+          "id": "m3-u4",
+          "title": "Auxiliary Devices",
+          "topics": [
+            {
+              "id": "air-conditioner",
+              "title": "Air Conditioner & Environmental Control",
+              "reference": "Module 3, Unit 4, Section 4.3 (NOUN p. 71; PDF p. 74)"
+            },
+            {
+              "id": "voltage-stabilizer-and-transformer",
+              "title": "Voltage Stabilizer & Line Voltage Transformer",
+              "reference": "Module 3, Unit 4, Sections 4.4–4.5 (NOUN pp. 71–73; PDF pp. 74–76)"
+            },
+            {
+              "id": "uninterruptible-power-supply",
+              "title": "Uninterruptible Power Supply (UPS)",
+              "reference": "Module 3, Unit 4, Section 4.6 (NOUN pp. 73–74; PDF pp. 76–77)"
+            }
+          ]
+        },
+        {
+          "id": "m3-u5",
+          "title": "Computer Hardware Components",
+          "topics": [
+            {
+              "id": "system-unit-front-panel",
+              "title": "System Unit & Front Panel Controls",
+              "reference": "Module 3, Unit 5, Sections 5.3–5.4 (NOUN pp. 77–79; PDF pp. 80–82)"
+            },
+            {
+              "id": "system-unit-back-ports",
+              "title": "Back of System Unit & External Ports",
+              "reference": "Module 3, Unit 5, Section 5.5 (NOUN pp. 79–80; PDF pp. 82–83)"
+            },
+            {
+              "id": "inside-system-unit-components",
+              "title": "Internal Components (PSU, Memory, Cards & Drives)",
+              "reference": "Module 3, Unit 5, Section 5.6 (NOUN pp. 80–84; PDF pp. 83–87)"
+            },
+            {
+              "id": "cpu-speed-and-generations",
+              "title": "CPU Speed & Processor Generations",
+              "reference": "Module 3, Unit 5, Sections 5.7–5.8 (NOUN pp. 84–86; PDF pp. 87–89)"
+            }
+          ]
+        },
+        {
+          "id": "m3-u6",
+          "title": "Computer Software Components",
+          "topics": [
+            {
+              "id": "software-classification-and-os",
+              "title": "Software Classification & Operating Systems",
+              "reference": "Module 3, Unit 6, Section 6.3 (NOUN pp. 89–92; PDF pp. 92–95)"
+            },
+            {
+              "id": "types-of-operating-systems",
+              "title": "Types of Operating Systems",
+              "reference": "Module 3, Unit 6, Section 6.4 (NOUN pp. 92–94; PDF pp. 95–97)"
+            },
+            {
+              "id": "operating-system-components",
+              "title": "OS Components & Memory Hierarchy",
+              "reference": "Module 3, Unit 6, Section 6.5 (NOUN pp. 95–99; PDF pp. 98–102)"
+            },
+            {
+              "id": "application-and-utility-software",
+              "title": "Application Software & Utility Software",
+              "reference": "Module 3, Unit 6, Sections 6.6–6.7 (NOUN pp. 99–102; PDF pp. 102–105)"
+            },
+            {
+              "id": "language-translators",
+              "title": "Language Translators (Assemblers, Interpreters & Compilers)",
+              "reference": "Module 3, Unit 6, Section 6.8 (NOUN pp. 102–103; PDF pp. 105–106)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m4",
+      "title": "Information Processing and Data Representation",
+      "units": [
+        {
+          "id": "m4-u1",
+          "title": "Information Processing",
+          "topics": [
+            {
+              "id": "data-information-knowledge",
+              "title": "Concepts, Data, Information & Knowledge",
+              "reference": "Module 4, Unit 1, Section 1.3 (NOUN pp. 106–107; PDF pp. 109–110)"
+            },
+            {
+              "id": "information-processing-methods",
+              "title": "Processing Methods (Manual, Mechanical & Electronic)",
+              "reference": "Module 4, Unit 1, Sections 1.4–1.6 (NOUN pp. 107–108; PDF pp. 110–111)"
+            },
+            {
+              "id": "role-of-information-processing",
+              "title": "Role of Information Processing in Society",
+              "reference": "Module 4, Unit 1, Section 1.7 (NOUN pp. 108–109; PDF pp. 111–112)"
+            }
+          ]
+        },
+        {
+          "id": "m4-u2",
+          "title": "Data Representation",
+          "topics": [
+            {
+              "id": "binary-and-decimal-systems",
+              "title": "Binary & Decimal Number Systems and Conversions",
+              "reference": "Module 4, Unit 2, Sections 2.3–2.5 (NOUN pp. 112–118; PDF pp. 115–121)"
+            },
+            {
+              "id": "octal-and-hexadecimal-systems",
+              "title": "Octal & Hexadecimal Numbering Systems",
+              "reference": "Module 4, Unit 2, Sections 2.6–2.7 (NOUN pp. 118–119; PDF pp. 121–122)"
+            },
+            {
+              "id": "character-codes-bcd-ascii-ebcdic",
+              "title": "Character Codes (BCD, ASCII & EBCDIC)",
+              "reference": "Module 4, Unit 2, Section 2.8 (NOUN pp. 120–123; PDF pp. 123–126)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m5",
+      "title": "The Internet and Modern Computing Environment",
+      "units": [
+        {
+          "id": "m5-u1",
+          "title": "Internet Concepts and Addresses",
+          "topics": [
+            {
+              "id": "basic-internet-concepts",
+              "title": "Basic Internet Concepts & Architecture",
+              "reference": "Module 5, Unit 1, Section 1.3 (NOUN pp. 126–127; PDF pp. 129–130)"
+            },
+            {
+              "id": "ip-addressing-and-versions",
+              "title": "IP Addressing (Public, Private, Dynamic, IPv4 & IPv6)",
+              "reference": "Module 5, Unit 1, Sections 1.4.1–1.4.5 (NOUN pp. 127–128; PDF pp. 130–131)"
+            },
+            {
+              "id": "urls-and-domain-names",
+              "title": "URLs, Domain Names & DNS",
+              "reference": "Module 5, Unit 1, Sections 1.4.6–1.4.7 (NOUN pp. 128–129; PDF pp. 131–132)"
+            },
+            {
+              "id": "isps-and-internet-terminology",
+              "title": "ISPs, Connection Types & Internet Terminology",
+              "reference": "Module 5, Unit 1, Sections 1.5–1.6 (NOUN pp. 129–134; PDF pp. 132–137)"
+            }
+          ]
+        },
+        {
+          "id": "m5-u2",
+          "title": "Internet Applications",
+          "topics": [
+            {
+              "id": "email-components-and-features",
+              "title": "Email Components, Features & Etiquette",
+              "reference": "Module 5, Unit 2, Section 2.3 (NOUN pp. 137–138; PDF pp. 140–141)"
+            },
+            {
+              "id": "social-media-features-platforms",
+              "title": "Social Media Features & Platform Types",
+              "reference": "Module 5, Unit 2, Section 2.4 (NOUN pp. 138–142; PDF pp. 141–145)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m6",
+      "title": "Computing Disciplines, Careers and Future Trends",
+      "units": [
+        {
+          "id": "m6-u1",
+          "title": "Major Computing Disciplines and Careers",
+          "topics": [
+            {
+              "id": "computer-science-and-languages",
+              "title": "Computer Science & Programming Languages",
+              "reference": "Module 6, Unit 1, Section 1.3 (NOUN pp. 145–147; PDF pp. 148–150)"
+            },
+            {
+              "id": "it-and-software-engineering",
+              "title": "Information Technology & Software Engineering",
+              "reference": "Module 6, Unit 1, Sections 1.4–1.5 (NOUN pp. 147–149; PDF pp. 150–152)"
+            },
+            {
+              "id": "computer-engineering-and-is",
+              "title": "Computer Engineering & Information Systems",
+              "reference": "Module 6, Unit 1, Sections 1.6–1.7 (NOUN pp. 149–150; PDF pp. 152–153)"
+            },
+            {
+              "id": "cybersecurity",
+              "title": "Cybersecurity (CIA Triad, Threats & Practices)",
+              "reference": "Module 6, Unit 1, Section 1.8 (NOUN pp. 150–152; PDF pp. 153–155)"
+            },
+            {
+              "id": "data-science-and-specialisation",
+              "title": "Data Science & Job Specialisation",
+              "reference": "Module 6, Unit 1, Sections 1.9–1.10 (NOUN pp. 152–154; PDF pp. 155–157)"
+            }
+          ]
+        },
+        {
+          "id": "m6-u2",
+          "title": "Future Trends in Computing",
+          "topics": [
+            {
+              "id": "ai-and-machine-learning",
+              "title": "Artificial Intelligence & Machine Learning",
+              "reference": "Module 6, Unit 2, Section 2.3 (NOUN pp. 157–158; PDF pp. 160–161)"
+            },
+            {
+              "id": "agentic-ai-and-mas",
+              "title": "Agentic AI & Multi-Agent Systems (MAS)",
+              "reference": "Module 6, Unit 2, Section 2.4 (NOUN pp. 158–159; PDF pp. 161–162)"
+            },
+            {
+              "id": "quantum-computing",
+              "title": "Quantum Computing (Qubit, Superposition & Entanglement)",
+              "reference": "Module 6, Unit 2, Section 2.5 (NOUN pp. 159–160; PDF pp. 162–163)"
+            },
+            {
+              "id": "next-gen-connectivity-6g",
+              "title": "Next-Generation Connectivity (6G & Beyond)",
+              "reference": "Module 6, Unit 2, Section 2.6 (NOUN pp. 160–162; PDF pp. 163–165)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

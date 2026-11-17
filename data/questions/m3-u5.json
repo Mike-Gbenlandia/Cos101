@@ -1,0 +1,462 @@
+[
+  {
+    "id": "m3-u5-q001",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "system-unit-front-panel",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The system unit is the main unit of a ____.",
+    "acceptedAnswers": [
+      "PC"
+    ]
+  },
+  {
+    "id": "m3-u5-q002",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "system-unit-front-panel",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The system unit is made up of several components like the motherboard, processor, buses, memory, and ____ supply unit.",
+    "acceptedAnswers": [
+      "power"
+    ]
+  },
+  {
+    "id": "m3-u5-q003",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "system-unit-front-panel",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The CPU is a component within the system unit and is not the only thing that makes up the ____ unit.",
+    "acceptedAnswers": [
+      "system"
+    ]
+  },
+  {
+    "id": "m3-u5-q004",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "system-unit-front-panel",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The front panel may display lights to indicate if the hard or floppy disk is being ____ or written to.",
+    "acceptedAnswers": [
+      "read"
+    ]
+  },
+  {
+    "id": "m3-u5-q005",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "system-unit-front-panel",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Turning the key in the key lock prevents the ____ from working.",
+    "acceptedAnswers": [
+      "keyboard"
+    ]
+  },
+  {
+    "id": "m3-u5-q006",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "system-unit-front-panel",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A turbo switch is usually left so the computer runs at its ____ speed.",
+    "acceptedAnswers": [
+      "fastest"
+    ]
+  },
+  {
+    "id": "m3-u5-q007",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "system-unit-front-panel",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The reset button should be used only as a ____ resort.",
+    "acceptedAnswers": [
+      "last"
+    ]
+  },
+  {
+    "id": "m3-u5-q008",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "system-unit-front-panel",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Pressing the reset button loses all the work that has not been ____ in that session.",
+    "acceptedAnswers": [
+      "saved"
+    ]
+  },
+  {
+    "id": "m3-u5-q009",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "system-unit-front-panel",
+    "confidence": "high",
+    "type": "gap",
+    "question": "All PCs have a main power ____ on the system unit.",
+    "acceptedAnswers": [
+      "switch"
+    ]
+  },
+  {
+    "id": "m3-u5-q010",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "system-unit-front-panel",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The electronic components in a PC generate a lot of ____.",
+    "acceptedAnswers": [
+      "heat"
+    ]
+  },
+  {
+    "id": "m3-u5-q011",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "system-unit-back-ports",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A fan at the back of the unit removes ____ air from the system.",
+    "acceptedAnswers": [
+      "hot"
+    ]
+  },
+  {
+    "id": "m3-u5-q012",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "system-unit-front-panel",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The power “in” and “out” sockets carry power from the electrical outlet to the system unit and from the system unit to the ____.",
+    "acceptedAnswers": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "m3-u5-q013",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "system-unit-back-ports",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The keyboard cable ends in a round connector that plugs into the keyboard ____.",
+    "acceptedAnswers": [
+      "port"
+    ]
+  },
+  {
+    "id": "m3-u5-q014",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "system-unit-back-ports",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A network connector is visible at the back when an expansion card is fitted to link the PC with other ____.",
+    "acceptedAnswers": [
+      "PCs"
+    ]
+  },
+  {
+    "id": "m3-u5-q015",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "system-unit-back-ports",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The monitor port carries display information to the ____.",
+    "acceptedAnswers": [
+      "monitor"
+    ]
+  },
+  {
+    "id": "m3-u5-q016",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "system-unit-front-panel",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which statement correctly distinguishes the system unit from the CPU?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The CPU contains the entire system unit"
+      },
+      {
+        "id": "b",
+        "text": "The system unit contains the CPU and other components"
+      },
+      {
+        "id": "c",
+        "text": "The system unit and CPU are exactly the same"
+      },
+      {
+        "id": "d",
+        "text": "The CPU is an external peripheral"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u5-q017",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "system-unit-front-panel",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the purpose of the key lock on the front of the system unit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To prevent the keyboard from working"
+      },
+      {
+        "id": "b",
+        "text": "To increase CPU speed"
+      },
+      {
+        "id": "c",
+        "text": "To restart the computer"
+      },
+      {
+        "id": "d",
+        "text": "To regulate voltage"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u5-q018",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "system-unit-front-panel",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What should be done when a PC freezes and does not respond to commands?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Immediately disconnect the monitor"
+      },
+      {
+        "id": "b",
+        "text": "Use the reset button as a last resort"
+      },
+      {
+        "id": "c",
+        "text": "Remove the motherboard"
+      },
+      {
+        "id": "d",
+        "text": "Replace the keyboard"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u5-q019",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "system-unit-back-ports",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the purpose of the fan at the back of the system unit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To transfer files"
+      },
+      {
+        "id": "b",
+        "text": "To remove hot air"
+      },
+      {
+        "id": "c",
+        "text": "To store data"
+      },
+      {
+        "id": "d",
+        "text": "To control the keyboard"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u5-q020",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "system-unit-back-ports",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which port commonly connects a PC to a modem or mouse?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Monitor port"
+      },
+      {
+        "id": "b",
+        "text": "Serial port"
+      },
+      {
+        "id": "c",
+        "text": "Sound port"
+      },
+      {
+        "id": "d",
+        "text": "Keyboard port"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u5-q021",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "system-unit-back-ports",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What can sound jacks at the back of a system unit be used to connect?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Speakers and microphones"
+      },
+      {
+        "id": "b",
+        "text": "Hard disks only"
+      },
+      {
+        "id": "c",
+        "text": "Monitors only"
+      },
+      {
+        "id": "d",
+        "text": "RAM modules"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u5-q022",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "inside-system-unit-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the purpose of the display adapter card?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It links the PC's memory and the monitor"
+      },
+      {
+        "id": "b",
+        "text": "It supplies electricity to the CPU"
+      },
+      {
+        "id": "c",
+        "text": "It stores files permanently"
+      },
+      {
+        "id": "d",
+        "text": "It controls the keyboard lock"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u5-q023",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "inside-system-unit-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What happens to data stored in RAM when the PC is switched off?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It is permanently saved"
+      },
+      {
+        "id": "b",
+        "text": "It is transferred to ROM"
+      },
+      {
+        "id": "c",
+        "text": "It is lost"
+      },
+      {
+        "id": "d",
+        "text": "It is printed automatically"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m3-u5-q024",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "inside-system-unit-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the main permanent storage unit of a computer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "RAM"
+      },
+      {
+        "id": "b",
+        "text": "Cache memory"
+      },
+      {
+        "id": "c",
+        "text": "Hard disk"
+      },
+      {
+        "id": "d",
+        "text": "ROM"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m3-u5-q025",
+    "module": "m3",
+    "unit": "m3-u5",
+    "topic": "inside-system-unit-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What does the power supply unit do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Converts high-voltage electrical current to low voltage"
+      },
+      {
+        "id": "b",
+        "text": "Converts data into information"
+      },
+      {
+        "id": "c",
+        "text": "Controls the display adapter"
+      },
+      {
+        "id": "d",
+        "text": "Stores the operating system"
+      }
+    ],
+    "answer": "a"
+  }
+]

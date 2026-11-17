@@ -1,0 +1,3164 @@
+The pre-mechanical era of computing refers to the period before ________ AD.
+Answer: 1450
+The pre-mechanical era marked the foundation of ________ technology.
+Answer: information
+During the pre-mechanical era, calculations were done ________.
+Answer: manually
+The system of the pre-mechanical era depended on human intelligence and physical ________.
+Answer: aids
+The pre-mechanical era had limited speed and ________.
+Answer: accuracy
+The main uses of early computing tools included counting, trade and record ________.
+Answer: keeping
+The Abacus is an early computing tool developed to assist humans in ________.
+Answer: counting
+The Abacus can perform addition, subtraction, multiplication and ________.
+Answer: division
+The Abacus consists of a rectangular frame with vertical rods and wires with ________.
+Answer: beads
+The Abacus has a horizontal bar that divides the upper and lower ________.
+Answer: sections
+Each bead on an Abacus represents a numerical ________.
+Answer: value
+Calculations on the Abacus are performed by manipulating the ________.
+Answer: beads
+The Mechanical Era of Computing lasted approximately from 1450 to ________.
+Answer: 1840
+The Mechanical Era marked a transition from purely manual methods to ________ devices.
+Answer: mechanical
+Mechanical computing devices used gears, levers and ________.
+Answer: wheels
+Mechanical devices helped to reduce human effort and improve ________ in calculations.
+Answer: accuracy
+Mechanical devices were particularly useful in commerce, navigation and ________.
+Answer: astronomy
+One characteristic of the Mechanical Era was the early concept of ________ in computation.
+Answer: automation
+Napier's Bones was invented in ________.
+Answer: 1617
+Napier's Bones was invented by John ________.
+Answer: Napier
+Napier's Bones was designed to simplify multiplication, division and ________ root calculations.
+Answer: square
+Napier's Bones consists of a set of rectangular ________.
+Answer: rods
+Each rod of Napier's Bones represents a digit from ________ to 9.
+Answer: 0
+Napier's Bones introduced the concept of ________ computation.
+Answer: algorithmic
+Napier's Bones influenced later devices such as the slide rule and mechanical ________.
+Answer: calculators
+The Pascaline was invented in ________.
+Answer: 1642
+The Pascaline was invented by ________ Pascal.
+Answer: Blaise
+The Pascaline was designed to help Pascal's father, who was a ________ collector.
+Answer: tax
+The Pascaline is a ________-driven calculating machine.
+Answer: gear
+The Pascaline performs addition and subtraction automatically using interlocking wheels and
+________.
+Answer: gears
+The Jacquard Loom was invented in ________.
+Answer: 1801
+The Jacquard Loom was invented by Joseph Marie ________.
+Answer: Jacquard
+The Jacquard Loom is a mechanical ________ machine.
+Answer: weaving
+The Jacquard Loom uses punched ________ to control patterns automatically.
+Answer: cards
+Each punched card in the Jacquard Loom represents a row of the design ________.
+Answer: pattern
+The holes in the punched cards determine which ________ are lifted.
+Answer: threads
+The Jacquard Loom introduced the idea of input via punched ________.
+Answer: cards
+The Jacquard Loom inspired early computer pioneer Charles ________.
+Answer: Babbage
+The Differential Engine was designed to tabulate ________ functions.
+Answer: polynomial
+The Differential Engine was conceived by Charles Babbage in the ________.
+Answer: 1820s
+The Differential Engine uses the method of finite ________.
+Answer: differences
+The Differential Engine generates successive values of a polynomial using repeated ________.
+Answer: addition
+The Differential Engine was designed to eliminate human errors in mathematical ________.
+Answer: tables
+Computers can be classified based on purpose, data handled, size and processing ________.
+Answer: power
+Computer classification based on purpose consists of special-purpose computers and
+________-purpose computers.
+Answer: general
+Special-purpose computers are designed to perform specific tasks or a limited range of
+________.
+Answer: functions
+Special-purpose computers are optimised for efficiency, reliability and dedicated ________.
+Answer: operations
+A special-purpose computer has ________ functionality.
+Answer: dedicated
+Special-purpose computers have limited ________.
+Answer: programmability
+Software in a special-purpose computer is usually ________.
+Answer: fixed
+Special-purpose computers are often built into other devices or systems as an ________ design.
+Answer: embedded
+Special-purpose computers can operate automatically with little or no human ________.
+Answer: intervention
+General-purpose computers are designed to perform a wide variety of ________.
+Answer: tasks
+General-purpose computers have the characteristic of ________ because they can perform
+many different types of tasks.
+Answer: versatility
+General-purpose computers can be programmed to execute a variety of ________.
+Answer: instructions
+General-purpose computers can handle large amounts of data and complex ________.
+Answer: computations
+General-purpose computers can adapt to new tasks by installing new ________.
+Answer: software
+The ability of a general-purpose computer to run multiple programs simultaneously is called
+________.
+Answer: multi-tasking
+General-purpose computers are employed in payroll, banking, billing and sales ________.
+Answer: analysis
+General-purpose computers can also be used for cost accounting, manufacturing scheduling
+and inventory ________.
+Answer: control
+General-purpose computers are more ________ than special-purpose computers.
+Answer: flexible
+One limitation of general-purpose computers is inadequate ________.
+Answer: storage
+Another limitation of general-purpose computers is low operating ________.
+Answer: speed
+Computers classified according to the type of data they process include analog, digital and
+________ computers.
+Answer: hybrid
+Analog computers ________ rather than count.
+Answer: measure
+Analog computers represent variables in terms of electrical ________.
+Answer: voltage
+Analog computers store data as physical variables rather than numerical ________.
+Answer: quantities
+Analog computers process continuous data that vary ________ over a range.
+Answer: smoothly
+Digital computers represent their variables as ________.
+Answer: digits
+Digital computers convert data into ________ form on input.
+Answer: binary
+Digital computers process discrete data using binary digits ________ and 1.
+Answer: 0
+Digital computers consistently provide accurate and ________ results.
+Answer: precise
+Hybrid computers combine features of both ________ and digital computers.
+Answer: analog
+Hybrid computers process both continuous and ________ data.
+Answer: discrete
+A converter that accepts analog inputs and outputs digital values is called a ________.
+Answer: digitiser
+Hybrid computers have the advantage of providing real-time responses ________.
+Answer: continuously
+The four categories based on size and processing power are supercomputers, mainframe
+computers, minicomputers and ________.
+Answer: microcomputers
+Modern computer capacity is better measured by the volume of work or processing ________.
+Answer: power
+The volume of work a computer can handle is closely tied to its cost and ________ size.
+Answer: memory
+Which of the following best describes the transition that occurred during the Mechanical Era?
+A. A transition from electronic computers to manual calculations
+B. A transition from mechanical devices to spoken communication
+C. A transition from simple counting tools to more sophisticated machines capable of
+automatic calculations
+D. A transition from digital computers to abacuses
+Answer: C. A transition from simple counting tools to more sophisticated machines
+capable of automatic calculations
+Which of the following was one of the main characteristics of the Mechanical Era?
+A. Use of mechanical components such as gears, cogs and dials
+B. Use of superconductors
+C. Use of artificial intelligence
+D. Use of integrated circuits
+Answer: A. Use of mechanical components such as gears, cogs and dials
+What was one of the major purposes of the Differential Engine?
+A. To process natural language
+B. To tabulate polynomial functions
+C. To control traffic lights
+D. To provide electronic memory
+Answer: B. To tabulate polynomial functions
+Which of the following correctly describes Difference Engine No. 1?
+A. It was completely built and used commercially
+B. It was an electronic computer
+C. It was designed but never fully built
+D. It was designed by Ada Lovelace
+Answer: C. It was designed but never fully built
+What happened to Difference Engine No. 2?
+A. It was converted into an electronic computer
+B. It was never designed
+C. It was destroyed before Babbage designed it
+D. A working replica was built by the Science Museum in London in 1991
+Answer: D. A working replica was built by the Science Museum in London in 1991
+Which of the following distinguishes the Analytical Engine from the Difference Engine?
+A. The Analytical Engine was designed as a general-purpose computer
+B. The Analytical Engine could only perform polynomial calculations
+C. The Analytical Engine had no memory
+D. The Analytical Engine did not use punched cards
+Answer: A. The Analytical Engine was designed as a general-purpose computer
+What was the name given to the memory component of the Analytical Engine?
+A. The Mill
+B. The Store
+C. The Reader
+D. The Printer
+Answer: B. The Store
+What was the function of the Mill in the Analytical Engine?
+A. It stored punched cards
+B. It printed results
+C. It performed arithmetic operations
+D. It supplied constant values
+Answer: C. It performed arithmetic operations
+Which component of the Analytical Engine was used to input programs and data?
+A. The Reader
+B. The Store
+C. The Mill
+D. The Printer/Plotter
+Answer: A. The Reader
+Which of the following was one of the types of punched cards envisioned by Babbage?
+A. Memory cards
+B. Operation cards
+C. Display cards
+D. Network cards
+Answer: B. Operation cards
+What did variable cards in the Analytical Engine select?
+A. The arithmetic operations
+B. The constant values
+C. The memory addresses to use
+D. The printed output
+Answer: C. The memory addresses to use
+What did number cards supply to the Analytical Engine?
+A. Constant values
+B. Memory addresses
+C. Operating instructions
+D. Printed results
+Answer: A. Constant values
+Which of the following was a reason the Analytical Engine was never built during Babbage's
+lifetime?
+A. Lack of electricity
+B. Lack of programming languages
+C. Lack of punched cards
+D. The precision machining required was beyond nineteenth-century workshops
+Answer: D. The precision machining required was beyond nineteenth-century workshops
+Who wrote the first published algorithm intended to be executed by the Analytical Engine?
+A. John Napier
+B. Ada Lovelace
+C. Joseph Marie Jacquard
+D. Konrad Zuse
+Answer: B. Ada Lovelace
+What did Ada Lovelace's notes describe?
+A. A sequence of operations for computing Bernoulli numbers
+B. The construction of the Abacus
+C. The operation of the Mark I
+D. The invention of the transistor
+Answer: A. A sequence of operations for computing Bernoulli numbers
+Why is Ada Lovelace widely recognised in computing history?
+A. She invented the Pascaline
+B. She built the first electronic computer
+C. She is widely recognised as the first computer programmer
+D. She invented the Jacquard Loom
+Answer: C. She is widely recognised as the first computer programmer
+What did electromechanical computers use to perform logic and arithmetic?
+A. Relays
+B. Vacuum tubes
+C. Silicon chips
+D. Superconductors
+Answer: A. Relays
+What could the on/off action of a relay represent?
+A. Decimal numbers only
+B. Binary 1/0
+C. Alphabetic characters only
+D. Continuous data
+Answer: B. Binary 1/0
+Which of the following was a limitation of relays?
+A. They had no moving parts
+B. They could switch millions of times per second
+C. Their moving parts limited their switching speed
+D. They required no cooling
+Answer: C. Their moving parts limited their switching speed
+Which computer was built by Konrad Zuse in 1941?
+A. Harvard Mark I
+B. Zuse Z4
+C. Zuse Z3
+D. Bell Labs Model II
+Answer: C. Zuse Z3
+What was significant about the Zuse Z3?
+A. It was the first working programme-controlled, fully automatic digital computer
+B. It was the first personal computer
+C. It was the first computer to use integrated circuits
+D. It was the first computer to use a microprocessor
+Answer: A. It was the first working programme-controlled, fully automatic digital computer
+How many relays did the Zuse Z3 use?
+A. 765
+B. 1,000
+C. 2,600
+D. 3,000
+Answer: C. 2,600
+Who built the Harvard Mark I?
+A. Howard Aiken / IBM
+B. Konrad Zuse
+C. George Stibitz
+D. Charles Babbage
+Answer: A. Howard Aiken / IBM
+Which of the following describes the Harvard Mark I?
+A. It used binary arithmetic and 2,600 relays
+B. It was decimal and used paper tape
+C. It was based entirely on vacuum tubes
+D. It was a personal computer
+Answer: B. It was decimal and used paper tape
+What was notable about Bell Labs Model II?
+A. It was the first personal computer
+B. It introduced graphical user interfaces
+C. It was one of the first remote computing demonstrations
+D. It used an Intel microprocessor
+Answer: C. It was one of the first remote computing demonstrations
+Who built Bell Labs Model II?
+A. George Stibitz
+B. Howard Aiken
+C. Robert Noyce
+D. Jack Kilby
+Answer: A. George Stibitz
+Which of the following was a limitation of the electromechanical era?
+A. Unlimited processing speed
+B. Mechanical wear
+C. Small physical size
+D. Absence of heat
+Answer: B. Mechanical wear
+Why did relay computers produce considerable noise?
+A. They used large relay banks
+B. They used natural language processing
+C. They used graphical interfaces
+D. They used microprocessors
+Answer: A. They used large relay banks
+Which technology offered much faster switching than relays?
+A. Punched cards
+B. Mechanical gears
+C. Vacuum tubes
+D. Paper tape
+Answer: C. Vacuum tubes
+Which computer demonstrated that electronic computing was possible?
+A. ENIAC
+B. Harvard Mark I
+C. Zuse Z4
+D. Jacquard Loom
+Answer: A. ENIAC
+What eventually made both relays and vacuum tubes obsolete?
+A. Punched cards
+B. Transistors
+C. Mechanical gears
+D. Paper tape
+Answer: B. Transistors
+Which technology was used by first-generation computers?
+A. Integrated circuits
+B. Microprocessors
+C. Vacuum tubes
+D. Artificial intelligence
+Answer: C. Vacuum tubes
+Which of the following was a characteristic of first-generation computers?
+A. They were very large
+B. They were portable
+C. They used graphical user interfaces
+D. They used natural language
+Answer: A. They were very large
+What type of language did first-generation computers rely on?
+A. BASIC
+B. Machine language
+C. COBOL
+D. FORTRAN
+Answer: B. Machine language
+Which generation introduced transistors?
+A. First Generation
+B. Second Generation
+C. Third Generation
+D. Fourth Generation
+Answer: B. Second Generation
+Which of the following was an improvement associated with second-generation computers?
+A. They became smaller, faster, cheaper and more energy-efficient
+B. They became larger and more expensive
+C. They relied entirely on vacuum tubes
+D. They eliminated memory
+Answer: A. They became smaller, faster, cheaper and more energy-efficient
+Which programming languages were developed during the second generation?
+A. HTML, CSS and JavaScript
+B. BASIC, COBOL and FORTRAN
+C. Python, Java and C++
+D. SQL, XML and PHP
+Answer: B. BASIC, COBOL and FORTRAN
+What major technology characterised the third generation?
+A. Vacuum tubes
+B. Transistors
+C. Integrated circuits
+D. Artificial intelligence
+Answer: C. Integrated circuits
+Which of the following was introduced during the third generation?
+A. Keyboards and monitors
+B. Vacuum tubes
+C. Punched film
+D. Natural language processing
+Answer: A. Keyboards and monitors
+Which generation witnessed the development of operating systems?
+A. First
+B. Second
+C. Third
+D. Fifth
+Answer: C. Third
+Who were notably associated with etching many transistors onto a single silicon chip?
+A. John Napier and Blaise Pascal
+B. Jack Kilby and Robert Noyce
+C. Charles Babbage and Ada Lovelace
+D. Howard Aiken and Konrad Zuse
+Answer: B. Jack Kilby and Robert Noyce
+Which generation is associated with the availability of the microprocessor?
+A. First Generation
+B. Second Generation
+C. Third Generation
+D. Fourth Generation
+Answer: D. Fourth Generation
+Which development was associated with the fourth generation?
+A. Graphical User Interface
+B. Vacuum tube technology
+C. Mechanical gears
+D. Punched-card-only programming
+Answer: A. Graphical User Interface
+Which of the following computers was associated with the development of personal computing
+during the fourth generation?
+A. Zuse Z3
+B. Altair 8800
+C. ENIAC
+D. Harvard Mark I
+Answer: B. Altair 8800
+Which generation is based on Artificial Intelligence?
+A. Second Generation
+B. Third Generation
+C. Fourth Generation
+D. Fifth Generation
+Answer: D. Fifth Generation
+Which of the following is associated with fifth-generation computing?
+A. Parallel processing
+B. Vacuum tubes
+C. Mechanical gears
+D. Magnetic drums only
+Answer: A. Parallel processing
+What is one of the goals of fifth-generation computing?
+A. To eliminate computer learning
+B. To develop devices capable of learning
+C. To return computing to manual calculations
+D. To remove natural language processing
+Answer: B. To develop devices capable of learning
+Which classification considers the tasks a computer is designed to perform?
+A. Classification based on purpose
+B. Classification based on colour
+C. Classification based on ownership
+D. Classification based on location
+Answer: A. Classification based on purpose
+Which of the following is an example of a special-purpose computer application?
+A. Payroll
+B. Sales analysis
+C. Tracking airplanes or missiles
+D. Word processing
+Answer: C. Tracking airplanes or missiles
+Which characteristic distinguishes special-purpose computers?
+A. Wide variety of applications
+B. Dedicated functionality
+C. Unlimited programmability
+D. Continuous software modification
+Answer: B. Dedicated functionality
+Why are special-purpose computers considered cost-effective for dedicated tasks?
+A. They are less expensive than general-purpose computers for dedicated tasks
+B. They require unlimited human intervention
+C. They use more complex software
+D. They are designed for every possible application
+Answer: A. They are less expensive than general-purpose computers for dedicated tasks
+Which type of computer requires human input to operate and execute tasks?
+A. Special-purpose computer
+B. General-purpose computer
+C. Analog computer
+D. Hybrid computer
+Answer: B. General-purpose computer
+Which of the following is a characteristic of general-purpose computers?
+A. Minimal user interaction
+B. Fixed software
+C. Flexibility
+D. Single-task operation only
+Answer: C. Flexibility
+Which of the following is an example of a general-purpose computer?
+A. Traffic light controller
+B. Washing machine controller
+C. Medical diagnostic equipment
+D. Smartphone
+Answer: D. Smartphone
+Which classification is based on whether data is continuous or discrete?
+A. Classification based on data handled
+B. Classification based on purpose
+C. Classification based on ownership
+D. Classification based on cost
+Answer: A. Classification based on data handled
+Which type of computer is almost never used in business systems?
+A. Digital computer
+B. Mainframe computer
+C. Analog computer
+D. Microcomputer
+Answer: C. Analog computer
+Which type of computer represents data as digits?
+A. Analog computer
+B. Digital computer
+C. Hybrid computer
+D. Special-purpose computer
+Answer: B. Digital computer
+Which computers are suitable for measuring physical quantities?
+A. Analog computers
+B. Digital computers
+C. Mainframe computers
+D. Microcomputers
+Answer: A. Analog computers
+Which type of computer is commonly used in aerospace and process control applications?
+A. Microcomputer
+B. Hybrid computer
+C. Minicomputer
+D. Mainframe computer
+Answer: B. Hybrid computer
+Which of the following is an example of a hybrid computer application?
+A. Electrocardiogram machine
+B. Desktop publishing
+C. Word processor
+D. Personal spreadsheet
+Answer: A. Electrocardiogram machine
+Which device converts analog inputs into digital values in a hybrid system?
+A. Monitor
+B. Digitiser
+C. Keyboard
+D. Printer
+Answer: B. Digitiser
+Which category of computer is designed for complex scientific calculations and large-scale
+simulations?
+A. Microcomputer
+B. Minicomputer
+C. Mainframe computer
+D. Supercomputer
+Answer: D. Supercomputer
+Which category of computer is often called “big iron”?
+A. Mainframe computer
+B. Microcomputer
+C. Minicomputer
+D. Analog computer
+Answer: A. Mainframe computer
+Which type of computer is designed for individual use and uses a single microprocessor for its
+CPU?
+A. Supercomputer
+B. Mainframe computer
+C. Microcomputer
+D. Minicomputer
+Answer: C. Microcomputer
+Which category of computer is described as medium-sized and supports multiple users while
+being smaller than mainframes?
+A. Supercomputer
+B. Minicomputer
+C. Microcomputer
+D. Analog computer
+Answer: B. Minicomputer
+Computing Science is the academic discipline that studies computation, computers, and
+________ processing.
+Answer: information
+Computing Science concerns how computers work, how problems are solved using ________,
+and how software and hardware systems are designed.
+Answer: algorithms
+Computing Science plays a central role in education, business, healthcare, governance,
+science, and everyday human ________.
+Answer: activities
+A computer is essentially a tool or machine used to process data and produce required
+________.
+Answer: information
+A computer is capable of taking input data through the ________.
+Answer: keyboard
+A computer stores input data in a hard disk or other ________.
+Answer: medium
+The central processing unit is abbreviated as ________.
+Answer: CPU
+The result produced by a computer is given out as ________ on the screen or the Visual Display
+Unit.
+Answer: output
+A computer is any machine or device which, under the control of a stored ________, can accept
+data in a prescribed form.
+Answer: program
+A computer accepts data, processes the data, and supplies the results as ________.
+Answer: information
+Computer science is the study of theory, experimentation, and ________ that form the basis for
+the design and use of computers.
+Answer: engineering
+Computer science is the scientific and practical approach to ________ and its applications.
+Answer: computation
+The computing system consists of the computer system, the user, and the ________ in which the
+computer is operated.
+Answer: environment
+The computer system is made up of the ________ and the software.
+Answer: hardware
+Computer hardware comprises the input unit, the processing unit and the ________ unit.
+Answer: output
+The input unit comprises those media through which data is ________ into the computer.
+Answer: fed
+Examples of input devices include the keyboard, mouse, joystick, trackball and ________.
+Answer: scanner
+The processing unit consists of the Arithmetic and Logic Unit, the control unit, and the main
+________.
+Answer: memory
+The main memory is also known as ________ memory.
+Answer: primary
+The main memory consists of Read Only Memory and Random Access ________.
+Answer: Memory
+The abbreviation for Read Only Memory is ________.
+Answer: ROM
+The abbreviation for Random Access Memory is ________.
+Answer: RAM
+The output unit consists of the media through which data, instructions and the result of the
+processing operation are ________ to the user.
+Answer: displayed
+Examples of output units include the monitor and the ________.
+Answer: printer
+Computer software is a set of ________ that enables a computer to perform a task or a set of
+tasks.
+Answer: instructions
+A program is a set of instructions that perform a ________.
+Answer: task
+A series of programs linked together makes up ________.
+Answer: software
+Computer programs could be categorised into system software, utility software, and ________
+programs.
+Answer: application
+Computer users are different categories of ________ who operate the computer.
+Answer: personnel
+The two major categories of computer users mentioned are expert users and ________ users.
+Answer: casual
+Expert users could be further categorised into computer engineers, computer programmers and
+computer ________.
+Answer: operators
+The computing environment includes the building housing the computer and the ________.
+Answer: users
+The computing environment includes furniture and ________ devices.
+Answer: auxiliary
+A device used in the computing environment to regulate electrical voltage is the voltage
+________.
+Answer: stabilizer
+The Uninterruptible Power Supply System is abbreviated as ________.
+Answer: UPS
+A system is a collection of interrelated components that work together to achieve a common
+________.
+Answer: goal
+In computing, a system consists of hardware, software, data, procedures, and ________ working
+together.
+Answer: users
+Every computer system is designed to transform raw data into meaningful ________.
+Answer: information
+The sequence of coordinated activities through which a computer transforms data into
+information is known as system ________.
+Answer: operation
+System operation describes how the various components of a computer system communicate
+and ________.
+Answer: interact
+A computer system receives data, processes it according to programmed instructions, stores it
+when necessary, and presents useful ________ to users.
+Answer: results
+The hardware performs physical operations, while the software provides the ________ that direct
+every activity.
+Answer: instructions
+System operation helps learners appreciate how computers solve problems, automate tasks,
+and support ________-making.
+Answer: decision
+System operation ensures that data is correctly received from input devices or other ________.
+Answer: sources
+System operation ensures that instructions are accurately interpreted and ________.
+Answer: executed
+Results are presented in a useful form to the ________.
+Answer: user
+Data and results are stored for future ________ where necessary.
+Answer: retrieval
+The system provides feedback to confirm successful processing or identify ________ that require
+correction.
+Answer: errors
+The operation of every computer system follows a continuous cycle known as the Information
+Processing ________.
+Answer: Cycle
+The Information Processing Cycle illustrates how data flows through the system from the
+moment it is entered until meaningful information is produced and ________.
+Answer: stored
+The five stages of the Information Processing Cycle are Input, Processing, Output, Storage and
+________.
+Answer: Feedback
+The ________ stage involves entering data and instructions into the computer system.
+Answer: Input
+The CPU performs calculations, comparisons, logical operations and decision-making during
+the ________ stage.
+Answer: Processing
+The processed information is presented to the user or another device during the ________ stage.
+Answer: Output
+Data, instructions and results are saved for immediate or future use during the ________ stage.
+Answer: Storage
+The system reports the outcome of processing or requests corrective action during the ________
+stage.
+Answer: Feedback
+The process is continuous because the output of one operation often becomes the ________ to
+another.
+Answer: input
+All computer systems repeatedly perform four essential functions: input, processing, storage
+and ________.
+Answer: output
+The input function involves accepting data and instructions from users or external ________.
+Answer: devices
+The processing function involves executing instructions and transforming data into meaningful
+________.
+Answer: information
+The storage function involves saving data temporarily or permanently for future ________.
+Answer: use
+The output function involves delivering processed information to users or other ________.
+Answer: devices
+The Instruction Cycle explains how the Central Processing Unit executes individual program
+________.
+Answer: instructions
+The CPU processes instructions one after another using the Fetch–Decode–Execute ________.
+Answer: Cycle
+During the Fetch stage, the Control Unit retrieves the next instruction from the computer's main
+________.
+Answer: memory
+The Control Unit retrieves the next instruction from ________ during the Fetch stage.
+Answer: RAM
+During the Decode stage, the Control Unit interprets the ________.
+Answer: instruction
+During the Execute stage, the CPU carries out the ________.
+Answer: instruction
+The Execute stage may involve performing arithmetic calculations, comparing data, moving
+information, receiving input and sending ________.
+Answer: results
+If an instruction produces new data or results, the CPU stores them in memory or ________
+storage.
+Answer: secondary
+After the instruction is executed, the CPU immediately fetches the ________ instruction.
+Answer: next
+The Fetch–Decode–Execute Cycle is also referred to as the ________ Cycle.
+Answer: Instruction
+The Fetch–Decode–Execute Cycle forms the fundamental operating principle of every ________
+computer.
+Answer: digital
+Which of the following is the primary function of a computer?
+A. To communicate only with other computers
+B. To process data and produce required information
+C. To replace all human activities
+D. To provide electricity to other devices
+Answer: B. To process data and produce required information
+Which of the following correctly describes computer science?
+A. The study of only computer hardware
+B. The study of computer games and entertainment
+C. The study of theory, experimentation, and engineering that form the basis for the design and
+use of computers
+D. The study of electrical wiring alone
+Answer: C. The study of theory, experimentation, and engineering that form the basis for
+the design and use of computers
+Which of the following is included in the systematic study of computer science?
+A. The mechanization of methodical procedures
+B. The manufacture of furniture
+C. The construction of buildings
+D. The production of electricity
+Answer: A. The mechanization of methodical procedures
+Which of the following is NOT listed as an area in which Computing Science plays a central role?
+A. Healthcare
+B. Governance
+C. Science
+D. Agriculture
+Answer: D. Agriculture
+Which component of a computer system contains the physical components that can be seen
+and touched?
+A. Software
+B. Hardware
+C. Human-ware
+D. Procedures
+Answer: B. Hardware
+Which of the following is NOT an example of an input device?
+A. Joystick
+B. Trackball
+C. Printer
+D. Scanner
+Answer: C. Printer
+Which of the following is responsible for performing arithmetic and logical operations?
+A. Arithmetic and Logic Unit
+B. Control Unit
+C. Main Memory
+D. Output Unit
+Answer: A. Arithmetic and Logic Unit
+Which of the following is another name for the main memory?
+A. Secondary memory
+B. External memory
+C. Primary memory
+D. Auxiliary memory
+Answer: C. Primary memory
+Which of the following correctly identifies the components of main memory?
+A. CPU and VDU
+B. ROM and RAM
+C. Keyboard and mouse
+D. Printer and scanner
+Answer: B. ROM and RAM
+Which of the following is an example of an output device?
+A. Scanner
+B. Mouse
+C. Monitor
+D. Joystick
+Answer: C. Monitor
+Which of the following best describes application programs?
+A. Programs designed to perform tasks for users
+B. Devices used for entering data
+C. Physical components of the CPU
+D. Auxiliary devices used to supply electricity
+Answer: A. Programs designed to perform tasks for users
+Which category of computer users includes computer engineers?
+A. Casual users
+B. Expert users
+C. End users
+D. Data entry clerks
+Answer: B. Expert users
+Which of the following is classified under expert users?
+A. Data entry clerks
+B. Casual users
+C. Computer programmers
+D. Ordinary computer users
+Answer: C. Computer programmers
+Which of the following is included in the computing environment?
+A. Air conditioner
+B. Application software
+C. CPU
+D. Keyboard
+Answer: A. Air conditioner
+Which auxiliary device is specifically used as part of the computing environment?
+A. Printer
+B. Voltage stabilizer
+C. Scanner
+D. Mouse
+Answer: B. Voltage stabilizer
+Which of the following best defines data?
+A. Processed facts that are meaningful
+B. Raw facts and figures that have not yet been processed
+C. Instructions written in a programming language
+D. Physical computer components
+Answer: B. Raw facts and figures that have not yet been processed
+Which of the following best defines information?
+A. Raw numbers only
+B. Unprocessed symbols
+C. Data that has been processed, organised, or structured to make it meaningful and useful
+D. A set of physical computer devices
+Answer: C. Data that has been processed, organised, or structured to make it meaningful
+and useful
+Which of the following is a characteristic of an algorithm?
+A. It must continue indefinitely
+B. It must have clearly defined steps
+C. It must contain only numerical data
+D. It must require human intervention at every step
+Answer: B. It must have clearly defined steps
+Which of the following is required of an algorithm?
+A. It must end
+B. It must contain no output
+C. It must have unlimited steps
+D. It must avoid input
+Answer: A. It must end
+Which of the following describes a program?
+A. A physical part of a computer
+B. A set of instructions written in a programming language that tells the computer how to
+perform a specific task
+C. Raw facts awaiting processing
+D. A computing environment
+Answer: B. A set of instructions written in a programming language that tells the computer
+how to perform a specific task
+Which of the following refers to people who interact with and manage computer systems?
+A. Hardware
+B. Software
+C. Human-ware
+D. Firmware
+Answer: C. Human-ware
+Which of the following is an example of human-ware?
+A. System analysts
+B. Monitor
+C. CPU
+D. Keyboard
+Answer: A. System analysts
+Which of the following best describes a computer system?
+A. An integrated combination of hardware, software, data, procedures, and human-ware
+working together to process information
+B. A collection of input devices only
+C. A combination of software programs only
+D. A network of printers and monitors
+Answer: A. An integrated combination of hardware, software, data, procedures, and
+human-ware working together to process information
+Which of the following is included in ICT?
+A. Computers
+B. Furniture
+C. Air conditioners
+D. Voltage stabilizers only
+Answer: A. Computers
+Which unit is the smallest unit of data?
+A. Byte
+B. Bit
+C. Kilobyte
+D. Megabyte
+Answer: B. Bit
+How many bits make up one byte?
+A. 4
+B. 16
+C. 8
+D. 1024
+Answer: C. 8
+How many bytes make up one kilobyte?
+A. 1000
+B. 1024
+C. 8
+D. 1024 KB
+Answer: B. 1024
+How many kilobytes make up one megabyte?
+A. 8
+B. 1000
+C. 1024
+D. 1024 MB
+Answer: C. 1024
+How many megabytes make up one gigabyte?
+A. 1024
+B. 1000
+C. 8
+D. 1024 KB
+Answer: A. 1024
+Which characteristic refers to how fast a computer can process data and execute instructions?
+A. Accuracy
+B. Speed
+C. Reliability
+D. Storage capacity
+Answer: B. Speed
+Which unit measures CPU clock speed?
+A. Hertz
+B. Byte
+C. Bit
+D. Kilobyte
+Answer: A. Hertz
+Which of the following represents one billion operations per second?
+A. Kilohertz
+B. Megahertz
+C. Gigahertz
+D. Millisecond
+Answer: C. Gigahertz
+Which of the following represents 10 ⁻ ⁹ seconds?
+A. Millisecond
+B. Microsecond
+C. Nanosecond
+D. Gigahertz
+Answer: C. Nanosecond
+Which characteristic refers to the ability of a computer to produce correct and precise results
+when given correct data and instructions?
+A. Accuracy
+B. Automation
+C. Versatility
+D. Diligence
+Answer: A. Accuracy
+What does GIGO stand for in relation to computer accuracy?
+A. Good Input Gives Output
+B. Garbage In, Garbage Out
+C. General Information Gives Output
+D. Generated Input Generates Operations
+Answer: B. Garbage In, Garbage Out
+Which of the following is identified as a cause of errors in computer processing?
+A. Correct input
+B. Faulty programs
+C. Proper instructions
+D. Accurate data
+Answer: B. Faulty programs
+Which characteristic enables a computer to work continuously without rest?
+A. Diligence
+B. Versatility
+C. Storage capacity
+D. Automation
+Answer: A. Diligence
+Which of the following is a feature of diligence?
+A. Fatigue
+B. Consistency
+C. Loss of concentration
+D. Reduced efficiency
+Answer: B. Consistency
+Which characteristic enables a computer to perform tasks automatically once programmed and
+started?
+A. Reliability
+B. Automation
+C. Accuracy
+D. Storage capacity
+Answer: B. Automation
+Which of the following is an importance of automation?
+A. Increased human effort
+B. Slower data processing
+C. Faster data processing
+D. Reduced productivity
+Answer: C. Faster data processing
+Which characteristic refers to the ability of a computer to perform a wide variety of tasks?
+A. Versatility
+B. Accuracy
+C. Reliability
+D. Diligence
+Answer: A. Versatility
+Which of the following is a key feature of versatility?
+A. Single-purpose use
+B. Task switching
+C. Limited application range
+D. Permanent programming
+Answer: B. Task switching
+Which type of storage provides temporary storage?
+A. Secondary storage
+B. Primary storage
+C. Cloud storage
+D. Hard disk
+Answer: B. Primary storage
+Which of the following is an example of secondary storage?
+A. RAM
+B. CPU
+C. SSD
+D. Control Unit
+Answer: C. SSD
+Which characteristic refers to the ability of a computer to perform operations correctly and
+consistently over a long period without failure?
+A. Reliability
+B. Versatility
+C. Automation
+D. Accuracy
+Answer: A. Reliability
+Which of the following is an example of a system where computer reliability is important?
+A. Banking
+B. Furniture production
+C. Manual filing
+D. Handwriting
+Answer: A. Banking
+Which characteristic enables a computer to execute multiple tasks or programs
+simultaneously?
+A. Accuracy
+B. Multitasking
+C. Automation
+D. Storage capacity
+Answer: B. Multitasking
+Which of the following best describes the purpose of system operation?
+A. To manufacture computer components
+B. To transform raw data into meaningful information
+C. To replace computer users
+D. To maintain only computer hardware
+Answer: B. To transform raw data into meaningful information
+Which of the following represents the basic pattern of system operation?
+A. Output → Input → Storage → Processing
+B. Input → Processing → Storage → Output → Feedback
+C. Storage → Input → Output → Processing
+D. Feedback → Storage → Input → Output
+Answer: B. Input → Processing → Storage → Output → Feedback
+Which component performs the physical operations in a computer system?
+A. Software
+B. Hardware
+C. Data
+D. Procedures
+Answer: B. Hardware
+Which component provides instructions that direct computer activities?
+A. Hardware
+B. Software
+C. User
+D. Storage
+Answer: B. Software
+Which of the following is an example of an input device mentioned in the Information
+Processing Cycle?
+A. Projector
+B. Speaker
+C. Microphone
+D. Printer
+Answer: C. Microphone
+Which of the following can serve as an input device?
+A. Webcam
+B. Monitor
+C. Printer
+D. Projector
+Answer: A. Webcam
+Which of the following is performed during the processing stage?
+A. Presenting information to users
+B. Saving results permanently
+C. Calculating totals
+D. Entering data through a keyboard
+Answer: C. Calculating totals
+Which of the following is an example of processing?
+A. Sorting records
+B. Printing documents
+C. Saving data to an SSD
+D. Displaying information on a monitor
+Answer: A. Sorting records
+Which device is identified as an output device?
+A. Scanner
+B. Monitor
+C. Mouse
+D. Sensor
+Answer: B. Monitor
+Which of the following can produce output in audio form?
+A. Speakers
+B. Scanner
+C. Keyboard
+D. Mouse
+Answer: A. Speakers
+Which of the following is an example of storage in the Information Processing Cycle?
+A. Flash drive
+B. Microphone
+C. Projector
+D. Camera
+Answer: A. Flash drive
+Which of the following is an example of feedback?
+A. Error messages
+B. Keyboard
+C. Scanner
+D. RAM
+Answer: A. Error messages
+An input device enables users to enter data and ________ into a computer system.
+Answer: instructions
+A computer keyboard can be a dummy type or an ________ type.
+Answer: intelligent
+An intelligent computer keyboard can initiate a series of ________ for a computer to carry out.
+Answer: actions
+The intelligent computer keyboard has four major divisions: Function keys, Alphanumeric keys,
+Numeric keys, and ________ keys.
+Answer: Control
+The special key denoted by ESC is the ________ key.
+Answer: Escape
+The special key denoted by CTRL is the ________ key.
+Answer: Control
+The special key denoted by ALT is the ________ key.
+Answer: Alternate
+The special key denoted by DEL is the ________ key.
+Answer: Delete
+The special key denoted by INS is the ________ key.
+Answer: Insert
+The effects of the function keys are ________-dependent.
+Answer: software-package
+The function keys are traditionally labeled F1 through ________.
+Answer: F12
+Function keys can be programmed to carry out the functions desired by a ________.
+Answer: programmer
+The cursor marks the active or ________ spot on the screen.
+Answer: current
+The cursor may be a rectangular bar of light or a blinking ________.
+Answer: underscore
+The cursor control keys include four directional ________ keys.
+Answer: arrow
+A printer is an output device that produces text and graphics on a physical medium such as
+________.
+Answer: paper
+Printed information is often called ________ copy.
+Answer: hard
+Printers can be grouped into impact and ________-impact printers.
+Answer: non
+Laser printers combine a magnetic roller with powdered ink called ________.
+Answer: toner
+Inkjet printers have small nozzles that spray fast-drying ________ onto the page.
+Answer: ink
+Inkjet printers provide very good quality output at a lower ________.
+Answer: cost
+Dot-matrix printers use a print head to strike an inked ________ against paper.
+Answer: ribbon
+Dot-matrix printers create characters out of a series of ________.
+Answer: dots
+The 9-pin and ________-pin are common dot-matrix printer options.
+Answer: 24
+The ________-pin printers produce higher-quality output but are somewhat slower than the 9-pin
+printers.
+Answer: 24
+Draft mode in dot-matrix printing is described as ________ resolution.
+Answer: low
+Near-letter-quality mode is described as ________ resolution.
+Answer: medium
+Letter-quality mode is described as ________ resolution.
+Answer: high
+The monitor is the primary ________ device of a computer.
+Answer: output
+A monitor is also called a Visual Display ________.
+Answer: Unit
+The Central Processing Unit is otherwise known as the ________ of the computer.
+Answer: heart
+The CPU stands between the input and ________ devices.
+Answer: output
+The Central Processing Unit is the core component of a computer system responsible for
+executing ________.
+Answer: instructions
+The CPU performs processing and ________-making functions.
+Answer: decision
+The CPU fetches instructions from ________.
+Answer: memory
+The CPU decodes instructions to determine required ________.
+Answer: actions
+The Arithmetic Logic Unit is abbreviated as ________.
+Answer: ALU
+The ALU performs arithmetic operations such as addition, subtraction, multiplication, and
+________.
+Answer: division
+The ALU performs logical operations such as comparisons, AND, OR and ________.
+Answer: NOT
+The Control Unit is abbreviated as ________.
+Answer: CU
+The Control Unit directs all operations of the computer ________.
+Answer: system
+Registers are small, high-speed memory locations within the ________.
+Answer: CPU
+Registers temporarily store data, instructions, and intermediate ________ during processing.
+Answer: results
+The Accumulator, Instruction Register, and Program Counter are examples of ________.
+Answer: registers
+CPU clock speed is measured in ________.
+Answer: Hertz (Hz)
+A computer is an electronic device that generates ________ while operating.
+Answer: heat
+Every computer is designed to function efficiently within a specified ________ range.
+Answer: temperature
+Dust accumulation can block ventilation openings and reduce ________ efficiency.
+Answer: cooling
+Conductive dust particles may interfere with electronic ________.
+Answer: circuits
+An air conditioner helps to regulate temperature, control humidity, and reduce airborne
+________.
+Answer: dust
+An air conditioner helps prevent ________ of internal components.
+Answer: overheating
+A voltage stabilizer is an electrical device that regulates incoming voltage and supplies a
+________ output voltage.
+Answer: constant
+A voltage stabilizer protects computers against over-voltage and ________-voltage conditions.
+Answer: under
+A voltage stabilizer reduces the risk of hardware damage caused by power ________.
+Answer: surges
+A line voltage transformer can increase voltage through a process called ________ up.
+Answer: step
+A line voltage transformer can decrease voltage through a process called ________ down.
+Answer: step
+Many countries in North America use approximately ________–120 volts.
+Answer: 110
+Countries such as Nigeria use approximately ________–240 volts.
+Answer: 220
+Modern computers are designed with universal power supply units that automatically accept
+approximately 100V to ________V AC.
+Answer: 240
+The system unit is the main unit of a ________.
+Answer: PC
+The system unit is made up of several components like the motherboard, processor, buses,
+memory, and ________ supply unit.
+Answer: power
+The CPU is a component within the system unit and is not the only thing that makes up the
+________ unit.
+Answer: system
+The front panel may display lights to indicate if the hard or floppy disk is being ________ or
+written to.
+Answer: read
+Turning the key in the key lock prevents the ________ from working.
+Answer: keyboard
+A turbo switch is usually left so the computer runs at its ________ speed.
+Answer: fastest
+The reset button should be used only as a ________ resort.
+Answer: last
+Pressing the reset button loses all the work that has not been ________ in that session.
+Answer: saved
+All PCs have a main power ________ on the system unit.
+Answer: switch
+The electronic components in a PC generate a lot of ________.
+Answer: heat
+A fan at the back of the unit removes ________ air from the system.
+Answer: hot
+The power “in” and “out” sockets carry power from the electrical outlet to the system unit and
+from the system unit to the ________.
+Answer: monitor
+The keyboard cable ends in a round connector that plugs into the keyboard ________.
+Answer: port
+A network connector is visible at the back when an expansion card is fitted to link the PC with
+other ________.
+Answer: PCs
+The monitor port carries display information to the ________.
+Answer: monitor
+The physical components of the computer are called the ________.
+Answer: hardware
+All the other resources or parts of the computer that are not hardware are referred to as the
+________.
+Answer: software
+Software is the set of programs that make the computer system ________.
+Answer: active
+A program is a series of coded instructions showing the logical steps the computer follows to
+solve a given ________.
+Answer: problem
+The computer software could be divided into system software, application software and a
+subgroup called ________ software.
+Answer: utility
+System software facilitates the optimal use of the ________ systems.
+Answer: hardware
+An operating system acts as an interface between a user of a computer and the computer
+________.
+Answer: hardware
+The purpose of an operating system is to provide an environment in which a user may execute
+________.
+Answer: programs
+The operating system controls and coordinates the use of the ________ among various programs
+and users.
+Answer: hardware
+An operating system can be viewed as a resource ________.
+Answer: allocator
+The operating system manages resources such as CPU time, memory space, file storage space,
+and input/output ________.
+Answer: devices
+The primary goal of an operating system is ________ for the user.
+Answer: convenience
+A secondary goal of an operating system is the ________ operation of the computer system.
+Answer: efficient
+Batch, time-shared and real time operating systems are distinguished by the nature of ________
+between the computer user and the program.
+Answer: interaction
+In a batch processing operating system, users submit jobs to a central place where these jobs
+are collected into a ________.
+Answer: batch
+Which of the following describes the role of input devices in computer operations?
+A. They provide the communication link between users and computers
+B. They permanently store processed information
+C. They display processed information only
+D. They regulate the computer's electrical supply
+Answer: A. They provide the communication link between users and computers
+Which type of keyboard can initiate a series of actions by pressing a key or combination of keys?
+A. Conventional keyboard
+B. Intelligent keyboard
+C. Mechanical keyboard
+D. Numeric keyboard
+Answer: B. Intelligent keyboard
+What may an intelligent keyboard cause the computer to do when a particular key is pressed?
+A. Shut down automatically
+B. Change its hardware
+C. Perform a specific function
+D. Disconnect from the network
+Answer: C. Perform a specific function
+Which of the following is NOT one of the four major divisions of an intelligent computer
+keyboard?
+A. Function keys
+B. Alphanumeric keys
+C. Numeric keys
+D. Navigation keys
+Answer: D. Navigation keys
+What is the principal characteristic of the function keys?
+A. Their effects depend on the software package being used
+B. They are used exclusively for entering numbers
+C. They are used only for controlling the cursor
+D. They always perform exactly the same operation
+Answer: A. Their effects depend on the software package being used
+Which function key is used to run the HELP program in most software packages?
+A. F3
+B. F5
+C. F1
+D. F10
+Answer: C. F1
+Which function key is used for the HELP program in WordPerfect?
+A. F1
+B. F3
+C. F7
+D. F12
+Answer: B. F3
+Which function key is used to save a text in WordPerfect?
+A. F2
+B. F5
+C. F7
+D. F10
+Answer: C. F7
+Which function key is used to block a section of a text in WordPerfect?
+A. F12
+B. F8
+C. F6
+D. F4
+Answer: A. F12
+What do alphanumeric keys contain?
+A. Only alphabetic characters
+B. Alphabetic, numeric and special characters
+C. Only numeric characters
+D. Only control commands
+Answer: B. Alphabetic, numeric and special characters
+Which key is used to switch the lower- and uppercase characters on or off?
+A. Control key
+B. Escape key
+C. Shift key
+D. Tab key
+Answer: C. Shift key
+Which of the following best describes the cursor?
+A. An indicator showing where the system is pointing in a document
+B. A device for printing documents
+C. A storage device inside the system unit
+D. A key used to cancel commands
+Answer: A. An indicator showing where the system is pointing in a document
+Which cursor control key moves the cursor to the beginning of a line or page?
+A. End
+B. PGDN
+C. Home
+D. PGUP
+Answer: C. Home
+What does the End key do in most text editors?
+A. Moves the cursor to the beginning of a document
+B. Moves the cursor to the end of the current line
+C. Moves the cursor to the previous page
+D. Deletes the current line
+Answer: B. Moves the cursor to the end of the current line
+Which key moves the cursor to the top of the next page in a document?
+A. Home
+B. End
+C. PGUP
+D. PGDN
+Answer: D. PGDN
+Which key moves the cursor to the top of the previous page?
+A. PGUP
+B. PGDN
+C. Home
+D. End
+Answer: A. PGUP
+Which of the following is a function of the numeric keypad?
+A. Entering number digits into the computer store
+B. Displaying graphical information
+C. Printing text documents
+D. Cancelling an operation
+Answer: A. Entering number digits into the computer store
+What is required to produce extended characters using the numeric keypad?
+A. Shift key only
+B. Ctrl key only
+C. Alternate key in combination with the numeric keypad
+D. Caps Lock key
+Answer: C. Alternate key in combination with the numeric keypad
+What happens when the Shift key is pressed together with the equals sign key?
+A. A question mark appears
+B. A plus sign is activated
+C. The cursor moves backward
+D. The keyboard enters numeric mode
+Answer: B. A plus sign is activated
+Which key shifts all alphabetic characters into uppercase?
+A. Num Lock
+B. Shift
+C. Caps Lock
+D. Control
+Answer: C. Caps Lock
+What is the major distinction between hard copy and information presented on a monitor?
+A. Hard copy exists physically and is more permanent
+B. Hard copy can only contain numbers
+C. Monitor output is always permanent
+D. Monitor output cannot contain graphics
+Answer: A. Hard copy exists physically and is more permanent
+Which printer uses a magnetic roller together with powdered ink?
+A. Dot-matrix printer
+B. Inkjet printer
+C. Laser printer
+D. Thermal printer
+Answer: C. Laser printer
+What is the substance called that is used by a laser printer to produce output?
+A. Ribbon
+B. Toner
+C. Liquid crystal
+D. Ink cartridge
+Answer: B. Toner
+Which printer produces characters by spraying fine ink through small nozzles?
+A. Laser printer
+B. Dot-matrix printer
+C. Inkjet printer
+D. Impact printer
+Answer: C. Inkjet printer
+Which type of printer is described as the cheapest printer available?
+A. Laser printer
+B. Inkjet printer
+C. Dot-matrix printer
+D. OLED printer
+Answer: C. Dot-matrix printer
+What determines the quality of an image produced by a dot-matrix printer?
+A. The number of pins used
+B. The size of the monitor
+C. The amount of toner
+D. The type of sound card
+Answer: A. The number of pins used
+Which dot-matrix printing mode provides the fastest printing?
+A. Letter-quality mode
+B. Near-letter-quality mode
+C. Draft mode
+D. High-resolution mode
+Answer: C. Draft mode
+Which type of printer is generally fast, quiet, and capable of producing high-quality text and
+graphics?
+A. Dot-matrix printer
+B. Laser printer
+C. Inkjet printer
+D. Ribbon printer
+Answer: B. Laser printer
+What does a monitor do with the information it receives?
+A. It processes the information independently
+B. It stores the information permanently
+C. It displays the information
+D. It converts the information into printed output
+Answer: C. It displays the information
+Which of the following statements about a monitor is correct?
+A. It performs all processing inside the computer
+B. It displays information that the video card tells it to display
+C. It stores all computer programs
+D. It controls the CPU
+Answer: B. It displays information that the video card tells it to display
+Which monitor technology was the earliest widely used display technology before LCD and LED
+displays became popular?
+A. OLED
+B. LCD
+C. CRT
+D. Touchscreen
+Answer: C. CRT
+What does CRT stand for?
+A. Computer Response Technology
+B. Cathode Ray Tube
+C. Central Ray Terminal
+D. Computer Radiation Technology
+Answer: B. Cathode Ray Tube
+Which monitor uses liquid crystal technology to show images when light passes through it?
+A. CRT monitor
+B. OLED monitor
+C. LCD monitor
+D. Touchscreen monitor
+Answer: C. LCD monitor
+What technology does an OLED monitor use to produce light?
+A. Cathode rays
+B. Liquid crystals
+C. Organic Light Emitting Diodes
+D. Magnetic rollers
+Answer: C. Organic Light Emitting Diodes
+What makes a touchscreen monitor different from an ordinary output-only monitor?
+A. It cannot display information
+B. It functions as both an input and output device
+C. It only works with printers
+D. It does not require electricity
+Answer: B. It functions as both an input and output device
+Which component is responsible for controlling and coordinating the activities of other
+components?
+A. Arithmetic Logic Unit
+B. Control Unit
+C. Register
+D. Motherboard
+Answer: B. Control Unit
+What does the Arithmetic Logic Unit perform?
+A. Only memory allocation
+B. Arithmetic and logical operations
+C. File storage operations
+D. Display operations
+Answer: B. Arithmetic and logical operations
+Which of the following is a logical operation performed by the ALU?
+A. Multiplication
+B. Division
+C. Addition
+D. AND
+Answer: D. AND
+Which component ensures that instructions are executed in the correct sequence?
+A. Control Unit
+B. Arithmetic Logic Unit
+C. Register
+D. Memory Unit
+Answer: A. Control Unit
+What is the main purpose of registers within the CPU?
+A. To permanently store user files
+B. To temporarily store data, instructions and intermediate results
+C. To connect external devices
+D. To regulate electrical power
+Answer: B. To temporarily store data, instructions and intermediate results
+Which of the following is NOT identified as an example of a CPU register?
+A. Accumulator
+B. Instruction Register
+C. Program Counter
+D. Expansion Register
+Answer: D. Expansion Register
+What does CPU word size refer to?
+A. The number of programs installed on a computer
+B. The number of bits processed at a time
+C. The physical size of the processor
+D. The amount of storage on the hard disk
+Answer: B. The number of bits processed at a time
+What does the number of CPU cores determine?
+A. The size of the monitor
+B. How many tasks can be processed simultaneously
+C. The amount of electricity supplied to the computer
+D. The number of files stored on the hard disk
+Answer: B. How many tasks can be processed simultaneously
+Which of the following is a major function of the motherboard?
+A. Printing documents
+B. Providing pathways for data and power transfer
+C. Producing sound independently
+D. Displaying images without a monitor
+Answer: B. Providing pathways for data and power transfer
+Which motherboard component holds the processor securely in place?
+A. Chipset
+B. CPU socket
+C. Expansion slot
+D. Power connector
+Answer: B. CPU socket
+Which motherboard component determines the maximum memory capacity of the system?
+A. Memory slots
+B. Input/output ports
+C. CPU socket
+D. Power connectors
+Answer: A. Memory slots
+What is the function of the chipset on the motherboard?
+A. It controls data flow between the CPU, memory and peripheral devices
+B. It stores permanent user files
+C. It supplies electrical power directly from the wall socket
+D. It displays images on the screen
+Answer: A. It controls data flow between the CPU, memory and peripheral devices
+Which of the following is an example of a device installed through an expansion slot?
+A. Graphics card
+B. Keyboard
+C. Monitor
+D. Mouse
+Answer: A. Graphics card
+What does the BIOS/UEFI chip store?
+A. User documents
+B. Firmware
+C. Application programs
+D. Audio files
+Answer: B. Firmware
+Why is temperature control important in a computer environment?
+A. Computers operate efficiently within a specified temperature range
+B. Computers cannot operate without sunlight
+C. Temperature determines the colour of the monitor
+D. Temperature controls the keyboard layout
+Answer: A. Computers operate efficiently within a specified temperature range
+Which environmental factor can reduce cooling efficiency when it accumulates inside a
+computer?
+A. Sound
+B. Dust
+C. Light
+D. Software
+Answer: B. Dust
+Which of the following can result from unsuitable temperatures over a prolonged period?
+A. Improved processor speed
+B. Damage to internal components
+C. Increased storage capacity
+D. Better display quality
+Answer: B. Damage to internal components
+What is one benefit of reducing humidity in a computer environment?
+A. It helps protect electronic circuits
+B. It increases monitor resolution
+C. It increases storage capacity
+D. It improves keyboard response
+Answer: A. It helps protect electronic circuits
+What type of power problem can a voltage stabilizer protect against?
+A. Over-voltage
+B. Slow processing
+C. Low storage capacity
+D. Software errors
+Answer: A. Over-voltage
+What can happen to unsaved work when power is suddenly interrupted?
+A. It is automatically printed
+B. It may be lost
+C. It becomes permanently stored
+D. It is transferred to the monitor
+Answer: B. It may be lost
+What is the main purpose of a line voltage transformer?
+A. To provide internet connectivity
+B. To increase or decrease voltage
+C. To cool the computer
+D. To store electrical energy
+Answer: B. To increase or decrease voltage
+What may happen when computer equipment is used with the wrong voltage without an
+appropriate transformer?
+A. The equipment may be damaged
+B. The computer becomes faster
+C. The storage capacity increases
+D. The monitor becomes brighter
+Answer: A. The equipment may be damaged
+Which device provides temporary electrical power when the main electricity supply fails?
+A. Voltage stabilizer
+B. Line voltage transformer
+C. UPS
+D. Air conditioner
+Answer: C. UPS
+What type of energy is stored by a UPS while mains power is available?
+A. Solar energy
+B. Electrical energy
+C. Mechanical energy
+D. Thermal energy
+Answer: B. Electrical energy
+Which statement correctly distinguishes the system unit from the CPU?
+A. The CPU contains the entire system unit
+B. The system unit contains the CPU and other components
+C. The system unit and CPU are exactly the same
+D. The CPU is an external peripheral
+Answer: B. The system unit contains the CPU and other components
+What is the purpose of the key lock on the front of the system unit?
+A. To prevent the keyboard from working
+B. To increase CPU speed
+C. To restart the computer
+D. To regulate voltage
+Answer: A. To prevent the keyboard from working
+What should be done when a PC freezes and does not respond to commands?
+A. Immediately disconnect the monitor
+B. Use the reset button as a last resort
+C. Remove the motherboard
+D. Replace the keyboard
+Answer: B. Use the reset button as a last resort
+What is the purpose of the fan at the back of the system unit?
+A. To transfer files
+B. To remove hot air
+C. To store data
+D. To control the keyboard
+Answer: B. To remove hot air
+Which port commonly connects a PC to a modem or mouse?
+A. Monitor port
+B. Serial port
+C. Sound port
+D. Keyboard port
+Answer: B. Serial port
+What can sound jacks at the back of a system unit be used to connect?
+A. Speakers and microphones
+B. Hard disks only
+C. Monitors only
+D. RAM modules
+Answer: A. Speakers and microphones
+What is the purpose of the display adapter card?
+A. It links the PC's memory and the monitor
+B. It supplies electricity to the CPU
+C. It stores files permanently
+D. It controls the keyboard lock
+Answer: A. It links the PC's memory and the monitor
+What happens to data stored in RAM when the PC is switched off?
+A. It is permanently saved
+B. It is transferred to ROM
+C. It is lost
+D. It is printed automatically
+Answer: C. It is lost
+What is the main permanent storage unit of a computer?
+A. RAM
+B. Cache memory
+C. Hard disk
+D. ROM
+Answer: C. Hard disk
+What does the power supply unit do?
+A. Converts high-voltage electrical current to low voltage
+B. Converts data into information
+C. Controls the display adapter
+D. Stores the operating system
+Answer: A. Converts high-voltage electrical current to low voltage
+Which software category provides a suitable environment for writing, editing, debugging, testing
+and running user programs?
+A. System software
+B. Game software
+C. Communication software
+D. Graphic software
+Answer: A. System software
+What is the operating system primarily responsible for?
+A. Managing computer resources and providing an environment for programs
+B. Producing printed documents
+C. Designing computer hardware
+D. Creating only statistical reports
+Answer: A. Managing computer resources and providing an environment for programs
+Which of the following is a responsibility of an operating system?
+A. Allocating CPU time and memory space
+B. Manufacturing processors
+C. Printing every file automatically
+D. Replacing application programs
+Answer: A. Allocating CPU time and memory space
+What is the major difference between batch processing and time-sharing operating systems?
+A. Batch processing provides nearly full interaction during execution
+B. Time-sharing provides users with concurrent online computing services
+C. Batch processing requires several CPUs
+D. Time-sharing does not use memory
+Answer: B. Time-sharing provides users with concurrent online computing services
+Which operating system is designed for applications where response time is essential to
+prevent error or disaster?
+A. Batch operating system
+B. Time-sharing operating system
+C. Real-time operating system
+D. Network operating system
+Answer: C. Real-time operating system
+What is a multiprogramming operating system?
+A. A system that permits more than one active user program to be stored in main memory
+simultaneously
+B. A system containing several monitors
+C. A system that uses only one program at a time
+D. A system that has no memory
+Answer: A. A system that permits more than one active user program to be stored in main
+memory simultaneously
+What is the defining feature of a multiprocessing system?
+A. It contains more than one independent processing unit
+B. It contains only one processing unit
+C. It has no operating system
+D. It cannot run programs concurrently
+Answer: A. It contains more than one independent processing unit
+What characterises a distributed operating system?
+A. Users must always know which processor runs their programs
+B. It appears to users as a traditional uniprocessor system despite having multiple processors
+C. It can only operate without networks
+D. It cannot share processing loads
+Answer: B. It appears to users as a traditional uniprocessor system despite having multiple
+processors
+Which operating system component is responsible for the creation and deletion of user and
+system processes?
+A. File management
+B. Process management
+C. Networking
+D. Command interpreter
+Answer: B. Process management
+Which operating system component keeps track of the parts of memory currently being used
+and by whom?
+A. Memory management
+B. File management
+C. I/O system
+D. Protection system
+Answer: A. Memory management
+What is the fastest memory in the memory hierarchy?
+A. RAM
+B. Cache
+C. CPU registers
+D. Hard disk
+Answer: C. CPU registers
+Which level of cache is the smallest and fastest?
+A. L1
+B. L2
+C. L3
+D. RAM
+Answer: A. L1
+Which type of RAM is used to build cache memory?
+A. DRAM
+B. SRAM
+C. ROM
+D. PROM
+Answer: B. SRAM
+Which type of memory is volatile?
+A. RAM
+B. SSD
+C. HDD
+D. Magnetic tape
+Answer: A. RAM
+Which of the following is classified as tertiary storage?
+A. CPU register
+B. Cache
+C. Magnetic tape
+D. RAM
+Answer: C. Magnetic tape
+Which component of the I/O system knows the peculiarities of a specific hardware device?
+A. Buffer caching system
+B. Device driver
+C. File manager
+D. Command interpreter
+Answer: B. Device driver
+Which operating system service provides a uniform logical view of information storage?
+A. File management
+B. Networking
+C. Process management
+D. Memory management
+Answer: A. File management
+Which of the following is an operating system activity related to file management?
+A. Creation and deletion of files
+B. Manufacture of storage devices
+C. Construction of processors
+D. Production of monitors
+Answer: A. Creation and deletion of files
+What is the primary interface between the user and the rest of the operating system?
+A. Memory hierarchy
+B. Command interpreter
+C. File storage
+D. CPU register
+Answer: B. Command interpreter
+Which of the following is a name used for the command interpreter in UNIX?
+A. Shell
+B. BIOS
+C. Compiler
+D. Driver
+Answer: A. Shell
+Information processing refers to the systematic collection, manipulation, storage, retrieval, and
+dissemination of ________.
+Answer: data
+Information processing converts raw data into ________ facts.
+Answer: decision
+The information processing cycle consists of Data Collection, Processing, Output, Storage, and
+________.
+Answer: Feedback/Control
+Data collection involves gathering raw facts and ________.
+Answer: figures
+A scanner is an example of an ________ device.
+Answer: input
+During processing, data can be transformed through calculations, sorting, classification,
+summarization, or ________.
+Answer: analysis
+The CPU is an example of a ________ unit/device.
+Answer: processing
+Output involves presenting processed results in ________ forms.
+Answer: usable
+Reports, charts, screens, and printouts are examples of forms in which processed ________ can
+be presented.
+Answer: results
+Storage involves saving data and information for ________ use.
+Answer: future
+Hard disk, SSD, flash drive, and cloud storage are examples of ________.
+Answer: storage
+Feedback/Control uses output to refine future input or ________ steps.
+Answer: processing
+Data is a raw and ________ fact.
+Answer: unprocessed
+Information is processed data with ________.
+Answer: meaning
+Knowledge or decision making is the interpreted information used for decision ________.
+Answer: making
+The three major methods of data processing are the Manual method, Mechanical method, and
+________ method.
+Answer: Computer/Electronic
+The manual method of data processing involves the use of chalk, a wall, a pen, a pencil, and the
+________.
+Answer: like
+Manual data processing operations entail considerable ________ effort.
+Answer: manual
+The manual method is described as unfriendly, tiresome, boring, frustrating and ________-
+consuming.
+Answer: time
+Manual data processing is often subject to human ________.
+Answer: error
+When errors occur in manual processing, the reliability, accuracy, neatness, tidiness, and
+________ of the data are in doubt.
+Answer: validity
+The manual method does not allow for the processing of large ________ of data on a regular and
+timely basis.
+Answer: volumes
+Manual bookkeeping and handwritten records are examples of the ________ method.
+Answer: manual
+The mechanical method involves the use of machines such as typewriters and ________
+machines.
+Answer: adding
+Mechanical machines facilitate human efforts to record, classify, manipulate, sort, and
+________ data or information.
+Answer: present
+Mechanical operations are described as ________.
+Answer: routine
+There is virtually no ________ thinking in mechanical operations.
+Answer: creative
+Mechanical operations are noisy, hazardous, error-prone, and ________.
+Answer: untidy
+The mechanical method does not allow for the continuous, timely processing of large ________
+of data.
+Answer: volumes
+Typewriters, calculators, and filing machines are examples of the ________ method.
+Answer: mechanical
+Data can be steadily and continuously processed using the ________ method.
+Answer: computer
+The computer method of data processing is practically not ________.
+Answer: noisy
+The computer method has a store where data and instructions can be stored temporarily and
+________.
+Answer: permanently
+Errors can be easily and ________ corrected using the computer method.
+Answer: neatly
+Output reports produced by computers can be produced in various ________.
+Answer: forms
+Computer output reports can include graphs, diagrams and ________.
+Answer: pictures
+Accuracy and reliability are highly ________ through the computer method.
+Answer: enhanced
+Databases, information systems, and AI systems are examples of the ________ method.
+Answer: computer/electronic
+Education functions as a structured system that enables individuals and institutions to acquire,
+interpret, store, and apply ________.
+Answer: knowledge
+In modern societies, education is the primary mechanism for managing ________ resources.
+Answer: knowledge
+Information processing is helpful in student record management, examination processing, and
+result ________.
+Answer: computation
+Information processing supports e-learning platforms, digital libraries, and online ________.
+Answer: assessments
+Information processing supports research, data analysis, and knowledge ________.
+Answer: sharing
+In modern business environments, information is a critical ________.
+Answer: asset
+Businesses rely on structured systems to convert raw data into useful ________ for decision-
+making.
+Answer: insights
+Information processing supports payroll processing, inventory control, accounting, and sales
+________.
+Answer: analysis
+Information processing assists in decision support systems for management planning and
+________.
+Answer: forecasting
+The health sector relies heavily on accurate and ________ information to deliver effective patient
+care.
+Answer: timely
+Healthcare institutions transform raw medical data into actionable ________.
+Answer: knowledge
+Information processing in healthcare supports diagnosis, treatment, and ________ making.
+Answer: decision
+Patient record management and diagnosis support systems are applications of information
+processing in the ________ sector.
+Answer: health
+Medical imaging and laboratory result processing are applications of information processing in
+________.
+Answer: healthcare
+Data representation refers to the methods used to encode and ________ data in a computer
+system.
+Answer: store
+Data representation enables data to be processed ________.
+Answer: efficiently
+Since computers operate on electronic signals, all forms of data must be converted into a
+format the ________ can understand.
+Answer: machine
+The binary form uses the digits ________ and 1.
+Answer: 0
+The digits 0 and 1 used in binary are called ________.
+Answer: bits
+Bit is an acronym for ________ digit.
+Answer: binary
+A bit is the smallest piece of information that can be stored and ________ in a computer.
+Answer: manipulated
+When bits are organised into larger units, they are called a ________.
+Answer: byte
+Binary representation expresses numbers, characters, images, sounds, and instructions using
+only ________ digits.
+Answer: two
+The binary system is also known as ________-2.
+Answer: Base
+The decimal system is known as ________-10.
+Answer: base
+Each position in the binary system represents a power of ________.
+Answer: 2
+The rightmost position in a binary number has the place value 2⁰, which has a value of ________.
+Answer: 1
+The second position from the right in binary has the place value ________.
+Answer: 2
+The third position from the right in binary has the place value ________.
+Answer: 4
+The fourth position from the right in binary has the place value ________.
+Answer: 8
+The fifth position from the right in binary has the place value ________.
+Answer: 16
+The sixth position from the right in binary has the place value ________.
+Answer: 32
+The seventh position from the right in binary has the place value ________.
+Answer: 64
+The eighth position from the right in binary has the place value ________.
+Answer: 128
+Which of the following best explains why information processing is essential to modern life?
+A. It eliminates the need for organisations
+B. It prevents the collection of data
+C. It supports decision-making and action
+D. It replaces all human activities
+Answer: C. It supports decision-making and action
+Which of the following is an example of data collection?
+A. Student scores
+B. Printed reports
+C. Processed charts
+D. Decision facts
+Answer: A. Student scores
+Which of the following is NOT listed as an example of an input unit or device?
+A. Camera
+B. Sensor
+C. Scanner
+D. Printer
+Answer: D. Printer
+Which of the following is an example of an output device?
+A. Mouse
+B. Speaker
+C. Scanner
+D. Camera
+Answer: B. Speaker
+Which of the following is an example of information produced from data?
+A. 75, 60
+B. Student scores without interpretation
+C. A student with matric no 1234 scores 60 in COS 101
+D. Unprocessed examination records
+Answer: C. A student with matric no 1234 scores 60 in COS 101
+Which of the following represents knowledge or decision making?
+A. The Class average is low; extra efforts are needed
+B. 75, 60
+C. Student examination numbers
+D. Raw sales figures
+Answer: A. The Class average is low; extra efforts are needed
+Which method of data processing is characterised by considerable manual effort?
+A. Computer method
+B. Mechanical method
+C. Electronic method
+D. Manual method
+Answer: D. Manual method
+Which of the following is associated with the manual method of data processing?
+A. Artificial intelligence
+B. Handwritten records
+C. Information systems
+D. Databases
+Answer: B. Handwritten records
+Which of the following is a major disadvantage of the manual method?
+A. It produces various forms of output
+B. It enhances reliability
+C. It is subject to human error
+D. It continuously processes large volumes of data
+Answer: C. It is subject to human error
+Which method of data processing uses machines such as typewriters?
+A. Mechanical method
+B. Manual method
+C. Computer method
+D. Electronic method
+Answer: A. Mechanical method
+Which of the following is NOT associated with mechanical operations?
+A. Noisy operations
+B. Hazardous operations
+C. Error-prone operations
+D. Highly creative thinking
+Answer: D. Highly creative thinking
+Which of the following is an example of the mechanical method?
+A. AI systems
+B. Filing machines
+C. Cloud storage
+D. Information systems
+Answer: B. Filing machines
+Which sector uses information processing for payroll processing?
+A. Business and commerce
+B. Health sector
+C. Education
+D. Banking and finance
+Answer: A. Business and commerce
+Which of the following is an application of information processing in education?
+A. Fraud detection
+B. Credit scoring
+C. Online assessments
+D. Market analysis
+Answer: C. Online assessments
+Which of the following is associated with information processing in healthcare?
+A. Inventory control
+B. Medical imaging
+C. Payroll processing
+D. Credit scoring
+Answer: B. Medical imaging
+Which of the following is an application of information processing in banking and finance?
+A. Digital libraries
+B. Laboratory result processing
+C. Examination processing
+D. Fraud detection
+Answer: D. Fraud detection
+Which of the following is used in banking and finance for transaction processing?
+A. ATM
+B. Scanner
+C. Camera
+D. Printer
+Answer: A. ATM
+Which of the following is specifically associated with financial institutions?
+A. Examination processing
+B. Credit scoring
+C. Student record management
+D. Medical imaging
+Answer: B. Credit scoring
+Which of the following is a healthcare application of information processing?
+A. Hospital administration
+B. Inventory control
+C. Sales analysis
+D. Payroll processing
+Answer: A. Hospital administration
+Which of the following is associated with public health?
+A. Market analysis
+B. Public health surveillance
+C. Sales analysis
+D. Payroll processing
+Answer: B. Public health surveillance
+Which number system uses ten digits from 0 to 9?
+A. Binary
+B. Octal
+C. Decimal
+D. Hexadecimal
+Answer: C. Decimal
+Which number system uses eight numbers between 0 and 7?
+A. Octal
+B. Decimal
+C. Binary
+D. Hexadecimal
+Answer: A. Octal
+Which number system is used as shorthand for binary numbers?
+A. Decimal
+B. Octal
+C. Character
+D. EBCDIC
+Answer: B. Octal
+What is the decimal equivalent of binary 1011₂?
+A. 9
+B. 10
+C. 11
+D. 12
+Answer: C. 11
+What is the decimal equivalent of binary 11001₂?
+A. 23
+B. 24
+C. 25
+D. 26
+Answer: C. 25
+What is the decimal equivalent of binary 11111111₂?
+A. 255
+B. 256
+C. 128
+D. 127
+Answer: A. 255
+What is the binary equivalent of decimal 13?
+A. 1010₂
+B. 1101₂
+C. 1110₂
+D. 1001₂
+Answer: B. 1101₂
+What is the binary equivalent of decimal 58?
+A. 110110₂
+B. 101110₂
+C. 111010₂
+D. 100110₂
+Answer: C. 111010₂
+What is the decimal equivalent of octal 423₈?
+A. 265
+B. 275
+C. 285
+D. 295
+Answer: B. 275
+What is the octal equivalent of decimal 216?
+A. 320₈
+B. 330₈
+C. 340₈
+D. 350₈
+Answer: B. 330₈
+What is the hexadecimal equivalent of decimal 132?
+A. 82₁₆
+B. 83₁₆
+C. 84₁₆
+D. 85₁₆
+Answer: C. 84₁₆
+What is the decimal equivalent of 84h?
+A. 130
+B. 131
+C. 132
+D. 134
+Answer: C. 132
+What is the decimal equivalent of 2AFh?
+A. 687
+B. 677
+C. 697
+D. 707
+Answer: A. 687
+What is the binary equivalent of hexadecimal 9A2h?
+A. 100110100010₂
+B. 100101100010₂
+C. 101110100010₂
+D. 100110110010₂
+Answer: A. 100110100010₂
+Which of the following is the hexadecimal equivalent of binary 11110000?
+A. 0F
+B. F0
+C. FF
+D. 00
+Answer: B. F0
+How many distinct values can be represented with 8 bits?
+A. 128
+B. 255
+C. 256
+D. 512
+Answer: C. 256
+What is the hexadecimal equivalent of the binary digit group 1010?
+A. 8
+B. 9
+C. A
+D. B
+Answer: C. A
+What is the hexadecimal equivalent of the binary digit group 1111?
+A. E
+B. F
+C. A
+D. D
+Answer: B. F
+Which character coding scheme was developed by IBM?
+A. ASCII
+B. BCD
+C. EBCDIC
+D. Binary
+Answer: C. EBCDIC
+Which character code uses eight bits to represent each character?
+A. ASCII
+B. EBCDIC
+C. BCD
+D. Decimal
+Answer: B. EBCDIC
+Which character coding scheme uses seven bits to represent each character?
+A. ASCII
+B. EBCDIC
+C. BCD
+D. Octal
+Answer: A. ASCII
+How many characters can seven-bit ASCII represent?
+A. 64
+B. 128
+C. 256
+D. 512
+Answer: B. 128
+How many characters can EBCDIC represent?
+A. 64
+B. 128
+C. 256
+D. 512
+Answer: C. 256
+What does ASCII stand for?
+A. American Standard Code for Information Interchange
+B. American System Code for Information Input
+C. Automated Standard Code for Information Interchange
+D. American Software Code for Information Integration
+Answer: A. American Standard Code for Information Interchange
+What does EBCDIC stand for?
+A. Extended Binary Code for Digital Information Control
+B. Extended Binary Coded Decimal Interchange Code
+C. Electronic Binary Coded Data Information Code
+D. Extended Bit Character Data Interchange Code
+Answer: B. Extended Binary Coded Decimal Interchange Code
+Which character coding scheme codes each decimal digit separately into four bits?
+A. ASCII
+B. EBCDIC
+C. BCD
+D. Octal
+Answer: C. BCD
+What is the 4-bit BCD representation of decimal digit 2?
+A. 0010
+B. 0011
+C. 0100
+D. 0101
+Answer: A. 0010
+What is the 4-bit BCD representation of decimal digit 6?
+A. 0100
+B. 0101
+C. 0110
+D. 0111
+Answer: C. 0110
+What is the ASCII decimal value of uppercase A?
+A. 65
+B. 66
+C. 97
+D. 98
+Answer: A. 65
+What is the ASCII decimal value of lowercase a?
+A. 95
+B. 96
+C. 97
+D. 98
+Answer: C. 97
+Which of the following is the binary representation of ASCII uppercase A?
+A. 1000001
+B. 1000010
+C. 1100001
+D. 1100010
+Answer: A. 1000001
+Which of the following is the binary representation of ASCII lowercase a?
+A. 1000001
+B. 1100001
+C. 1100010
+D. 1000010
+Answer: B. 1100001
+In ASCII, what does the additional eighth bit provide?
+A. Decimal conversion
+B. Parity checking
+C. Octal conversion
+D. Character storage
+Answer: B. Parity checking
+Which computers commonly use EBCDIC?
+A. Smartphones only
+B. IBM minicomputers and mainframe computers
+C. Personal calculators only
+D. Digital cameras only
+Answer: B. IBM minicomputers and mainframe computers
+In EBCDIC, how many bits are used for the zone bits?
+A. Two
+B. Three
+C. Four
+D. Eight
+Answer: C. Four
+In EBCDIC, how many bits are used for the numeric bits?
+A. Four
+B. Five
+C. Six
+D. Seven
+Answer: A. Four
+What is the EBCDIC zone bit for the decimal characters 0–9?
+A. 1100
+B. 1101
+C. 1110
+D. 1111
+Answer: D. 1111
+What is the EBCDIC representation of the digit 3?
+A. 1111 0011
+B. 1111 0010
+C. 1100 0011
+D. 1101 0011
+Answer: A. 1111 0011
+The Internet is one of the most transformative technologies of the modern ________.
+Answer: world
+The Internet has become an essential part of everyday ________.
+Answer: life
+The Internet connects people, devices, and ________.
+Answer: information
+The Internet has changed the way people learn, work, communicate, and access ________.
+Answer: services
+The Internet enables devices to exchange data and share ________.
+Answer: resources
+The Internet relies on standard communication ________.
+Answer: protocols
+The standard communication protocols used by the Internet include especially ________/IP.
+Answer: TCP
+The Internet enables users to share resources such as websites, email, files, and online
+________.
+Answer: services
+An Internet address is a unique identifier used to locate and access a ________ on the Internet.
+Answer: resource
+An Internet address tells a computer where to find a particular website, server, or ________.
+Answer: service
+An Internet address is the location of something on the ________.
+Answer: Internet
+An Internet address can be an IP address or a web address known as a ________.
+Answer: URL
+An IP address is a numerical label assigned to each device connected to a ________.
+Answer: network
+An IP address identifies each device and its ________ on the network.
+Answer: location
+A public IP address is assigned by an Internet Service ________.
+Answer: Provider
+A public IP address is a globally unique, internet-facing ________.
+Answer: identifier
+A public IP address is assigned to a ________ to allow a network to communicate across the
+Internet.
+Answer: router
+A private IP address is a non-internet-________ address.
+Answer: routable
+A private IP address is assigned to devices within a local network, or ________.
+Answer: LAN
+Private IP addresses allow devices within a local network to communicate with each other
+without direct ________ access.
+Answer: internet
+Private IP addresses are assigned by a ________.
+Answer: router
+Network Address Translation is abbreviated as ________.
+Answer: NAT
+A dynamic IP address is a temporary network address automatically assigned to a device by an
+ISP or ________.
+Answer: router
+Dynamic IP addresses use the Dynamic Host Configuration ________.
+Answer: Protocol
+DHCP stands for Dynamic Host Configuration ________.
+Answer: Protocol
+A dynamic IP address may change periodically or upon ________.
+Answer: reconnection
+A static IP address is a permanent, ________ numerical label assigned to a device or server.
+Answer: unchanging
+A static IP address is essential for consistent remote ________.
+Answer: access
+Static IP addresses are useful for hosting websites, mail servers, or ________ services.
+Answer: VoIP
+There are two main, active versions of IP addresses: IPv4 and ________.
+Answer: IPv6
+IPv4 uses a ________-bit address format.
+Answer: 32
+IPv6 uses a ________-bit address format.
+Answer: 128
+IPv4 uses a decimal ________.
+Answer: format
+IPv6 uses a hexadecimal ________.
+Answer: format
+IPv6 was developed to provide a vastly larger address ________.
+Answer: space
+IPv4 and IPv6 can coexist through techniques like ________-stacking.
+Answer: dual
+A URL stands for Uniform Resource ________.
+Answer: Locator
+A URL specifies the exact location of a ________ on the Internet.
+Answer: resource
+A URL can identify a web page, image, or ________.
+Answer: file
+A URL usually contains a protocol, a domain name, and sometimes a ________.
+Answer: path
+A domain name is a human-friendly name that represents an ________ address.
+Answer: IP
+The Domain Name System is abbreviated as ________.
+Answer: DNS
+DNS translates domain names into ________ addresses that computers understand.
+Answer: IP
+A domain name makes an Internet address easy to ________.
+Answer: remember
+An Internet Service Provider is abbreviated as ________.
+Answer: ISP
+An ISP is a company or organisation that provides individuals and businesses access to the
+________.
+Answer: Internet
+An ISP connects individuals, homes, schools, and businesses to the global Internet ________.
+Answer: network
+An ISP can provide Internet connectivity through fiber, cable, mobile data, or ________.
+Answer: satellite
+An ISP assigns ________ addresses to users’ devices.
+Answer: IP
+An ISP may provide additional services such as email accounts, web hosting, and domain name
+________.
+Answer: registration
+An older and slow type of Internet connection is ________.
+Answer: Dial-up
+DSL is one of the types of Internet connections provided by ________.
+Answer: ISPs
+Fiber-optic Internet is one of the types of Internet ________ provided by ISPs.
+Answer: connections
+Mobile broadband includes 3G, 4G, and ________.
+Answer: 5G
+Electronic Mail is commonly abbreviated as ________.
+Answer: Email
+Email is used for sending and receiving messages electronically over the ________.
+Answer: Internet
+Email allows users to exchange text, files, images, and other digital ________.
+Answer: content
+Email operates using communication protocols such as the Simple Mail Transfer Protocol and
+the Internet Message Access ________.
+Answer: Protocol
+Email is one of the oldest and most widely used applications of the ________.
+Answer: Internet
+The sender's email address is contained in the ________ section of an email.
+Answer: Header
+The primary recipient of an email is specified in the ________ field.
+Answer: To
+The Subject Line provides a concise, descriptive summary of the email's ________.
+Answer: topic
+Cc means ________ Copy.
+Answer: Carbon
+Bcc means ________ Carbon Copy.
+Answer: Blind
+Bcc recipients are hidden from others to protect ________.
+Answer: privacy
+The actual content of an email is contained in the ________.
+Answer: Body
+A closing phrase followed by the sender's name, title, and contact details is called the ________.
+Answer: Sign-off/Signature
+Digital files sent alongside an email are called ________.
+Answer: Attachments
+Which of the following best describes the Internet?
+A. A single computer used for storing files
+B. A global network of interconnected computers and devices
+C. A software application used only for communication
+D. A private network restricted to one organisation
+Answer: B. A global network of interconnected computers and devices
+Which of the following is one of the major ways the Internet has transformed modern society?
+A. By eliminating electronic communication
+B. By restricting access to information
+C. By changing how people learn, work and communicate
+D. By preventing access to online services
+Answer: C. By changing how people learn, work and communicate
+Which of the following is required for computers on the Internet to communicate effectively?
+A. Standard communication protocols
+B. Identical hardware
+C. The same operating system
+D. The same storage capacity
+Answer: A. Standard communication protocols
+Which protocol suite forms the fundamental communication framework of the Internet?
+A. HTTP/FTP
+B. TCP/IP
+C. SMTP/POP
+D. HTML/XML
+Answer: B. TCP/IP
+Which of the following can be identified using an Internet address?
+A. Only a computer keyboard
+B. Only a printer
+C. A website, server or online service
+D. Only a computer monitor
+Answer: C. A website, server or online service
+What is the primary purpose of an IP address?
+A. To identify a device on a network
+B. To store website content
+C. To create email messages
+D. To encrypt every Internet connection
+Answer: A. To identify a device on a network
+Which of the following best distinguishes a public IP address from a private IP address?
+A. A public IP address is used only inside a LAN
+B. A private IP address is globally accessible
+C. A public IP address is internet-facing
+D. A private IP address is assigned only to websites
+Answer: C. A public IP address is internet-facing
+Which device commonly assigns private IP addresses within a local network?
+A. Monitor
+B. Router
+C. Printer
+D. Scanner
+Answer: B. Router
+What is the primary purpose of Network Address Translation?
+A. To translate domain names into websites
+B. To convert text into binary
+C. To allow private network devices to communicate through a public IP address
+D. To increase computer memory
+Answer: C. To allow private network devices to communicate through a public IP address
+Which of the following is a characteristic of a dynamic IP address?
+A. It is permanently assigned
+B. It may change periodically
+C. It can never be reassigned
+D. It is used only by web servers
+Answer: B. It may change periodically
+Which protocol is responsible for automatically assigning dynamic IP addresses?
+A. DNS
+B. HTTP
+C. DHCP
+D. FTP
+Answer: C. DHCP
+Which of the following is a major advantage of a static IP address?
+A. It changes whenever the device reconnects
+B. It provides consistent remote access
+C. It can only be used on mobile devices
+D. It prevents hosting services
+Answer: B. It provides consistent remote access
+Which type of IP address is particularly useful for hosting a website?
+A. Static IP address
+B. Dynamic IP address
+C. Private IP address only
+D. Temporary IP address
+Answer: A. Static IP address
+Which version of the Internet Protocol uses a 32-bit address?
+A. IPv6
+B. IPv5
+C. IPv4
+D. TCP
+Answer: C. IPv4
+Which of the following uses a 128-bit address?
+A. IPv4
+B. IPv6
+C. IPv3
+D. TCP
+Answer: B. IPv6
+What is one major reason for the development of IPv6?
+A. To reduce the number of available Internet addresses
+B. To provide a much larger address space
+C. To eliminate domain names
+D. To replace all network hardware
+Answer: B. To provide a much larger address space
+Which address format is associated with IPv4?
+A. Decimal notation
+B. Hexadecimal notation only
+C. Alphabetic notation
+D. Binary words only
+Answer: A. Decimal notation
+Which address format is associated with IPv6?
+A. Decimal
+B. Octal
+C. Hexadecimal
+D. Roman numerals
+Answer: C. Hexadecimal
+What does URL stand for?
+A. Universal Routing Link
+B. Uniform Resource Locator
+C. Universal Resource Link
+D. Uniform Routing Locator
+Answer: B. Uniform Resource Locator
+What is the primary function of a URL?
+A. To identify the location of an Internet resource
+B. To assign an IP address to a router
+C. To provide electrical power to a computer
+D. To store files permanently
+Answer: A. To identify the location of an Internet resource
+Which of the following can be identified by a URL?
+A. A web page
+B. A computer processor
+C. RAM capacity
+D. A keyboard layout
+Answer: A. A web page
+Which component of a URL identifies the communication method being used?
+A. Path
+B. Protocol
+C. Domain name
+D. File name
+Answer: B. Protocol
+Which system translates human-readable domain names into IP addresses?
+A. DHCP
+B. DNS
+C. NAT
+D. TCP
+Answer: B. DNS
+What is the major advantage of a domain name?
+A. It makes Internet addresses easier for humans to remember
+B. It eliminates the need for networks
+C. It increases RAM capacity
+D. It prevents websites from being accessed
+Answer: A. It makes Internet addresses easier for humans to remember
+Which organisation provides Internet connectivity to homes, schools and businesses?
+A. ISP
+B. DNS
+C. CPU
+D. URL
+Answer: A. ISP
+Which of the following is a service that an ISP may provide in addition to Internet connectivity?
+A. Domain name registration
+B. CPU manufacturing
+C. Keyboard repair
+D. Monitor production
+Answer: A. Domain name registration
+Which Internet connection technology uses fiber-optic cables?
+A. Fiber-optic Internet
+B. Dial-up
+C. Analogue telephone connection
+D. Infrared connection
+Answer: A. Fiber-optic Internet
+Which of the following belongs to mobile broadband technology?
+A. 3G
+B. VGA
+C. HDMI
+D. USB
+Answer: A. 3G
+Which of the following is the most recent mobile broadband generation listed in the material?
+A. 2G
+B. 3G
+C. 4G
+D. 5G
+Answer: D. 5G
+Which Internet connection type is associated with telephone-line access and is considered
+older and slower?
+A. Fiber-optic
+B. Dial-up
+C. 5G
+D. Satellite
+Answer: B. Dial-up
+Which of the following is one of the most widely used applications of the Internet?
+A. Electronic mail
+B. Computer assembly
+C. Processor design
+D. Hardware manufacturing
+Answer: A. Electronic mail
+Which of the following can be exchanged through email?
+A. Text only
+B. Digital content such as text, files and images
+C. Hardware components only
+D. Electrical signals only
+Answer: B. Digital content such as text, files and images
+Which protocol is responsible for sending email messages?
+A. SMTP
+B. DNS
+C. DHCP
+D. TCP
+Answer: A. SMTP
+Which protocol is associated with retrieving email messages?
+A. HTTP
+B. IMAP
+C. FTP
+D. DNS
+Answer: B. IMAP
+Which part of an email identifies information such as the sender and recipient?
+A. Body
+B. Attachment
+C. Header
+D. Signature
+Answer: C. Header
+Which email field specifies the main recipient?
+A. Cc
+B. Bcc
+C. Subject
+D. To
+Answer: D. To
+What is the main purpose of the Subject Line in an email?
+A. To provide a concise summary of the email's topic
+B. To hide recipients
+C. To attach files
+D. To identify the Internet provider
+Answer: A. To provide a concise summary of the email's topic
+What does Cc mean in email communication?
+A. Computer Copy
+B. Carbon Copy
+C. Central Copy
+D. Confidential Copy
+Answer: B. Carbon Copy
+What is the purpose of the Cc field?
+A. To send a copy of the message to additional recipients
+B. To hide all recipients
+C. To delete the email
+D. To attach a file
+Answer: A. To send a copy of the message to additional recipients
+What does Bcc mean?
+A. Basic Carbon Copy
+B. Blind Carbon Copy
+C. Backup Computer Copy
+D. Business Communication Copy
+Answer: B. Blind Carbon Copy
+Why is Bcc useful?
+A. It allows recipients to see one another
+B. It protects recipient privacy by hiding addresses from other recipients
+C. It prevents email attachments
+D. It removes the subject line
+Answer: B. It protects recipient privacy by hiding addresses from other recipients
+Which part of an email contains the actual message written by the sender?
+A. Header
+B. Subject
+C. Body
+D. Address
+Answer: C. Body
+Which of the following is normally included at the end of a professional email?
+A. Sign-off or signature
+B. IP address
+C. DNS record
+D. Router address
+Answer: A. Sign-off or signature
+What is an email attachment?
+A. A digital file sent alongside an email
+B. A network cable
+C. An Internet protocol
+D. A domain name
+Answer: A. A digital file sent alongside an email
+Which of the following can be sent as an email attachment?
+A. A digital file
+B. A router
+C. A monitor
+D. A network cable
+Answer: A. A digital file
+The computing profession has expanded into several specialised ________.
+Answer: fields
+Computing professionals play vital roles in driving ________ across industries.
+Answer: innovation
+The major branches of computing include Computer Science, Information Technology, Software
+Engineering, Computer Engineering, Information Systems, Cybersecurity, and ________.
+Answer: Data Science
+Computer Science is the study of computers and computational ________.
+Answer: systems
+Computer Science involves the design, development, and analysis of algorithms, software, and
+________.
+Answer: hardware
+Computer Science is both a theoretical discipline and a ________ discipline.
+Answer: practical
+The theoretical aspect of Computer Science focuses on algorithms, computation, and data
+________.
+Answer: structures
+Computer Science integrates concepts from Mathematics, Engineering, and ________ sciences.
+Answer: natural
+Mathematics contributes logic and discrete ________ to Computer Science.
+Answer: structures
+Engineering contributes ________ design to Computer Science.
+Answer: system
+Computer Science is concerned with designing efficient ________.
+Answer: algorithms
+A programming language is a formal system of rules and instructions used by humans to
+communicate with ________.
+Answer: computers
+Programming languages allow developers to express algorithms in a ________-readable format.
+Answer: human
+The human-readable format of an algorithm is translated into a machine-executable ________.
+Answer: binary
+High-level languages use ________-like syntax.
+Answer: English
+Low-level languages provide direct ________ control.
+Answer: hardware
+Low-level languages are complex and ________-dependent.
+Answer: machine
+Compiled languages are converted entirely into machine code before ________.
+Answer: execution
+Interpreted languages execute code line-by-line during ________.
+Answer: runtime
+Object-Oriented Programming organises code around reusable ________.
+Answer: objects
+Functional programming focuses on mathematical functions and ________ data.
+Answer: immutable
+Procedural languages follow a linear sequence of ________.
+Answer: commands
+Python is a leading language for artificial intelligence, data science, and ________.
+Answer: automation
+JavaScript is essential for ________ development.
+Answer: web
+Java is widely used in enterprise software, Android apps, and large-scale ________ systems.
+Answer: banking
+C and C++ are preferred for system programming, operating systems, and high-performance
+________ engines.
+Answer: game
+SQL is a domain-specific language used exclusively for database management and data
+________.
+Answer: manipulation
+Swift and Kotlin are modern languages designed for native ________ app development.
+Answer: mobile
+Rust is noted for ________ security.
+Answer: memory
+Go excels in ________ infrastructure.
+Answer: cloud
+Information Technology is concerned with the selection, deployment, configuration,
+management, security, and ________ of computing technologies.
+Answer: support
+IT is about making technology work reliably, securely, and ________.
+Answer: efficiently
+Information Technology uses computers, storage, networking, and physical ________.
+Answer: devices
+Hardware is one of the core components of IT and includes servers, computers, data centres,
+and physical ________.
+Answer: devices
+Software includes applications, operating systems, and functional ________.
+Answer: programs
+Networking facilitates communication through routers, switches, and the ________.
+Answer: internet
+Data management involves storing, securing, and ________ information.
+Answer: retrieving
+Software engineering is the systematic application of engineering principles, methods, and
+________ to software systems.
+Answer: tools
+Software engineering focuses on creating reliable, scalable, and ________ solutions.
+Answer: efficient
+Software engineering involves design, development, testing, and ________ of software systems.
+Answer: maintenance
+Design and architecture involve creating high-level, scalable, and ________ system
+architectures.
+Answer: secure
+Development involves writing code for front-end and ________ systems.
+Answer: back-end
+Testing and maintenance ensure software ________.
+Answer: quality
+Agile, Scrum, and DevOps are structured software development ________.
+Answer: methodologies
+A software engineer may work as a Software Developer, Systems Software Engineer, Front-
+end/Back-end Engineer, or Solutions ________.
+Answer: Architect
+Computer engineering combines electrical engineering and ________ science.
+Answer: computer
+Computer engineers create processors, circuit boards, robotics, and ________ systems.
+Answer: embedded
+Computer engineering bridges the gap between low-level hardware and high-level ________.
+Answer: software
+Hardware design in computer engineering focuses on processors, memory chips, and circuit
+________.
+Answer: boards
+System integration combines hardware and software for specialised ________.
+Answer: products
+An information system is an integrated set of components designed to collect, process, store,
+and distribute ________.
+Answer: information
+Unlike IT, Information Systems focuses on using technology to achieve ________ goals.
+Answer: business
+The components of an information system include hardware, software, data, networks, and
+________.
+Answer: people
+A Systems Analyst analyses and designs improvements to information ________.
+Answer: systems
+A Database Administrator manages databases and ensures data ________.
+Answer: integrity
+Cybersecurity is the practice of protecting systems, networks, and data from digital ________.
+Answer: attacks
+The three main goals of cybersecurity are known as the ________ triad.
+Answer: CIA
+Confidentiality means keeping data ________.
+Answer: private
+Integrity ensures that data is not altered or ________.
+Answer: tampered
+Availability ensures that systems and data are accessible when ________.
+Answer: needed
+Which of the following is identified as a practical focus of Computer Science?
+A. Building software and systems
+B. Managing organisational payroll
+C. Protecting cloud infrastructure
+D. Managing business databases
+Answer: A. Building software and systems
+Which of the following is associated with the theoretical aspect of Computer Science?
+A. Hardware maintenance
+B. Computation
+C. Network installation
+D. Database administration
+Answer: B. Computation
+Which programming language is identified as being used for server-side logic through Node.js?
+A. Java
+B. Rust
+C. JavaScript
+D. Swift
+Answer: C. JavaScript
+Which language is widely used for Android applications?
+A. Java
+B. SQL
+C. Rust
+D. Go
+Answer: A. Java
+Which programming language is described as a domain-specific language?
+A. Python
+B. JavaScript
+C. SQL
+D. C++
+Answer: C. SQL
+Which language is specifically associated with native iOS application development?
+A. Kotlin
+B. Swift
+C. Java
+D. Go
+Answer: B. Swift
+Which language is specifically associated with native Android application development?
+A. Swift
+B. Rust
+C. Kotlin
+D. C
+Answer: C. Kotlin
+Which programming language is noted for memory security?
+A. Go
+B. Rust
+C. JavaScript
+D. Python
+Answer: B. Rust
+Which programming language is noted for cloud infrastructure?
+A. Go
+B. C++
+C. Java
+D. Swift
+Answer: A. Go
+Which of the following is a core component of Information Technology?
+A. Data Management
+B. Quantum mechanics
+C. Ethical hacking
+D. Machine learning
+Answer: A. Data Management
+Which of the following belongs to the hardware component of IT?
+A. Operating systems
+B. Functional programs
+C. Data centres
+D. Business applications
+Answer: C. Data centres
+Which IT component facilitates communication between computing devices?
+A. Networking
+B. Data management
+C. Software
+D. Hardware
+Answer: A. Networking
+Which of the following is an example of a networking device mentioned in the material?
+A. Router
+B. Database
+C. Smartphone
+D. Tablet
+Answer: A. Router
+Which of the following is identified as an impact of IT on modern life?
+A. Remote work
+B. Reduced communication
+C. Elimination of healthcare records
+D. Removal of digital infrastructure
+Answer: A. Remote work
+Which technology is identified as contributing to the rapid evolution of IT?
+A. Artificial intelligence
+B. Typewriters
+C. Mechanical calculators
+D. Filing cabinets
+Answer: A. Artificial intelligence
+Which software engineering component is concerned with repairing bugs?
+A. Development
+B. Testing and Maintenance
+C. Design and Architecture
+D. System Integration
+Answer: B. Testing and Maintenance
+Which of the following is identified as a software engineering methodology?
+A. Scrum
+B. Python
+C. SQL
+D. Git
+Answer: A. Scrum
+Which tool is mentioned in connection with version control?
+A. Git
+B. Rust
+C. Kotlin
+D. Java
+Answer: A. Git
+Which of the following is a role in software engineering?
+A. Solutions Architect
+B. Database Administrator
+C. Business Intelligence Analyst
+D. Information Security Analyst
+Answer: A. Solutions Architect
+Which degree is commonly associated with a career in software engineering?
+A. Bachelor’s degree in Computer Science
+B. Bachelor’s degree in History
+C. Bachelor’s degree in Geography
+D. Bachelor’s degree in Philosophy
+Answer: A. Bachelor’s degree in Computer Science
+Artificial Intelligence is a branch of computer science concerned with creating systems that can
+perform tasks normally requiring ________ intelligence.
+A. mechanical
+B. human
+C. electrical
+D. network
+Answer: B. human
+Which of the following is an ability associated with Artificial Intelligence?
+A. Reasoning
+B. Power generation
+C. Cable installation
+D. Hardware assembly
+Answer: A. Reasoning
+Which of the following is identified as a task that AI systems can perform?
+A. Understanding language
+B. Manufacturing cables
+C. Replacing network routers
+D. Producing computer chips
+Answer: A. Understanding language
+What does machine learning involve?
+A. Training an algorithm to make predictions or decisions based on data
+B. Designing computer processors
+C. Connecting computers through cables
+D. Replacing all software with hardware
+Answer: A. Training an algorithm to make predictions or decisions based on data
+Which statement best describes an AI agent?
+A. A passive storage device
+B. An autonomous system that perceives its environment, reasons and takes actions
+C. A computer network
+D. A database management system
+Answer: B. An autonomous system that perceives its environment, reasons and takes
+actions
+What does MAS stand for?
+A. Machine Application System
+B. Multi-Agent Systems
+C. Multiple Algorithmic Software
+D. Machine Automation Service
+Answer: B. Multi-Agent Systems
+What is a major characteristic of Multi-Agent Systems?
+A. They employ multiple interacting agents
+B. They use only one model
+C. They cannot perform complex tasks
+D. They require no communication between agents
+Answer: A. They employ multiple interacting agents
+Which type of interaction occurs when agents have shared goals?
+A. Competitive
+B. Cooperative
+C. Independent
+D. Sequential
+Answer: B. Cooperative
+Which type of interaction occurs when agents have conflicting goals?
+A. Cooperative
+B. Parallel
+C. Competitive
+D. Sequential
+Answer: C. Competitive
+Which of the following is a benefit of Multi-Agent Systems?
+A. Scalability
+B. Reduced functionality
+C. Single-task limitation
+D. Elimination of specialised roles
+Answer: A. Scalability
+Which type of agent system is ideal for well-defined and simpler tasks?
+A. Multi-Agent System
+B. Single-Agent System
+C. Distributed Network
+D. Quantum System
+Answer: B. Single-Agent System
+Which system is better suited to complex workflows requiring specialised roles?
+A. Single-Agent System
+B. Multi-Agent System
+C. Manual System
+D. Mechanical System
+Answer: B. Multi-Agent System
+Quantum Computing uses principles of ________ mechanics.
+A. classical
+B. quantum
+C. mechanical
+D. electrical
+Answer: B. quantum
+What is the basic unit of quantum information?
+A. Bit
+B. Byte
+C. Qubit
+D. Register
+Answer: C. Qubit
+Which quantum concept allows a qubit to exist in multiple states simultaneously?
+A. Entanglement
+B. Superposition
+C. Encryption
+D. Measurement
+Answer: B. Superposition
+What happens in quantum entanglement?
+A. Two or more qubits become linked
+B. A qubit becomes permanently inactive
+C. Classical bits are converted into bytes
+D. A computer loses its stored information
+Answer: A. Two or more qubits become linked
+Which of the following is an application area of quantum computing?
+A. Drug discovery
+B. Word processing
+C. Email composition
+D. Spreadsheet formatting
+Answer: A. Drug discovery
+Which of the following is a challenge of quantum computing?
+A. It is inexpensive to build
+B. It is very expensive and complex to build
+C. It requires no specialised environment
+D. It is already universally available
+Answer: B. It is very expensive and complex to build
+Which generation of cellular networks is identified as the next phase after 5G?
+A. 3G
+B. 4G
+C. 6G
+D. 7G
+Answer: C. 6G
+Which of the following is the expected maximum data rate of 6G?
+A. 1 gigabit per second
+B. 10 gigabits per second
+C. 100 gigabits per second
+D. 1 terabit per second
+Answer: D. 1 terabit per second

@@ -1,0 +1,1192 @@
+[
+  {
+    "id": "m4-u1-q001",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Information processing refers to the systematic collection, manipulation, storage, retrieval, and dissemination of ____.",
+    "acceptedAnswers": [
+      "data"
+    ]
+  },
+  {
+    "id": "m4-u1-q002",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Information processing converts raw data into ____ facts.",
+    "acceptedAnswers": [
+      "decision"
+    ]
+  },
+  {
+    "id": "m4-u1-q003",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The information processing cycle consists of Data Collection, Processing, Output, Storage, and ____.",
+    "acceptedAnswers": [
+      "Feedback/Control",
+      "Feedback",
+      "Control"
+    ]
+  },
+  {
+    "id": "m4-u1-q004",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Data collection involves gathering raw facts and ____.",
+    "acceptedAnswers": [
+      "figures"
+    ]
+  },
+  {
+    "id": "m4-u1-q005",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A scanner is an example of an ____ device.",
+    "acceptedAnswers": [
+      "input"
+    ]
+  },
+  {
+    "id": "m4-u1-q006",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "During processing, data can be transformed through calculations, sorting, classification, summarization, or ____.",
+    "acceptedAnswers": [
+      "analysis"
+    ]
+  },
+  {
+    "id": "m4-u1-q007",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The CPU is an example of a ____ unit/device.",
+    "acceptedAnswers": [
+      "processing"
+    ]
+  },
+  {
+    "id": "m4-u1-q008",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Output involves presenting processed results in ____ forms.",
+    "acceptedAnswers": [
+      "usable"
+    ]
+  },
+  {
+    "id": "m4-u1-q009",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Reports, charts, screens, and printouts are examples of forms in which processed ____ can be presented.",
+    "acceptedAnswers": [
+      "results"
+    ]
+  },
+  {
+    "id": "m4-u1-q010",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Storage involves saving data and information for ____ use.",
+    "acceptedAnswers": [
+      "future"
+    ]
+  },
+  {
+    "id": "m4-u1-q011",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Hard disk, SSD, flash drive, and cloud storage are examples of ____.",
+    "acceptedAnswers": [
+      "storage"
+    ]
+  },
+  {
+    "id": "m4-u1-q012",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Feedback/Control uses output to refine future input or ____ steps.",
+    "acceptedAnswers": [
+      "processing"
+    ]
+  },
+  {
+    "id": "m4-u1-q013",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Data is a raw and ____ fact.",
+    "acceptedAnswers": [
+      "unprocessed"
+    ]
+  },
+  {
+    "id": "m4-u1-q014",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Information is processed data with ____.",
+    "acceptedAnswers": [
+      "meaning"
+    ]
+  },
+  {
+    "id": "m4-u1-q015",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Knowledge or decision making is the interpreted information used for decision ____.",
+    "acceptedAnswers": [
+      "making"
+    ]
+  },
+  {
+    "id": "m4-u1-q016",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "information-processing-methods",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The three major methods of data processing are the Manual method, Mechanical method, and ____ method.",
+    "acceptedAnswers": [
+      "Computer/Electronic",
+      "Computer",
+      "Electronic"
+    ]
+  },
+  {
+    "id": "m4-u1-q017",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "information-processing-methods",
+    "confidence": "low",
+    "type": "gap",
+    "question": "The manual method of data processing involves the use of chalk, a wall, a pen, a pencil, and the ____.",
+    "acceptedAnswers": [
+      "like"
+    ]
+  },
+  {
+    "id": "m4-u1-q018",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "information-processing-methods",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Manual data processing operations entail considerable ____ effort.",
+    "acceptedAnswers": [
+      "manual"
+    ]
+  },
+  {
+    "id": "m4-u1-q019",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "information-processing-methods",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The manual method is described as unfriendly, tiresome, boring, frustrating and ____- consuming.",
+    "acceptedAnswers": [
+      "time"
+    ]
+  },
+  {
+    "id": "m4-u1-q020",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "information-processing-methods",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Manual data processing is often subject to human ____.",
+    "acceptedAnswers": [
+      "error"
+    ]
+  },
+  {
+    "id": "m4-u1-q021",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "When errors occur in manual processing, the reliability, accuracy, neatness, tidiness, and ____ of the data are in doubt.",
+    "acceptedAnswers": [
+      "validity"
+    ]
+  },
+  {
+    "id": "m4-u1-q022",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "information-processing-methods",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The manual method does not allow for the processing of large ____ of data on a regular and timely basis.",
+    "acceptedAnswers": [
+      "volumes"
+    ]
+  },
+  {
+    "id": "m4-u1-q023",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "information-processing-methods",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Manual bookkeeping and handwritten records are examples of the ____ method.",
+    "acceptedAnswers": [
+      "manual"
+    ]
+  },
+  {
+    "id": "m4-u1-q024",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "information-processing-methods",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The mechanical method involves the use of machines such as typewriters and ____ machines.",
+    "acceptedAnswers": [
+      "adding"
+    ]
+  },
+  {
+    "id": "m4-u1-q025",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Mechanical machines facilitate human efforts to record, classify, manipulate, sort, and ____ data or information.",
+    "acceptedAnswers": [
+      "present"
+    ]
+  },
+  {
+    "id": "m4-u1-q026",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "information-processing-methods",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Mechanical operations are described as ____.",
+    "acceptedAnswers": [
+      "routine"
+    ]
+  },
+  {
+    "id": "m4-u1-q027",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "There is virtually no ____ thinking in mechanical operations.",
+    "acceptedAnswers": [
+      "creative"
+    ]
+  },
+  {
+    "id": "m4-u1-q028",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "information-processing-methods",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Mechanical operations are noisy, hazardous, error-prone, and ____.",
+    "acceptedAnswers": [
+      "untidy"
+    ]
+  },
+  {
+    "id": "m4-u1-q029",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "information-processing-methods",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The mechanical method does not allow for the continuous, timely processing of large ____ of data.",
+    "acceptedAnswers": [
+      "volumes"
+    ]
+  },
+  {
+    "id": "m4-u1-q030",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Typewriters, calculators, and filing machines are examples of the ____ method.",
+    "acceptedAnswers": [
+      "mechanical"
+    ]
+  },
+  {
+    "id": "m4-u1-q031",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Data can be steadily and continuously processed using the ____ method.",
+    "acceptedAnswers": [
+      "computer"
+    ]
+  },
+  {
+    "id": "m4-u1-q032",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "information-processing-methods",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The computer method of data processing is practically not ____.",
+    "acceptedAnswers": [
+      "noisy"
+    ]
+  },
+  {
+    "id": "m4-u1-q033",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "information-processing-methods",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The computer method has a store where data and instructions can be stored temporarily and ____.",
+    "acceptedAnswers": [
+      "permanently"
+    ]
+  },
+  {
+    "id": "m4-u1-q034",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "information-processing-methods",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Errors can be easily and ____ corrected using the computer method.",
+    "acceptedAnswers": [
+      "neatly"
+    ]
+  },
+  {
+    "id": "m4-u1-q035",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Output reports produced by computers can be produced in various ____.",
+    "acceptedAnswers": [
+      "forms"
+    ]
+  },
+  {
+    "id": "m4-u1-q036",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Computer output reports can include graphs, diagrams and ____.",
+    "acceptedAnswers": [
+      "pictures"
+    ]
+  },
+  {
+    "id": "m4-u1-q037",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "information-processing-methods",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Accuracy and reliability are highly ____ through the computer method.",
+    "acceptedAnswers": [
+      "enhanced"
+    ]
+  },
+  {
+    "id": "m4-u1-q038",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "information-processing-methods",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Databases, information systems, and AI systems are examples of the ____ method.",
+    "acceptedAnswers": [
+      "computer/electronic",
+      "computer",
+      "electronic"
+    ]
+  },
+  {
+    "id": "m4-u1-q039",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "role-of-information-processing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Education functions as a structured system that enables individuals and institutions to acquire, interpret, store, and apply ____.",
+    "acceptedAnswers": [
+      "knowledge"
+    ]
+  },
+  {
+    "id": "m4-u1-q040",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "role-of-information-processing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "In modern societies, education is the primary mechanism for managing ____ resources.",
+    "acceptedAnswers": [
+      "knowledge"
+    ]
+  },
+  {
+    "id": "m4-u1-q041",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "role-of-information-processing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Information processing is helpful in student record management, examination processing, and result ____.",
+    "acceptedAnswers": [
+      "computation"
+    ]
+  },
+  {
+    "id": "m4-u1-q042",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "role-of-information-processing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Information processing supports e-learning platforms, digital libraries, and online ____.",
+    "acceptedAnswers": [
+      "assessments"
+    ]
+  },
+  {
+    "id": "m4-u1-q043",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Information processing supports research, data analysis, and knowledge ____.",
+    "acceptedAnswers": [
+      "sharing"
+    ]
+  },
+  {
+    "id": "m4-u1-q044",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "role-of-information-processing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "In modern business environments, information is a critical ____.",
+    "acceptedAnswers": [
+      "asset"
+    ]
+  },
+  {
+    "id": "m4-u1-q045",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Businesses rely on structured systems to convert raw data into useful ____ for decision- making.",
+    "acceptedAnswers": [
+      "insights"
+    ]
+  },
+  {
+    "id": "m4-u1-q046",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "role-of-information-processing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Information processing supports payroll processing, inventory control, accounting, and sales ____.",
+    "acceptedAnswers": [
+      "analysis"
+    ]
+  },
+  {
+    "id": "m4-u1-q047",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "role-of-information-processing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Information processing assists in decision support systems for management planning and ____.",
+    "acceptedAnswers": [
+      "forecasting"
+    ]
+  },
+  {
+    "id": "m4-u1-q048",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "role-of-information-processing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The health sector relies heavily on accurate and ____ information to deliver effective patient care.",
+    "acceptedAnswers": [
+      "timely"
+    ]
+  },
+  {
+    "id": "m4-u1-q049",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "role-of-information-processing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Healthcare institutions transform raw medical data into actionable ____.",
+    "acceptedAnswers": [
+      "knowledge"
+    ]
+  },
+  {
+    "id": "m4-u1-q050",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Information processing in healthcare supports diagnosis, treatment, and ____ making.",
+    "acceptedAnswers": [
+      "decision"
+    ]
+  },
+  {
+    "id": "m4-u1-q051",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "role-of-information-processing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Patient record management and diagnosis support systems are applications of information processing in the ____ sector.",
+    "acceptedAnswers": [
+      "health"
+    ]
+  },
+  {
+    "id": "m4-u1-q052",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "role-of-information-processing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Medical imaging and laboratory result processing are applications of information processing in ____.",
+    "acceptedAnswers": [
+      "healthcare"
+    ]
+  },
+  {
+    "id": "m4-u1-q053",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following best explains why information processing is essential to modern life?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It eliminates the need for organisations"
+      },
+      {
+        "id": "b",
+        "text": "It prevents the collection of data"
+      },
+      {
+        "id": "c",
+        "text": "It supports decision-making and action"
+      },
+      {
+        "id": "d",
+        "text": "It replaces all human activities"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m4-u1-q054",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an example of data collection?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Student scores"
+      },
+      {
+        "id": "b",
+        "text": "Printed reports"
+      },
+      {
+        "id": "c",
+        "text": "Processed charts"
+      },
+      {
+        "id": "d",
+        "text": "Decision facts"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m4-u1-q055",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is NOT listed as an example of an input unit or device?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Camera"
+      },
+      {
+        "id": "b",
+        "text": "Sensor"
+      },
+      {
+        "id": "c",
+        "text": "Scanner"
+      },
+      {
+        "id": "d",
+        "text": "Printer"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "id": "m4-u1-q056",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an example of an output device?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mouse"
+      },
+      {
+        "id": "b",
+        "text": "Speaker"
+      },
+      {
+        "id": "c",
+        "text": "Scanner"
+      },
+      {
+        "id": "d",
+        "text": "Camera"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m4-u1-q057",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an example of information produced from data?",
+    "options": [
+      {
+        "id": "a",
+        "text": "75, 60"
+      },
+      {
+        "id": "b",
+        "text": "Student scores without interpretation"
+      },
+      {
+        "id": "c",
+        "text": "A student with matric no 1234 scores 60 in COS 101"
+      },
+      {
+        "id": "d",
+        "text": "Unprocessed examination records"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m4-u1-q058",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "data-information-knowledge",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following represents knowledge or decision making?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Class average is low; extra efforts are needed"
+      },
+      {
+        "id": "b",
+        "text": "75, 60"
+      },
+      {
+        "id": "c",
+        "text": "Student examination numbers"
+      },
+      {
+        "id": "d",
+        "text": "Raw sales figures"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m4-u1-q059",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "information-processing-methods",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which method of data processing is characterised by considerable manual effort?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Computer method"
+      },
+      {
+        "id": "b",
+        "text": "Mechanical method"
+      },
+      {
+        "id": "c",
+        "text": "Electronic method"
+      },
+      {
+        "id": "d",
+        "text": "Manual method"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "id": "m4-u1-q060",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "information-processing-methods",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is associated with the manual method of data processing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Artificial intelligence"
+      },
+      {
+        "id": "b",
+        "text": "Handwritten records"
+      },
+      {
+        "id": "c",
+        "text": "Information systems"
+      },
+      {
+        "id": "d",
+        "text": "Databases"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m4-u1-q061",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "information-processing-methods",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is a major disadvantage of the manual method?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It produces various forms of output"
+      },
+      {
+        "id": "b",
+        "text": "It enhances reliability"
+      },
+      {
+        "id": "c",
+        "text": "It is subject to human error"
+      },
+      {
+        "id": "d",
+        "text": "It continuously processes large volumes of data"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m4-u1-q062",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "information-processing-methods",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which method of data processing uses machines such as typewriters?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mechanical method"
+      },
+      {
+        "id": "b",
+        "text": "Manual method"
+      },
+      {
+        "id": "c",
+        "text": "Computer method"
+      },
+      {
+        "id": "d",
+        "text": "Electronic method"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m4-u1-q063",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "information-processing-methods",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is NOT associated with mechanical operations?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Noisy operations"
+      },
+      {
+        "id": "b",
+        "text": "Hazardous operations"
+      },
+      {
+        "id": "c",
+        "text": "Error-prone operations"
+      },
+      {
+        "id": "d",
+        "text": "Highly creative thinking"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "id": "m4-u1-q064",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "information-processing-methods",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an example of the mechanical method?",
+    "options": [
+      {
+        "id": "a",
+        "text": "AI systems"
+      },
+      {
+        "id": "b",
+        "text": "Filing machines"
+      },
+      {
+        "id": "c",
+        "text": "Cloud storage"
+      },
+      {
+        "id": "d",
+        "text": "Information systems"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m4-u1-q065",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "role-of-information-processing",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which sector uses information processing for payroll processing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Business and commerce"
+      },
+      {
+        "id": "b",
+        "text": "Health sector"
+      },
+      {
+        "id": "c",
+        "text": "Education"
+      },
+      {
+        "id": "d",
+        "text": "Banking and finance"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m4-u1-q066",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "role-of-information-processing",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an application of information processing in education?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fraud detection"
+      },
+      {
+        "id": "b",
+        "text": "Credit scoring"
+      },
+      {
+        "id": "c",
+        "text": "Online assessments"
+      },
+      {
+        "id": "d",
+        "text": "Market analysis"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m4-u1-q067",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "role-of-information-processing",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is associated with information processing in healthcare?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Inventory control"
+      },
+      {
+        "id": "b",
+        "text": "Medical imaging"
+      },
+      {
+        "id": "c",
+        "text": "Payroll processing"
+      },
+      {
+        "id": "d",
+        "text": "Credit scoring"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m4-u1-q068",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "role-of-information-processing",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an application of information processing in banking and finance?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Digital libraries"
+      },
+      {
+        "id": "b",
+        "text": "Laboratory result processing"
+      },
+      {
+        "id": "c",
+        "text": "Examination processing"
+      },
+      {
+        "id": "d",
+        "text": "Fraud detection"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "id": "m4-u1-q069",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "role-of-information-processing",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is used in banking and finance for transaction processing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ATM"
+      },
+      {
+        "id": "b",
+        "text": "Scanner"
+      },
+      {
+        "id": "c",
+        "text": "Camera"
+      },
+      {
+        "id": "d",
+        "text": "Printer"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m4-u1-q070",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "role-of-information-processing",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is specifically associated with financial institutions?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Examination processing"
+      },
+      {
+        "id": "b",
+        "text": "Credit scoring"
+      },
+      {
+        "id": "c",
+        "text": "Student record management"
+      },
+      {
+        "id": "d",
+        "text": "Medical imaging"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m4-u1-q071",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "role-of-information-processing",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is a healthcare application of information processing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hospital administration"
+      },
+      {
+        "id": "b",
+        "text": "Inventory control"
+      },
+      {
+        "id": "c",
+        "text": "Sales analysis"
+      },
+      {
+        "id": "d",
+        "text": "Payroll processing"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m4-u1-q072",
+    "module": "m4",
+    "unit": "m4-u1",
+    "topic": "role-of-information-processing",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is associated with public health?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Market analysis"
+      },
+      {
+        "id": "b",
+        "text": "Public health surveillance"
+      },
+      {
+        "id": "c",
+        "text": "Sales analysis"
+      },
+      {
+        "id": "d",
+        "text": "Payroll processing"
+      }
+    ],
+    "answer": "b"
+  }
+]

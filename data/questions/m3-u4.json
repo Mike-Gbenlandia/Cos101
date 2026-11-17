@@ -1,0 +1,450 @@
+[
+  {
+    "id": "m3-u4-q001",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "air-conditioner",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A computer is an electronic device that generates ____ while operating.",
+    "acceptedAnswers": [
+      "heat"
+    ]
+  },
+  {
+    "id": "m3-u4-q002",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "air-conditioner",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Every computer is designed to function efficiently within a specified ____ range.",
+    "acceptedAnswers": [
+      "temperature"
+    ]
+  },
+  {
+    "id": "m3-u4-q003",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "air-conditioner",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Dust accumulation can block ventilation openings and reduce ____ efficiency.",
+    "acceptedAnswers": [
+      "cooling"
+    ]
+  },
+  {
+    "id": "m3-u4-q004",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "air-conditioner",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Conductive dust particles may interfere with electronic ____.",
+    "acceptedAnswers": [
+      "circuits"
+    ]
+  },
+  {
+    "id": "m3-u4-q005",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "air-conditioner",
+    "confidence": "high",
+    "type": "gap",
+    "question": "An air conditioner helps to regulate temperature, control humidity, and reduce airborne ____.",
+    "acceptedAnswers": [
+      "dust"
+    ]
+  },
+  {
+    "id": "m3-u4-q006",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "air-conditioner",
+    "confidence": "high",
+    "type": "gap",
+    "question": "An air conditioner helps prevent ____ of internal components.",
+    "acceptedAnswers": [
+      "overheating"
+    ]
+  },
+  {
+    "id": "m3-u4-q007",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "voltage-stabilizer-and-transformer",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A voltage stabilizer is an electrical device that regulates incoming voltage and supplies a ____ output voltage.",
+    "acceptedAnswers": [
+      "constant"
+    ]
+  },
+  {
+    "id": "m3-u4-q008",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "voltage-stabilizer-and-transformer",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A voltage stabilizer protects computers against over-voltage and ____-voltage conditions.",
+    "acceptedAnswers": [
+      "under"
+    ]
+  },
+  {
+    "id": "m3-u4-q009",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "voltage-stabilizer-and-transformer",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A voltage stabilizer reduces the risk of hardware damage caused by power ____.",
+    "acceptedAnswers": [
+      "surges"
+    ]
+  },
+  {
+    "id": "m3-u4-q010",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "voltage-stabilizer-and-transformer",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A line voltage transformer can increase voltage through a process called ____ up.",
+    "acceptedAnswers": [
+      "step"
+    ]
+  },
+  {
+    "id": "m3-u4-q011",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "voltage-stabilizer-and-transformer",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A line voltage transformer can decrease voltage through a process called ____ down.",
+    "acceptedAnswers": [
+      "step"
+    ]
+  },
+  {
+    "id": "m3-u4-q012",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "voltage-stabilizer-and-transformer",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Many countries in North America use approximately ____–120 volts.",
+    "acceptedAnswers": [
+      "110"
+    ]
+  },
+  {
+    "id": "m3-u4-q013",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "voltage-stabilizer-and-transformer",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Countries such as Nigeria use approximately ____–240 volts.",
+    "acceptedAnswers": [
+      "220"
+    ]
+  },
+  {
+    "id": "m3-u4-q014",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "voltage-stabilizer-and-transformer",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Modern computers are designed with universal power supply units that automatically accept approximately 100V to ____V AC.",
+    "acceptedAnswers": [
+      "240"
+    ]
+  },
+  {
+    "id": "m3-u4-q015",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "air-conditioner",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Why is temperature control important in a computer environment?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Computers operate efficiently within a specified temperature range"
+      },
+      {
+        "id": "b",
+        "text": "Computers cannot operate without sunlight"
+      },
+      {
+        "id": "c",
+        "text": "Temperature determines the colour of the monitor"
+      },
+      {
+        "id": "d",
+        "text": "Temperature controls the keyboard layout"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u4-q016",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "air-conditioner",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which environmental factor can reduce cooling efficiency when it accumulates inside a computer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sound"
+      },
+      {
+        "id": "b",
+        "text": "Dust"
+      },
+      {
+        "id": "c",
+        "text": "Light"
+      },
+      {
+        "id": "d",
+        "text": "Software"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u4-q017",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "voltage-stabilizer-and-transformer",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following can result from unsuitable temperatures over a prolonged period?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Improved processor speed"
+      },
+      {
+        "id": "b",
+        "text": "Damage to internal components"
+      },
+      {
+        "id": "c",
+        "text": "Increased storage capacity"
+      },
+      {
+        "id": "d",
+        "text": "Better display quality"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u4-q018",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "air-conditioner",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is one benefit of reducing humidity in a computer environment?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It helps protect electronic circuits"
+      },
+      {
+        "id": "b",
+        "text": "It increases monitor resolution"
+      },
+      {
+        "id": "c",
+        "text": "It increases storage capacity"
+      },
+      {
+        "id": "d",
+        "text": "It improves keyboard response"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u4-q019",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "voltage-stabilizer-and-transformer",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What type of power problem can a voltage stabilizer protect against?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Over-voltage"
+      },
+      {
+        "id": "b",
+        "text": "Slow processing"
+      },
+      {
+        "id": "c",
+        "text": "Low storage capacity"
+      },
+      {
+        "id": "d",
+        "text": "Software errors"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u4-q020",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "uninterruptible-power-supply",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What can happen to unsaved work when power is suddenly interrupted?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It is automatically printed"
+      },
+      {
+        "id": "b",
+        "text": "It may be lost"
+      },
+      {
+        "id": "c",
+        "text": "It becomes permanently stored"
+      },
+      {
+        "id": "d",
+        "text": "It is transferred to the monitor"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u4-q021",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "voltage-stabilizer-and-transformer",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the main purpose of a line voltage transformer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To provide internet connectivity"
+      },
+      {
+        "id": "b",
+        "text": "To increase or decrease voltage"
+      },
+      {
+        "id": "c",
+        "text": "To cool the computer"
+      },
+      {
+        "id": "d",
+        "text": "To store electrical energy"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u4-q022",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "voltage-stabilizer-and-transformer",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What may happen when computer equipment is used with the wrong voltage without an appropriate transformer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The equipment may be damaged"
+      },
+      {
+        "id": "b",
+        "text": "The computer becomes faster"
+      },
+      {
+        "id": "c",
+        "text": "The storage capacity increases"
+      },
+      {
+        "id": "d",
+        "text": "The monitor becomes brighter"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u4-q023",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "uninterruptible-power-supply",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which device provides temporary electrical power when the main electricity supply fails?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Voltage stabilizer"
+      },
+      {
+        "id": "b",
+        "text": "Line voltage transformer"
+      },
+      {
+        "id": "c",
+        "text": "UPS"
+      },
+      {
+        "id": "d",
+        "text": "Air conditioner"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m3-u4-q024",
+    "module": "m3",
+    "unit": "m3-u4",
+    "topic": "uninterruptible-power-supply",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What type of energy is stored by a UPS while mains power is available?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Solar energy"
+      },
+      {
+        "id": "b",
+        "text": "Electrical energy"
+      },
+      {
+        "id": "c",
+        "text": "Mechanical energy"
+      },
+      {
+        "id": "d",
+        "text": "Thermal energy"
+      }
+    ],
+    "answer": "b"
+  }
+]

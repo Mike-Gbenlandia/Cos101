@@ -1,0 +1,1738 @@
+[
+  {
+    "id": "m2-u1-q001",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "definitions-computer-computing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Computing Science is the academic discipline that studies computation, computers, and ____ processing.",
+    "acceptedAnswers": [
+      "information"
+    ]
+  },
+  {
+    "id": "m2-u1-q002",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "definitions-computer-computing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Computing Science concerns how computers work, how problems are solved using ____, and how software and hardware systems are designed.",
+    "acceptedAnswers": [
+      "algorithms"
+    ]
+  },
+  {
+    "id": "m2-u1-q003",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "definitions-computer-computing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Computing Science plays a central role in education, business, healthcare, governance, science, and everyday human ____.",
+    "acceptedAnswers": [
+      "activities"
+    ]
+  },
+  {
+    "id": "m2-u1-q004",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "definitions-computer-computing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A computer is essentially a tool or machine used to process data and produce required ____.",
+    "acceptedAnswers": [
+      "information"
+    ]
+  },
+  {
+    "id": "m2-u1-q005",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "definitions-computer-computing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A computer is capable of taking input data through the ____.",
+    "acceptedAnswers": [
+      "keyboard"
+    ]
+  },
+  {
+    "id": "m2-u1-q006",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "definitions-computer-computing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A computer stores input data in a hard disk or other ____.",
+    "acceptedAnswers": [
+      "medium"
+    ]
+  },
+  {
+    "id": "m2-u1-q007",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "definitions-computer-computing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The central processing unit is abbreviated as ____.",
+    "acceptedAnswers": [
+      "CPU"
+    ]
+  },
+  {
+    "id": "m2-u1-q008",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "definitions-computer-computing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The result produced by a computer is given out as ____ on the screen or the Visual Display Unit.",
+    "acceptedAnswers": [
+      "output"
+    ]
+  },
+  {
+    "id": "m2-u1-q009",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "definitions-computer-computing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A computer is any machine or device which, under the control of a stored ____, can accept data in a prescribed form.",
+    "acceptedAnswers": [
+      "program"
+    ]
+  },
+  {
+    "id": "m2-u1-q010",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "definitions-computer-computing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A computer accepts data, processes the data, and supplies the results as ____.",
+    "acceptedAnswers": [
+      "information"
+    ]
+  },
+  {
+    "id": "m2-u1-q011",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "definitions-computer-computing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Computer science is the study of theory, experimentation, and ____ that form the basis for the design and use of computers.",
+    "acceptedAnswers": [
+      "engineering"
+    ]
+  },
+  {
+    "id": "m2-u1-q012",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "definitions-computer-computing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Computer science is the scientific and practical approach to ____ and its applications.",
+    "acceptedAnswers": [
+      "computation"
+    ]
+  },
+  {
+    "id": "m2-u1-q013",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The computing system consists of the computer system, the user, and the ____ in which the computer is operated.",
+    "acceptedAnswers": [
+      "environment"
+    ]
+  },
+  {
+    "id": "m2-u1-q014",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The computer system is made up of the ____ and the software.",
+    "acceptedAnswers": [
+      "hardware"
+    ]
+  },
+  {
+    "id": "m2-u1-q015",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Computer hardware comprises the input unit, the processing unit and the ____ unit.",
+    "acceptedAnswers": [
+      "output"
+    ]
+  },
+  {
+    "id": "m2-u1-q016",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The input unit comprises those media through which data is ____ into the computer.",
+    "acceptedAnswers": [
+      "fed"
+    ]
+  },
+  {
+    "id": "m2-u1-q017",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Examples of input devices include the keyboard, mouse, joystick, trackball and ____.",
+    "acceptedAnswers": [
+      "scanner"
+    ]
+  },
+  {
+    "id": "m2-u1-q018",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The processing unit consists of the Arithmetic and Logic Unit, the control unit, and the main ____.",
+    "acceptedAnswers": [
+      "memory"
+    ]
+  },
+  {
+    "id": "m2-u1-q019",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The main memory is also known as ____ memory.",
+    "acceptedAnswers": [
+      "primary"
+    ]
+  },
+  {
+    "id": "m2-u1-q020",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The main memory consists of Read Only Memory and Random Access ____.",
+    "acceptedAnswers": [
+      "Memory"
+    ]
+  },
+  {
+    "id": "m2-u1-q021",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The abbreviation for Read Only Memory is ____.",
+    "acceptedAnswers": [
+      "ROM"
+    ]
+  },
+  {
+    "id": "m2-u1-q022",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The abbreviation for Random Access Memory is ____.",
+    "acceptedAnswers": [
+      "RAM"
+    ]
+  },
+  {
+    "id": "m2-u1-q023",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The output unit consists of the media through which data, instructions and the result of the processing operation are ____ to the user.",
+    "acceptedAnswers": [
+      "displayed"
+    ]
+  },
+  {
+    "id": "m2-u1-q024",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Examples of output units include the monitor and the ____.",
+    "acceptedAnswers": [
+      "printer"
+    ]
+  },
+  {
+    "id": "m2-u1-q025",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Computer software is a set of ____ that enables a computer to perform a task or a set of tasks.",
+    "acceptedAnswers": [
+      "instructions"
+    ]
+  },
+  {
+    "id": "m2-u1-q026",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A program is a set of instructions that perform a ____.",
+    "acceptedAnswers": [
+      "task"
+    ]
+  },
+  {
+    "id": "m2-u1-q027",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A series of programs linked together makes up ____.",
+    "acceptedAnswers": [
+      "software"
+    ]
+  },
+  {
+    "id": "m2-u1-q028",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "definitions-computer-computing",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Computer programs could be categorised into system software, utility software, and ____ programs.",
+    "acceptedAnswers": [
+      "application"
+    ]
+  },
+  {
+    "id": "m2-u1-q029",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Computer users are different categories of ____ who operate the computer.",
+    "acceptedAnswers": [
+      "personnel"
+    ]
+  },
+  {
+    "id": "m2-u1-q030",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The two major categories of computer users mentioned are expert users and ____ users.",
+    "acceptedAnswers": [
+      "casual"
+    ]
+  },
+  {
+    "id": "m2-u1-q031",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Expert users could be further categorised into computer engineers, computer programmers and computer ____.",
+    "acceptedAnswers": [
+      "operators"
+    ]
+  },
+  {
+    "id": "m2-u1-q032",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computing-environment-data-units",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The computing environment includes the building housing the computer and the ____.",
+    "acceptedAnswers": [
+      "users"
+    ]
+  },
+  {
+    "id": "m2-u1-q033",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computing-environment-data-units",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The computing environment includes furniture and ____ devices.",
+    "acceptedAnswers": [
+      "auxiliary"
+    ]
+  },
+  {
+    "id": "m2-u1-q034",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computing-environment-data-units",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A device used in the computing environment to regulate electrical voltage is the voltage ____.",
+    "acceptedAnswers": [
+      "stabilizer"
+    ]
+  },
+  {
+    "id": "m2-u1-q035",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computing-environment-data-units",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Uninterruptible Power Supply System is abbreviated as ____.",
+    "acceptedAnswers": [
+      "UPS"
+    ]
+  },
+  {
+    "id": "m2-u1-q036",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "definitions-computer-computing",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is the primary function of a computer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To communicate only with other computers"
+      },
+      {
+        "id": "b",
+        "text": "To process data and produce required information"
+      },
+      {
+        "id": "c",
+        "text": "To replace all human activities"
+      },
+      {
+        "id": "d",
+        "text": "To provide electricity to other devices"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m2-u1-q037",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "definitions-computer-computing",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following correctly describes computer science?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The study of only computer hardware"
+      },
+      {
+        "id": "b",
+        "text": "The study of computer games and entertainment"
+      },
+      {
+        "id": "c",
+        "text": "The study of theory, experimentation, and engineering that form the basis for the design and use of computers"
+      },
+      {
+        "id": "d",
+        "text": "The study of electrical wiring alone"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m2-u1-q038",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "definitions-computer-computing",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is included in the systematic study of computer science?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The mechanization of methodical procedures"
+      },
+      {
+        "id": "b",
+        "text": "The manufacture of furniture"
+      },
+      {
+        "id": "c",
+        "text": "The construction of buildings"
+      },
+      {
+        "id": "d",
+        "text": "The production of electricity"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m2-u1-q039",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "definitions-computer-computing",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is NOT listed as an area in which Computing Science plays a central role?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Healthcare"
+      },
+      {
+        "id": "b",
+        "text": "Governance"
+      },
+      {
+        "id": "c",
+        "text": "Science"
+      },
+      {
+        "id": "d",
+        "text": "Agriculture"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "id": "m2-u1-q040",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which component of a computer system contains the physical components that can be seen and touched?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Software"
+      },
+      {
+        "id": "b",
+        "text": "Hardware"
+      },
+      {
+        "id": "c",
+        "text": "Human-ware"
+      },
+      {
+        "id": "d",
+        "text": "Procedures"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m2-u1-q041",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is NOT an example of an input device?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Joystick"
+      },
+      {
+        "id": "b",
+        "text": "Trackball"
+      },
+      {
+        "id": "c",
+        "text": "Printer"
+      },
+      {
+        "id": "d",
+        "text": "Scanner"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m2-u1-q042",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is responsible for performing arithmetic and logical operations?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Arithmetic and Logic Unit"
+      },
+      {
+        "id": "b",
+        "text": "Control Unit"
+      },
+      {
+        "id": "c",
+        "text": "Main Memory"
+      },
+      {
+        "id": "d",
+        "text": "Output Unit"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m2-u1-q043",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is another name for the main memory?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Secondary memory"
+      },
+      {
+        "id": "b",
+        "text": "External memory"
+      },
+      {
+        "id": "c",
+        "text": "Primary memory"
+      },
+      {
+        "id": "d",
+        "text": "Auxiliary memory"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m2-u1-q044",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following correctly identifies the components of main memory?",
+    "options": [
+      {
+        "id": "a",
+        "text": "CPU and VDU"
+      },
+      {
+        "id": "b",
+        "text": "ROM and RAM"
+      },
+      {
+        "id": "c",
+        "text": "Keyboard and mouse"
+      },
+      {
+        "id": "d",
+        "text": "Printer and scanner"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m2-u1-q045",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an example of an output device?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Scanner"
+      },
+      {
+        "id": "b",
+        "text": "Mouse"
+      },
+      {
+        "id": "c",
+        "text": "Monitor"
+      },
+      {
+        "id": "d",
+        "text": "Joystick"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m2-u1-q046",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "definitions-computer-computing",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following best describes application programs?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Programs designed to perform tasks for users"
+      },
+      {
+        "id": "b",
+        "text": "Devices used for entering data"
+      },
+      {
+        "id": "c",
+        "text": "Physical components of the CPU"
+      },
+      {
+        "id": "d",
+        "text": "Auxiliary devices used to supply electricity"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m2-u1-q047",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which category of computer users includes computer engineers?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Casual users"
+      },
+      {
+        "id": "b",
+        "text": "Expert users"
+      },
+      {
+        "id": "c",
+        "text": "End users"
+      },
+      {
+        "id": "d",
+        "text": "Data entry clerks"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m2-u1-q048",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-system-components",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is classified under expert users?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Data entry clerks"
+      },
+      {
+        "id": "b",
+        "text": "Casual users"
+      },
+      {
+        "id": "c",
+        "text": "Computer programmers"
+      },
+      {
+        "id": "d",
+        "text": "Ordinary computer users"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m2-u1-q049",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computing-environment-data-units",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is included in the computing environment?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Air conditioner"
+      },
+      {
+        "id": "b",
+        "text": "Application software"
+      },
+      {
+        "id": "c",
+        "text": "CPU"
+      },
+      {
+        "id": "d",
+        "text": "Keyboard"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m2-u1-q050",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computing-environment-data-units",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which auxiliary device is specifically used as part of the computing environment?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Printer"
+      },
+      {
+        "id": "b",
+        "text": "Voltage stabilizer"
+      },
+      {
+        "id": "c",
+        "text": "Scanner"
+      },
+      {
+        "id": "d",
+        "text": "Mouse"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m2-u1-q051",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computing-environment-data-units",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following best defines data?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Processed facts that are meaningful"
+      },
+      {
+        "id": "b",
+        "text": "Raw facts and figures that have not yet been processed"
+      },
+      {
+        "id": "c",
+        "text": "Instructions written in a programming language"
+      },
+      {
+        "id": "d",
+        "text": "Physical computer components"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m2-u1-q052",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computing-environment-data-units",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following best defines information?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Raw numbers only"
+      },
+      {
+        "id": "b",
+        "text": "Unprocessed symbols"
+      },
+      {
+        "id": "c",
+        "text": "Data that has been processed, organised, or structured to make it meaningful and useful"
+      },
+      {
+        "id": "d",
+        "text": "A set of physical computer devices"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m2-u1-q053",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computing-environment-data-units",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is a characteristic of an algorithm?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It must continue indefinitely"
+      },
+      {
+        "id": "b",
+        "text": "It must have clearly defined steps"
+      },
+      {
+        "id": "c",
+        "text": "It must contain only numerical data"
+      },
+      {
+        "id": "d",
+        "text": "It must require human intervention at every step"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m2-u1-q054",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computing-environment-data-units",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is required of an algorithm?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It must end"
+      },
+      {
+        "id": "b",
+        "text": "It must contain no output"
+      },
+      {
+        "id": "c",
+        "text": "It must have unlimited steps"
+      },
+      {
+        "id": "d",
+        "text": "It must avoid input"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m2-u1-q055",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computing-environment-data-units",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following describes a program?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A physical part of a computer"
+      },
+      {
+        "id": "b",
+        "text": "A set of instructions written in a programming language that tells the computer how to perform a specific task"
+      },
+      {
+        "id": "c",
+        "text": "Raw facts awaiting processing"
+      },
+      {
+        "id": "d",
+        "text": "A computing environment"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m2-u1-q056",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computing-environment-data-units",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following refers to people who interact with and manage computer systems?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hardware"
+      },
+      {
+        "id": "b",
+        "text": "Software"
+      },
+      {
+        "id": "c",
+        "text": "Human-ware"
+      },
+      {
+        "id": "d",
+        "text": "Firmware"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m2-u1-q057",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computing-environment-data-units",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an example of human-ware?",
+    "options": [
+      {
+        "id": "a",
+        "text": "System analysts"
+      },
+      {
+        "id": "b",
+        "text": "Monitor"
+      },
+      {
+        "id": "c",
+        "text": "CPU"
+      },
+      {
+        "id": "d",
+        "text": "Keyboard"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m2-u1-q058",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computing-environment-data-units",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following best describes a computer system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "An integrated combination of hardware, software, data, procedures, and human-ware working together to process information"
+      },
+      {
+        "id": "b",
+        "text": "A collection of input devices only"
+      },
+      {
+        "id": "c",
+        "text": "A combination of software programs only"
+      },
+      {
+        "id": "d",
+        "text": "A network of printers and monitors"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m2-u1-q059",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computing-environment-data-units",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is included in ICT?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Computers"
+      },
+      {
+        "id": "b",
+        "text": "Furniture"
+      },
+      {
+        "id": "c",
+        "text": "Air conditioners"
+      },
+      {
+        "id": "d",
+        "text": "Voltage stabilizers only"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m2-u1-q060",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computing-environment-data-units",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which unit is the smallest unit of data?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Byte"
+      },
+      {
+        "id": "b",
+        "text": "Bit"
+      },
+      {
+        "id": "c",
+        "text": "Kilobyte"
+      },
+      {
+        "id": "d",
+        "text": "Megabyte"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m2-u1-q061",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computing-environment-data-units",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "How many bits make up one byte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "4"
+      },
+      {
+        "id": "b",
+        "text": "16"
+      },
+      {
+        "id": "c",
+        "text": "8"
+      },
+      {
+        "id": "d",
+        "text": "1024"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m2-u1-q062",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computing-environment-data-units",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "How many bytes make up one kilobyte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1000"
+      },
+      {
+        "id": "b",
+        "text": "1024"
+      },
+      {
+        "id": "c",
+        "text": "8"
+      },
+      {
+        "id": "d",
+        "text": "1024 KB"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m2-u1-q063",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computing-environment-data-units",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "How many kilobytes make up one megabyte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "8"
+      },
+      {
+        "id": "b",
+        "text": "1000"
+      },
+      {
+        "id": "c",
+        "text": "1024"
+      },
+      {
+        "id": "d",
+        "text": "1024 MB"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m2-u1-q064",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computing-environment-data-units",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "How many megabytes make up one gigabyte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1024"
+      },
+      {
+        "id": "b",
+        "text": "1000"
+      },
+      {
+        "id": "c",
+        "text": "8"
+      },
+      {
+        "id": "d",
+        "text": "1024 KB"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m2-u1-q065",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-characteristics-capabilities",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which characteristic refers to how fast a computer can process data and execute instructions?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Accuracy"
+      },
+      {
+        "id": "b",
+        "text": "Speed"
+      },
+      {
+        "id": "c",
+        "text": "Reliability"
+      },
+      {
+        "id": "d",
+        "text": "Storage capacity"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m2-u1-q066",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-characteristics-capabilities",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which unit measures CPU clock speed?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hertz"
+      },
+      {
+        "id": "b",
+        "text": "Byte"
+      },
+      {
+        "id": "c",
+        "text": "Bit"
+      },
+      {
+        "id": "d",
+        "text": "Kilobyte"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m2-u1-q067",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-characteristics-capabilities",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following represents one billion operations per second?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kilohertz"
+      },
+      {
+        "id": "b",
+        "text": "Megahertz"
+      },
+      {
+        "id": "c",
+        "text": "Gigahertz"
+      },
+      {
+        "id": "d",
+        "text": "Millisecond"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m2-u1-q068",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-characteristics-capabilities",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following represents 10 ⁻ ⁹ seconds?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Millisecond"
+      },
+      {
+        "id": "b",
+        "text": "Microsecond"
+      },
+      {
+        "id": "c",
+        "text": "Nanosecond"
+      },
+      {
+        "id": "d",
+        "text": "Gigahertz"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m2-u1-q069",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-characteristics-capabilities",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which characteristic refers to the ability of a computer to produce correct and precise results when given correct data and instructions?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Accuracy"
+      },
+      {
+        "id": "b",
+        "text": "Automation"
+      },
+      {
+        "id": "c",
+        "text": "Versatility"
+      },
+      {
+        "id": "d",
+        "text": "Diligence"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m2-u1-q070",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-characteristics-capabilities",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What does GIGO stand for in relation to computer accuracy?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Good Input Gives Output"
+      },
+      {
+        "id": "b",
+        "text": "Garbage In, Garbage Out"
+      },
+      {
+        "id": "c",
+        "text": "General Information Gives Output"
+      },
+      {
+        "id": "d",
+        "text": "Generated Input Generates Operations"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m2-u1-q071",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-characteristics-capabilities",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is identified as a cause of errors in computer processing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Correct input"
+      },
+      {
+        "id": "b",
+        "text": "Faulty programs"
+      },
+      {
+        "id": "c",
+        "text": "Proper instructions"
+      },
+      {
+        "id": "d",
+        "text": "Accurate data"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m2-u1-q072",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-characteristics-capabilities",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which characteristic enables a computer to work continuously without rest?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Diligence"
+      },
+      {
+        "id": "b",
+        "text": "Versatility"
+      },
+      {
+        "id": "c",
+        "text": "Storage capacity"
+      },
+      {
+        "id": "d",
+        "text": "Automation"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m2-u1-q073",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-characteristics-capabilities",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is a feature of diligence?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fatigue"
+      },
+      {
+        "id": "b",
+        "text": "Consistency"
+      },
+      {
+        "id": "c",
+        "text": "Loss of concentration"
+      },
+      {
+        "id": "d",
+        "text": "Reduced efficiency"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m2-u1-q074",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-characteristics-capabilities",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which characteristic enables a computer to perform tasks automatically once programmed and started?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reliability"
+      },
+      {
+        "id": "b",
+        "text": "Automation"
+      },
+      {
+        "id": "c",
+        "text": "Accuracy"
+      },
+      {
+        "id": "d",
+        "text": "Storage capacity"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m2-u1-q075",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-characteristics-capabilities",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an importance of automation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Increased human effort"
+      },
+      {
+        "id": "b",
+        "text": "Slower data processing"
+      },
+      {
+        "id": "c",
+        "text": "Faster data processing"
+      },
+      {
+        "id": "d",
+        "text": "Reduced productivity"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m2-u1-q076",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-characteristics-capabilities",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which characteristic refers to the ability of a computer to perform a wide variety of tasks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Versatility"
+      },
+      {
+        "id": "b",
+        "text": "Accuracy"
+      },
+      {
+        "id": "c",
+        "text": "Reliability"
+      },
+      {
+        "id": "d",
+        "text": "Diligence"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m2-u1-q077",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-characteristics-capabilities",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is a key feature of versatility?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Single-purpose use"
+      },
+      {
+        "id": "b",
+        "text": "Task switching"
+      },
+      {
+        "id": "c",
+        "text": "Limited application range"
+      },
+      {
+        "id": "d",
+        "text": "Permanent programming"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m2-u1-q078",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-characteristics-capabilities",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which type of storage provides temporary storage?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Secondary storage"
+      },
+      {
+        "id": "b",
+        "text": "Primary storage"
+      },
+      {
+        "id": "c",
+        "text": "Cloud storage"
+      },
+      {
+        "id": "d",
+        "text": "Hard disk"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m2-u1-q079",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-characteristics-capabilities",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an example of secondary storage?",
+    "options": [
+      {
+        "id": "a",
+        "text": "RAM"
+      },
+      {
+        "id": "b",
+        "text": "CPU"
+      },
+      {
+        "id": "c",
+        "text": "SSD"
+      },
+      {
+        "id": "d",
+        "text": "Control Unit"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m2-u1-q080",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-characteristics-capabilities",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which characteristic refers to the ability of a computer to perform operations correctly and consistently over a long period without failure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reliability"
+      },
+      {
+        "id": "b",
+        "text": "Versatility"
+      },
+      {
+        "id": "c",
+        "text": "Automation"
+      },
+      {
+        "id": "d",
+        "text": "Accuracy"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m2-u1-q081",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-characteristics-capabilities",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an example of a system where computer reliability is important?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Banking"
+      },
+      {
+        "id": "b",
+        "text": "Furniture production"
+      },
+      {
+        "id": "c",
+        "text": "Manual filing"
+      },
+      {
+        "id": "d",
+        "text": "Handwriting"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m2-u1-q082",
+    "module": "m2",
+    "unit": "m2-u1",
+    "topic": "computer-characteristics-capabilities",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which characteristic enables a computer to execute multiple tasks or programs simultaneously?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Accuracy"
+      },
+      {
+        "id": "b",
+        "text": "Multitasking"
+      },
+      {
+        "id": "c",
+        "text": "Automation"
+      },
+      {
+        "id": "d",
+        "text": "Storage capacity"
+      }
+    ],
+    "answer": "b"
+  }
+]

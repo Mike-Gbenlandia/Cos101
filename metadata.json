@@ -1,0 +1,6 @@
+{
+  "name": "COS101 Exam Practice",
+  "description": "Client-side CBT practice platform for COS101: Introduction to Computing Science with proportional module sampling, instant diagnostics, and local progress history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

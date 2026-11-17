@@ -1,0 +1,742 @@
+[
+  {
+    "id": "m3-u1-q001",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-control-modifier-keys",
+    "confidence": "high",
+    "type": "gap",
+    "question": "An input device enables users to enter data and ____ into a computer system.",
+    "acceptedAnswers": [
+      "instructions"
+    ]
+  },
+  {
+    "id": "m3-u1-q002",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-key-groups",
+    "confidence": "high",
+    "type": "gap",
+    "question": "A computer keyboard can be a dummy type or an ____ type.",
+    "acceptedAnswers": [
+      "intelligent"
+    ]
+  },
+  {
+    "id": "m3-u1-q003",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-key-groups",
+    "confidence": "high",
+    "type": "gap",
+    "question": "An intelligent computer keyboard can initiate a series of ____ for a computer to carry out.",
+    "acceptedAnswers": [
+      "actions"
+    ]
+  },
+  {
+    "id": "m3-u1-q004",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-key-groups",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The intelligent computer keyboard has four major divisions: Function keys, Alphanumeric keys, Numeric keys, and ____ keys.",
+    "acceptedAnswers": [
+      "Control"
+    ]
+  },
+  {
+    "id": "m3-u1-q005",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-control-modifier-keys",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The special key denoted by ESC is the ____ key.",
+    "acceptedAnswers": [
+      "Escape"
+    ]
+  },
+  {
+    "id": "m3-u1-q006",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-control-modifier-keys",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The special key denoted by CTRL is the ____ key.",
+    "acceptedAnswers": [
+      "Control"
+    ]
+  },
+  {
+    "id": "m3-u1-q007",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-control-modifier-keys",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The special key denoted by ALT is the ____ key.",
+    "acceptedAnswers": [
+      "Alternate"
+    ]
+  },
+  {
+    "id": "m3-u1-q008",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-control-modifier-keys",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The special key denoted by DEL is the ____ key.",
+    "acceptedAnswers": [
+      "Delete"
+    ]
+  },
+  {
+    "id": "m3-u1-q009",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-control-modifier-keys",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The special key denoted by INS is the ____ key.",
+    "acceptedAnswers": [
+      "Insert"
+    ]
+  },
+  {
+    "id": "m3-u1-q010",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-key-groups",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The effects of the function keys are ____-dependent.",
+    "acceptedAnswers": [
+      "software-package"
+    ]
+  },
+  {
+    "id": "m3-u1-q011",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-key-groups",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The function keys are traditionally labeled F1 through ____.",
+    "acceptedAnswers": [
+      "F12"
+    ]
+  },
+  {
+    "id": "m3-u1-q012",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-key-groups",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Function keys can be programmed to carry out the functions desired by a ____.",
+    "acceptedAnswers": [
+      "programmer"
+    ]
+  },
+  {
+    "id": "m3-u1-q013",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-control-modifier-keys",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The cursor marks the active or ____ spot on the screen.",
+    "acceptedAnswers": [
+      "current"
+    ]
+  },
+  {
+    "id": "m3-u1-q014",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-control-modifier-keys",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The cursor may be a rectangular bar of light or a blinking ____.",
+    "acceptedAnswers": [
+      "underscore"
+    ]
+  },
+  {
+    "id": "m3-u1-q015",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-control-modifier-keys",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The cursor control keys include four directional ____ keys.",
+    "acceptedAnswers": [
+      "arrow"
+    ]
+  },
+  {
+    "id": "m3-u1-q016",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-key-groups",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following describes the role of input devices in computer operations?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They provide the communication link between users and computers"
+      },
+      {
+        "id": "b",
+        "text": "They permanently store processed information"
+      },
+      {
+        "id": "c",
+        "text": "They display processed information only"
+      },
+      {
+        "id": "d",
+        "text": "They regulate the computer's electrical supply"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u1-q017",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-key-groups",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which type of keyboard can initiate a series of actions by pressing a key or combination of keys?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Conventional keyboard"
+      },
+      {
+        "id": "b",
+        "text": "Intelligent keyboard"
+      },
+      {
+        "id": "c",
+        "text": "Mechanical keyboard"
+      },
+      {
+        "id": "d",
+        "text": "Numeric keyboard"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u1-q018",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-key-groups",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What may an intelligent keyboard cause the computer to do when a particular key is pressed?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Shut down automatically"
+      },
+      {
+        "id": "b",
+        "text": "Change its hardware"
+      },
+      {
+        "id": "c",
+        "text": "Perform a specific function"
+      },
+      {
+        "id": "d",
+        "text": "Disconnect from the network"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m3-u1-q019",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-key-groups",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is NOT one of the four major divisions of an intelligent computer keyboard?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Function keys"
+      },
+      {
+        "id": "b",
+        "text": "Alphanumeric keys"
+      },
+      {
+        "id": "c",
+        "text": "Numeric keys"
+      },
+      {
+        "id": "d",
+        "text": "Navigation keys"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "id": "m3-u1-q020",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-key-groups",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the principal characteristic of the function keys?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Their effects depend on the software package being used"
+      },
+      {
+        "id": "b",
+        "text": "They are used exclusively for entering numbers"
+      },
+      {
+        "id": "c",
+        "text": "They are used only for controlling the cursor"
+      },
+      {
+        "id": "d",
+        "text": "They always perform exactly the same operation"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u1-q021",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-key-groups",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which function key is used to run the HELP program in most software packages?",
+    "options": [
+      {
+        "id": "a",
+        "text": "F3"
+      },
+      {
+        "id": "b",
+        "text": "F5"
+      },
+      {
+        "id": "c",
+        "text": "F1"
+      },
+      {
+        "id": "d",
+        "text": "F10"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m3-u1-q022",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-key-groups",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which function key is used for the HELP program in WordPerfect?",
+    "options": [
+      {
+        "id": "a",
+        "text": "F1"
+      },
+      {
+        "id": "b",
+        "text": "F3"
+      },
+      {
+        "id": "c",
+        "text": "F7"
+      },
+      {
+        "id": "d",
+        "text": "F12"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u1-q023",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-key-groups",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which function key is used to save a text in WordPerfect?",
+    "options": [
+      {
+        "id": "a",
+        "text": "F2"
+      },
+      {
+        "id": "b",
+        "text": "F5"
+      },
+      {
+        "id": "c",
+        "text": "F7"
+      },
+      {
+        "id": "d",
+        "text": "F10"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m3-u1-q024",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-key-groups",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which function key is used to block a section of a text in WordPerfect?",
+    "options": [
+      {
+        "id": "a",
+        "text": "F12"
+      },
+      {
+        "id": "b",
+        "text": "F8"
+      },
+      {
+        "id": "c",
+        "text": "F6"
+      },
+      {
+        "id": "d",
+        "text": "F4"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u1-q025",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-key-groups",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What do alphanumeric keys contain?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only alphabetic characters"
+      },
+      {
+        "id": "b",
+        "text": "Alphabetic, numeric and special characters"
+      },
+      {
+        "id": "c",
+        "text": "Only numeric characters"
+      },
+      {
+        "id": "d",
+        "text": "Only control commands"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u1-q026",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-control-modifier-keys",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which key is used to switch the lower- and uppercase characters on or off?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Control key"
+      },
+      {
+        "id": "b",
+        "text": "Escape key"
+      },
+      {
+        "id": "c",
+        "text": "Shift key"
+      },
+      {
+        "id": "d",
+        "text": "Tab key"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m3-u1-q027",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-control-modifier-keys",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following best describes the cursor?",
+    "options": [
+      {
+        "id": "a",
+        "text": "An indicator showing where the system is pointing in a document"
+      },
+      {
+        "id": "b",
+        "text": "A device for printing documents"
+      },
+      {
+        "id": "c",
+        "text": "A storage device inside the system unit"
+      },
+      {
+        "id": "d",
+        "text": "A key used to cancel commands"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u1-q028",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-control-modifier-keys",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which cursor control key moves the cursor to the beginning of a line or page?",
+    "options": [
+      {
+        "id": "a",
+        "text": "End"
+      },
+      {
+        "id": "b",
+        "text": "PGDN"
+      },
+      {
+        "id": "c",
+        "text": "Home"
+      },
+      {
+        "id": "d",
+        "text": "PGUP"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m3-u1-q029",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-control-modifier-keys",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What does the End key do in most text editors?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Moves the cursor to the beginning of a document"
+      },
+      {
+        "id": "b",
+        "text": "Moves the cursor to the end of the current line"
+      },
+      {
+        "id": "c",
+        "text": "Moves the cursor to the previous page"
+      },
+      {
+        "id": "d",
+        "text": "Deletes the current line"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u1-q030",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-control-modifier-keys",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which key moves the cursor to the top of the next page in a document?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Home"
+      },
+      {
+        "id": "b",
+        "text": "End"
+      },
+      {
+        "id": "c",
+        "text": "PGUP"
+      },
+      {
+        "id": "d",
+        "text": "PGDN"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "id": "m3-u1-q031",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-control-modifier-keys",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which key moves the cursor to the top of the previous page?",
+    "options": [
+      {
+        "id": "a",
+        "text": "PGUP"
+      },
+      {
+        "id": "b",
+        "text": "PGDN"
+      },
+      {
+        "id": "c",
+        "text": "Home"
+      },
+      {
+        "id": "d",
+        "text": "End"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u1-q032",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-key-groups",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is a function of the numeric keypad?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Entering number digits into the computer store"
+      },
+      {
+        "id": "b",
+        "text": "Displaying graphical information"
+      },
+      {
+        "id": "c",
+        "text": "Printing text documents"
+      },
+      {
+        "id": "d",
+        "text": "Cancelling an operation"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u1-q033",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-control-modifier-keys",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is required to produce extended characters using the numeric keypad?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Shift key only"
+      },
+      {
+        "id": "b",
+        "text": "Ctrl key only"
+      },
+      {
+        "id": "c",
+        "text": "Alternate key in combination with the numeric keypad"
+      },
+      {
+        "id": "d",
+        "text": "Caps Lock key"
+      }
+    ],
+    "answer": "c"
+  },
+  {
+    "id": "m3-u1-q034",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-control-modifier-keys",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What happens when the Shift key is pressed together with the equals sign key?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A question mark appears"
+      },
+      {
+        "id": "b",
+        "text": "A plus sign is activated"
+      },
+      {
+        "id": "c",
+        "text": "The cursor moves backward"
+      },
+      {
+        "id": "d",
+        "text": "The keyboard enters numeric mode"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u1-q035",
+    "module": "m3",
+    "unit": "m3-u1",
+    "topic": "keyboard-control-modifier-keys",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which key shifts all alphabetic characters into uppercase?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Num Lock"
+      },
+      {
+        "id": "b",
+        "text": "Shift"
+      },
+      {
+        "id": "c",
+        "text": "Caps Lock"
+      },
+      {
+        "id": "d",
+        "text": "Control"
+      }
+    ],
+    "answer": "c"
+  }
+]

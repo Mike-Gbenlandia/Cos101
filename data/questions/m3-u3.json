@@ -1,0 +1,576 @@
+[
+  {
+    "id": "m3-u3-q001",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-definition-and-functions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Central Processing Unit is otherwise known as the ____ of the computer.",
+    "acceptedAnswers": [
+      "heart"
+    ]
+  },
+  {
+    "id": "m3-u3-q002",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-definition-and-functions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The CPU stands between the input and ____ devices.",
+    "acceptedAnswers": [
+      "output"
+    ]
+  },
+  {
+    "id": "m3-u3-q003",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-definition-and-functions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Central Processing Unit is the core component of a computer system responsible for executing ____.",
+    "acceptedAnswers": [
+      "instructions"
+    ]
+  },
+  {
+    "id": "m3-u3-q004",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-definition-and-functions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The CPU performs processing and ____-making functions.",
+    "acceptedAnswers": [
+      "decision"
+    ]
+  },
+  {
+    "id": "m3-u3-q005",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-definition-and-functions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The CPU fetches instructions from ____.",
+    "acceptedAnswers": [
+      "memory"
+    ]
+  },
+  {
+    "id": "m3-u3-q006",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-definition-and-functions",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The CPU decodes instructions to determine required ____.",
+    "acceptedAnswers": [
+      "actions"
+    ]
+  },
+  {
+    "id": "m3-u3-q007",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-components-alu-cu-registers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Arithmetic Logic Unit is abbreviated as ____.",
+    "acceptedAnswers": [
+      "ALU"
+    ]
+  },
+  {
+    "id": "m3-u3-q008",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-components-alu-cu-registers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The ALU performs arithmetic operations such as addition, subtraction, multiplication, and ____.",
+    "acceptedAnswers": [
+      "division"
+    ]
+  },
+  {
+    "id": "m3-u3-q009",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-components-alu-cu-registers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The ALU performs logical operations such as comparisons, AND, OR and ____.",
+    "acceptedAnswers": [
+      "NOT"
+    ]
+  },
+  {
+    "id": "m3-u3-q010",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-components-alu-cu-registers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Control Unit is abbreviated as ____.",
+    "acceptedAnswers": [
+      "CU"
+    ]
+  },
+  {
+    "id": "m3-u3-q011",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-components-alu-cu-registers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Control Unit directs all operations of the computer ____.",
+    "acceptedAnswers": [
+      "system"
+    ]
+  },
+  {
+    "id": "m3-u3-q012",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-components-alu-cu-registers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Registers are small, high-speed memory locations within the ____.",
+    "acceptedAnswers": [
+      "CPU"
+    ]
+  },
+  {
+    "id": "m3-u3-q013",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-components-alu-cu-registers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "Registers temporarily store data, instructions, and intermediate ____ during processing.",
+    "acceptedAnswers": [
+      "results"
+    ]
+  },
+  {
+    "id": "m3-u3-q014",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-components-alu-cu-registers",
+    "confidence": "high",
+    "type": "gap",
+    "question": "The Accumulator, Instruction Register, and Program Counter are examples of ____.",
+    "acceptedAnswers": [
+      "registers"
+    ]
+  },
+  {
+    "id": "m3-u3-q015",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-performance-and-importance",
+    "confidence": "high",
+    "type": "gap",
+    "question": "CPU clock speed is measured in ____.",
+    "acceptedAnswers": [
+      "Hertz (Hz)",
+      "Hertz",
+      "Hz"
+    ]
+  },
+  {
+    "id": "m3-u3-q016",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-components-alu-cu-registers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which component is responsible for controlling and coordinating the activities of other components?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Arithmetic Logic Unit"
+      },
+      {
+        "id": "b",
+        "text": "Control Unit"
+      },
+      {
+        "id": "c",
+        "text": "Register"
+      },
+      {
+        "id": "d",
+        "text": "Motherboard"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u3-q017",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-components-alu-cu-registers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What does the Arithmetic Logic Unit perform?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only memory allocation"
+      },
+      {
+        "id": "b",
+        "text": "Arithmetic and logical operations"
+      },
+      {
+        "id": "c",
+        "text": "File storage operations"
+      },
+      {
+        "id": "d",
+        "text": "Display operations"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u3-q018",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-components-alu-cu-registers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is a logical operation performed by the ALU?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Multiplication"
+      },
+      {
+        "id": "b",
+        "text": "Division"
+      },
+      {
+        "id": "c",
+        "text": "Addition"
+      },
+      {
+        "id": "d",
+        "text": "AND"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "id": "m3-u3-q019",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-components-alu-cu-registers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which component ensures that instructions are executed in the correct sequence?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Control Unit"
+      },
+      {
+        "id": "b",
+        "text": "Arithmetic Logic Unit"
+      },
+      {
+        "id": "c",
+        "text": "Register"
+      },
+      {
+        "id": "d",
+        "text": "Memory Unit"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u3-q020",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-components-alu-cu-registers",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the main purpose of registers within the CPU?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To permanently store user files"
+      },
+      {
+        "id": "b",
+        "text": "To temporarily store data, instructions and intermediate results"
+      },
+      {
+        "id": "c",
+        "text": "To connect external devices"
+      },
+      {
+        "id": "d",
+        "text": "To regulate electrical power"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u3-q021",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-definition-and-functions",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is NOT identified as an example of a CPU register?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Accumulator"
+      },
+      {
+        "id": "b",
+        "text": "Instruction Register"
+      },
+      {
+        "id": "c",
+        "text": "Program Counter"
+      },
+      {
+        "id": "d",
+        "text": "Expansion Register"
+      }
+    ],
+    "answer": "d"
+  },
+  {
+    "id": "m3-u3-q022",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-performance-and-importance",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What does CPU word size refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The number of programs installed on a computer"
+      },
+      {
+        "id": "b",
+        "text": "The number of bits processed at a time"
+      },
+      {
+        "id": "c",
+        "text": "The physical size of the processor"
+      },
+      {
+        "id": "d",
+        "text": "The amount of storage on the hard disk"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u3-q023",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "cpu-performance-and-importance",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What does the number of CPU cores determine?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The size of the monitor"
+      },
+      {
+        "id": "b",
+        "text": "How many tasks can be processed simultaneously"
+      },
+      {
+        "id": "c",
+        "text": "The amount of electricity supplied to the computer"
+      },
+      {
+        "id": "d",
+        "text": "The number of files stored on the hard disk"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u3-q024",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "motherboard-architecture",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is a major function of the motherboard?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Printing documents"
+      },
+      {
+        "id": "b",
+        "text": "Providing pathways for data and power transfer"
+      },
+      {
+        "id": "c",
+        "text": "Producing sound independently"
+      },
+      {
+        "id": "d",
+        "text": "Displaying images without a monitor"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u3-q025",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "motherboard-architecture",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which motherboard component holds the processor securely in place?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Chipset"
+      },
+      {
+        "id": "b",
+        "text": "CPU socket"
+      },
+      {
+        "id": "c",
+        "text": "Expansion slot"
+      },
+      {
+        "id": "d",
+        "text": "Power connector"
+      }
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "m3-u3-q026",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "motherboard-architecture",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which motherboard component determines the maximum memory capacity of the system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Memory slots"
+      },
+      {
+        "id": "b",
+        "text": "Input/output ports"
+      },
+      {
+        "id": "c",
+        "text": "CPU socket"
+      },
+      {
+        "id": "d",
+        "text": "Power connectors"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u3-q027",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "motherboard-architecture",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What is the function of the chipset on the motherboard?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It controls data flow between the CPU, memory and peripheral devices"
+      },
+      {
+        "id": "b",
+        "text": "It stores permanent user files"
+      },
+      {
+        "id": "c",
+        "text": "It supplies electrical power directly from the wall socket"
+      },
+      {
+        "id": "d",
+        "text": "It displays images on the screen"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u3-q028",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "motherboard-architecture",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "Which of the following is an example of a device installed through an expansion slot?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Graphics card"
+      },
+      {
+        "id": "b",
+        "text": "Keyboard"
+      },
+      {
+        "id": "c",
+        "text": "Monitor"
+      },
+      {
+        "id": "d",
+        "text": "Mouse"
+      }
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "m3-u3-q029",
+    "module": "m3",
+    "unit": "m3-u3",
+    "topic": "motherboard-architecture",
+    "confidence": "high",
+    "type": "mcq",
+    "question": "What does the BIOS/UEFI chip store?",
+    "options": [
+      {
+        "id": "a",
+        "text": "User documents"
+      },
+      {
+        "id": "b",
+        "text": "Firmware"
+      },
+      {
+        "id": "c",
+        "text": "Application programs"
+      },
+      {
+        "id": "d",
+        "text": "Audio files"
+      }
+    ],
+    "answer": "b"
+  }
+]
